@@ -19,7 +19,7 @@
 
 ### MANUVIT社の興味深い商品群
 
-<img src="Images/IMG_6478.jpg" width="700">
+<img src="Images/IMG_6478.JPG" width="700">
 <img src="Images/IMG_20260423_115725.jpg" width="700">
 <img src="Images/IMG_20260423_122313.jpg" width="700">
 <img src="Images/IMG_20260423_141346.jpg" width="700">
