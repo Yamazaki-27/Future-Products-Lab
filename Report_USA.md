@@ -11,13 +11,14 @@
 ### 4：
 - **内容**: MODEX2026視察
 - **気づき**: 世界中（中国が多いが）のAMRメーカーが、最新テクノロジーを披露しており、驚かされた
-![MODEX2026のAMRの一つ](images/AMR.jpg)  <!-- 写真を表示する書き方 -->
+ <!-- 写真を表示する書き方 -->
+<img src="Images/AMR.jpg" width="700">
 
 ## 🇺🇸 アメリカ（アトランタ市内）
 ### 4：
 - **内容**: Waymo自動運転タクシー
 - **気づき**:  アトランタでは、既に当たり前として、無人運転タクシーが走っていた！！実際に乗車した
-![Waymo](images/Waymo.jpg)  <!-- 写真を表示する書き方 -->
+<img src="Images/Waymo.jpg" width="700">  <!-- 写真を表示する書き方 -->
 
 
 
@@ -33,11 +34,14 @@
 AMRは、他台数が、AIを使っていると思われる自律的制御で、
 人混みの中をかき分けて行く、といったこれまでなら、当然に無理、と言われていた機能を実現させていた
 
-いくつか、参考になるコンセプトも見つかった
-これを見た人には、先入観を持つことなく、何かを感じ取ってもらいたい
+いくつか、参考になるコンセプトも見つかった。
 
+以下、Googleフォトを見て下さい。
+先入観を持つことなく、何かを感じ取ってもらいたい
 そして、新しい何かをクリエイトしてもらいたい
 
 
-![Googleフォト by Yamaaki & Hashimoto](https://photos.google.com/share/AF1QipO0FKy_w4bY1tyxDldHkBFL6ZM-Io58QA-YOdLHJibxHHrzCf9K5cnpjcmbGDKbzg?key=ajZvT2hpYS1tN1F0UU5LTWFiSThhT2ZfRVJxUzJn)  <!-- 写真を表示する書き方 -->
+[![Googleフォト by Yamaaki & Hashimoto](https://photos.app.goo.gl/1BJDr9B2urpYixX78)](https://photos.app.goo.gl/1BJDr9B2urpYixX78)
+
+
 
