@@ -40,8 +40,9 @@ AMRは、他台数が、AIを使っていると思われる自律的制御で、
 先入観を持つことなく、何かを感じ取ってもらいたい
 そして、新しい何かをクリエイトしてもらいたい
 
+<!-- 
+[![Googleフォト by Yamaaki & Hashimoto](https://photos.app.goo.gl/1BJDr9B2urpYixX78)](<https://photos.app.goo.gl/1BJDr9B2urpYixX78>) -->
 
-[![Googleフォト by Yamaaki & Hashimoto](https://photos.app.goo.gl/1BJDr9B2urpYixX78)](<https://photos.app.goo.gl/1BJDr9B2urpYixX78>)
 
 
-
+[Googleフォト：Yamaaki & Hashimoto の写真を見る](https://photos.app.goo.gl/1BJDr9B2urpYixX78)
