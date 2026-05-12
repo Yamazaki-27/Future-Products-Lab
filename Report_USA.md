@@ -18,7 +18,7 @@
 ### 4：
 - **内容**: Waymo自動運転タクシー
 - **気づき**:  アトランタでは、既に当たり前として、無人運転タクシーが走っていた！！実際に乗車した
-<img src="Images/Waymo.jpg" width="700">  <!-- 写真を表示する書き方 -->
+<img src="Images/Waymo.JPG" width="700">  <!-- 写真を表示する書き方 -->
 
 
 
@@ -41,7 +41,7 @@ AMRは、他台数が、AIを使っていると思われる自律的制御で、
 そして、新しい何かをクリエイトしてもらいたい
 
 
-[![Googleフォト by Yamaaki & Hashimoto](https://photos.app.goo.gl/1BJDr9B2urpYixX78)](https://photos.app.goo.gl/1BJDr9B2urpYixX78)
+[![Googleフォト by Yamaaki & Hashimoto](https://photos.app.goo.gl/1BJDr9B2urpYixX78)](<https://photos.app.goo.gl/1BJDr9B2urpYixX78>)
 
 
 
