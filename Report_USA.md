@@ -46,3 +46,7 @@ AMRは、他台数が、AIを使っていると思われる自律的制御で、
 
 
 [Googleフォト：Yamaaki & Hashimoto の写真を見る](https://photos.app.goo.gl/1BJDr9B2urpYixX78)
+
+
+
+[PrimeVisionという会社の凄まじい制御技術](https://www.youtube.com/watch?v=u7x1d68cysA&t=43s)
