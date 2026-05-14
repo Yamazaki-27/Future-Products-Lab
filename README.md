@@ -25,7 +25,7 @@ GitHubにあげて、活用していきたいと考えています。<br>
 　Step1：先ずは、GitHub（Web上）で見てみる<br>
 　Step2：GitHub（Web上）で、Issusを立ち上げてみる（感想や質問など、なんでもオッケー）<br>
 　Step3：ローカルにcloneする<br>
-　Step4：Gitでbranchをきって、自分の名前でファイルを作成する（yamazaki.md）<br>
+　Step4：Gitでbranchをきって、自分の名前でファイルを作成し、感想を簡潔に記述する（yamazaki.md）<br>
 　Step5：GitHubにpushする<br>
 　Step6：本リポジトリの管理者である部長が、PullRequestを承認する<br>
 　Step7：GitHub上に反映されていることを確認したら、pullでローカルを最新版にする<br>
