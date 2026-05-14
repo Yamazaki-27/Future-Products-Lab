@@ -101,8 +101,33 @@ git push --force<br>
 <br>
 <br>
 <br>
-
-
+🚀git pullについて<br>
+基本的には、これでリモートの最新版を引っ張ってきて上書きするはず<br>
+<br>
+ローカルの現在ブランチに「どのリモートブランチを追跡するか（tracking）」設定されていない
+という状況もあります<br>
+<br>
+その場合は、<br>
+<br>
+git branch<br>
+<br>
+おそらく * main になっていると思います。<br>
+その場合は、以下を1回実行すればOKです。<br>
+<br>
+git branch --set-upstream-to=origin/main main<br>
+<br>
+git pull<br>
+<br>
+一発で済ませるなら、こちらでもOKです。<br>
+git pull origin main<br>
+ただし毎回指定が必要になるので、通常は upstream を設定しておくのがおすすめです。<br>
+<br>
+git branch -vv<br>
+成功すると、こんな感じになります。<br>
+* main  fd021f2 [origin/main] ...<br>
+<br>
+<br>
+<br>
 🚀① Pull Requestの“通る書き方”（実務テンプレ）<br>
 🔹基本構成（これだけでOK）<br>
 ■目的<br>
