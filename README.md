@@ -1,5 +1,8 @@
 ## 出張報告書
 
+<img src="2026May-Computex/Imaages/Computex2026.png" width="700"><br>
+<br>
+
 | 出張先 | 報告書 |
 |--------|--------|
 | 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
@@ -42,21 +45,6 @@ GitHubにあげて、活用していきたいと考えています。<br>
 練習がてら、挑戦していきましょう<br>
 よろしくお願いしますね<br>
 <br>
-<br>
----
-
-## 出張報告書
-
-<img src="2026May-Computex/Imaages/Computex2026.png" width="700"><br>
-<br>
-
-| 出張先 | 報告書 |
-|--------|--------|
-| 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
-| 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
-| 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
-
----
 <br>
 <br>
 <br>
