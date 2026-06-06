@@ -261,16 +261,16 @@ AIエージェントが自律的に複数のタスクを判断・実行する仕
 
 | # | テーマ | 概要 | 技術キーワード |
 |---|--------|------|-------------|
-| 1 | **AI搭載 次世代AGV／AMRプラットフォーム** | 30年前のシーケンサー制御から脱却し、Physical AI搭載の自律型搬送ロボットへ移行 | Physical AI, SLAM, LiDAR |
-| 2 | **機械視覚×IoT 品質検査システム** | AI画像認識で製品検査を自動化。モジュール式エッジデバイスと連携したリアルタイム不良品検知 | Machine Vision, Edge AI |
-| 3 | **製造現場 作業者動線・安全監視 AIカメラシステム** | スマートセンシング技術を活用した工場内人流解析・ヒヤリハット自動検知。SME向け低コスト展開 | AI Camera, IoT, Edge Computing |
-| 4 | **エッジAI搭載 予知保全センサーモジュール** | 機械の振動・温度・音をリアルタイム解析し故障を事前予測。SaaS型提供 | Predictive Maintenance, Edge AI |
-| 5 | **AI×標準作業管理デジタルプラットフォーム** | 既存ExcelマクロベースのIoT標準作業管理シートをAIで進化させSaaS化。中小製造業向けDXツール | SaaS, IoT, AI, 標準作業 |
-| 6 | **スマートAMR×製造ライン統合制御システム** | AMRと生産管理システムをAIで統合し、工場全体の搬送を自動最適化 | AMR, MES連携, AI Optimization |
-| 7 | **協働ロボット×IoT 柔軟製造セル** | 台湾系6軸協働ロボットアームにエッジAIを組み合わせた中小製造業向けフレキシブル生産セル | Cobot, Edge AI, Flexible Manufacturing |
-| 8 | **製造現場向け 生成AI ナレッジ管理システム** | 熟練技術者の暗黙知・技術継承をAIが自動抽出・構造化。IE人材育成と技術承継の両立を実現 | Generative AI, Knowledge Management |
-| 9 | **工場エネルギー最適化 AIシステム** | 工場内電力・空調・機械稼働データをIoTで収集しAI分析。省エネ提案＋カーボンニュートラル対応 | Energy AI, IoT, Carbon Neutral |
-| 10 | **AIエージェント型 工場デジタルツイン** | 工場全体をデジタル空間で再現し、AIが生産計画・設備配置・搬送ルートをリアルタイム最適化 | Digital Twin, AI Agent, Optimization |
+| 1 | 🤖 **AI搭載 次世代AGV／AMRプラットフォーム** | 30年前のシーケンサー制御から脱却し、Physical AI搭載の自律型搬送ロボットへ移行 | Physical AI, SLAM, LiDAR |
+| 2 | 🔍 **機械視覚×IoT 品質検査システム** | AI画像認識で製品検査を自動化。モジュール式エッジデバイスと連携したリアルタイム不良品検知 | Machine Vision, Edge AI |
+| 3 | 📹 **製造現場 作業者動線・安全監視 AIカメラシステム** | スマートセンシング技術を活用した工場内人流解析・ヒヤリハット自動検知。SME向け低コスト展開 | AI Camera, IoT, Edge Computing |
+| 4 | ⚡ **エッジAI搭載 予知保全センサーモジュール** | 機械の振動・温度・音をリアルタイム解析し故障を事前予測。SaaS型提供 | Predictive Maintenance, Edge AI |
+| 5 | 📊 **AI×標準作業管理デジタルプラットフォーム** | 既存ExcelマクロベースのIoT標準作業管理シートをAIで進化させSaaS化。中小製造業向けDXツール | SaaS, IoT, AI, 標準作業 |
+| 6 | 🏭 **スマートAMR×製造ライン統合制御システム** | AMRと生産管理システムをAIで統合し、工場全体の搬送を自動最適化 | AMR, MES連携, AI Optimization |
+| 7 | 🦾 **協働ロボット×IoT 柔軟製造セル** | 台湾系6軸協働ロボットアームにエッジAIを組み合わせた中小製造業向けフレキシブル生産セル | Cobot, Edge AI, Flexible Manufacturing |
+| 8 | 🧠 **製造現場向け 生成AI ナレッジ管理システム** | 熟練技術者の暗黙知・技術継承をAIが自動抽出・構造化。IE人材育成と技術承継の両立を実現 | Generative AI, Knowledge Management |
+| 9 | 🌱 **工場エネルギー最適化 AIシステム** | 工場内電力・空調・機械稼働データをIoTで収集しAI分析。省エネ提案＋カーボンニュートラル対応 | Energy AI, IoT, Carbon Neutral |
+| 10 | 🏗️ **AIエージェント型 工場デジタルツイン** | 工場全体をデジタル空間で再現し、AIが生産計画・設備配置・搬送ルートをリアルタイム最適化 | Digital Twin, AI Agent, Optimization |
 
 ---
 
