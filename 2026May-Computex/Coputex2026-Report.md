@@ -145,9 +145,6 @@ AIに話しかけて工場の状況を確認できる点が面白かった。
 <img src="Imaages/Report/IMG_7124.JPG" width="700"><br>
 ▲ 「Boost Factory Efficiency With Digital Twins」。Wistronの工場をデジタル空間で再現し、NVIDIA OmniverseとNemotronでリアルタイム最適化するデモ。
 
-<img src="Imaages/Report/IMG_7321.jpg" width="700"><br>
-▲ 同デモのアップ。ロボットアームの動作・設備状態・タスクキューがひと画面で可視化されている。
-
 「いまいち信じられないが、これもやがて当たり前になっていくのか」というのが正直な感想だ。
 
 #### ③ インターネット不要のAIエージェント
