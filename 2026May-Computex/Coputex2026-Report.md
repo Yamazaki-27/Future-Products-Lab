@@ -88,7 +88,6 @@
 
 担当者と話していて、印象的な一言があった。
 
-<img src="Imaages/Report/oToBrite.pdf" width="700"><br>
 > **「LiDARより高精度です」**
 
 これは、かなり大胆な主張だ。少し補足しておく。
