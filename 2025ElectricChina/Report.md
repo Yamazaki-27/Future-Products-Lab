@@ -164,7 +164,7 @@ EPほかの電動車メーカーも、上海近郊に拠点があり、当然に
 
 
 
-<img src="Photos_Used/Tenshin2.jgp" width="480"><br>
+<img src="Photos_Used/Tenshin2.jpg" width="480"><br>
 *[どれもうまくて安い。学書もまた未来ある学生への投資の一貫]*
 
 <img src="Photos_Used/Tenshin3.jpg" width="480"><br>
