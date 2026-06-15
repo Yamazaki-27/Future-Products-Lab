@@ -7,6 +7,7 @@
 | 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
+| 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
 <br>
 ---
 
@@ -16,6 +17,7 @@ Profil、写真、コメント、、、<br>
 何らかの手段で、個人が特定できるようにして下さい。<br>
 誰なのか分からないのは、困りますからね。<br>
 ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢<br>
+
 
 このGitHubリポジトリは、<br>
 ２０２６年４月に、山崎部長が橋本GMとの同行にて、<br>
