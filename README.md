@@ -177,6 +177,15 @@ git push --force<br>
 git pull --rebase<br>
 <br>
 
+<br>
+pullするのを忘れて、ローカルを編集してしまって、整合性がなくなってしまったとき、
+以下の２つで、ローカルの編集は活かしたまま、リモートの変更を反映させることが出来る。
+
+git fetch origin<br>
+git merge origin/main  <br>
+<br>
+
+
 リベースで解決する（履歴を一本にまとめたい場合）ローカルの変更を、リモートの最新コミットの「後ろ」に付け替えます。コミット履歴が綺麗に一直線になります。
 <br>
 git pull --rebase<br>
