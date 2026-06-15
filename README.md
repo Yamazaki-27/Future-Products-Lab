@@ -1,7 +1,6 @@
 ## 出張報告書
 
-<img src="2026May-Computex/Imaages/Computex2026.png" width="700"><br>
-<br>
+
 
 | 出張先 | 報告書 |
 |--------|--------|
@@ -9,7 +8,8 @@
 | 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
-
+<img src="Images/DevelopExhibition.png" width="1000">  <br>
+<br>
 ---
 
 ▢▢▢▢▢▢　注意！　▢▢▢▢▢<br>
