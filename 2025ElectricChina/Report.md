@@ -153,7 +153,7 @@ EPほかの電動車メーカーも、上海近郊に拠点があり、当然に
 
 一方では、天津大学を出ても就職出来ない者もいるとか。ハノイ大学とかでも同じ話を聞いたことがある。なるほど、色々と考えさせられる。
 
-<img src="Photos_Used/Tenshin1.JPG" width="480"><br>
+<img src="Photos_Used/Tenshin1.jpg" width="480"><br>
 *天津市内の大学正門前*
 
 ### 天津マーケティングリサーチ
@@ -164,16 +164,16 @@ EPほかの電動車メーカーも、上海近郊に拠点があり、当然に
 
 
 
-<img src="Photos_Used/Tenshin2.JPG" width="480"><br>
-*[学食、どれもうまくて安い。学生への投資の一貫とのこと]*
+<img src="Photos_Used/Tenshin2.jgp" width="480"><br>
+*[どれもうまくて安い。学書もまた未来ある学生への投資の一貫]*
 
-<img src="Photos_Used/Tenshin3.JPG" width="480"><br>
+<img src="Photos_Used/Tenshin3.jpg" width="480"><br>
 *[天津大学の教授気分]*
 
-<img src="Photos_Used/Tenshin4.JPG" width="480"><br>
+<img src="Photos_Used/Tenshin4.jpg" width="480"><br>
 *[ALIpayでレンタル自転車に乗ってみた]*
 
-<img src="Photos_Used/Tenshin5.JPG" width="480"><br>
+<img src="Photos_Used/Tenshin5.jpg" width="480"><br>
 *[ショッピングセンターのレストランは、うまい！]*
 
 <img src="Photos_Used/IMG_1908.JPG" width="480"><br>
