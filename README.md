@@ -1,5 +1,6 @@
-## 出張報告書
 <img src="Images/DevelopExhibition.png" width="900">  <br>
+
+## 出張報告書
 
 | 出張先 | 報告書 |
 |--------|--------|
