@@ -478,11 +478,11 @@ MANULIFTの2SEは、オペレーターが乗り込んで立作業ができるコ
 ２０２６年の物流展に向けて、サンプル購入することとなる。
 
 
-<img src="./Images/L-IMS3.JPG" width="800">
+<img src="./Images/L-IMS3.jpg" width="800">
 
 *フランスの代理店ＩＭＳのビンセントと記念撮影*
 
-<img src="./Images/L-IMS2.JPG" width="800">
+<img src="./Images/L-IMS2.jpg" width="800">
 
 *なんと６ｔ～１０ｔまで対応する牽引車でなかなかかっこ良い*
 
