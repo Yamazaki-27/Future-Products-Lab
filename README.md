@@ -214,6 +214,8 @@ git merge origin/main  <br>
 リベースで解決する（履歴を一本にまとめたい場合）ローカルの変更を、リモートの最新コミットの「後ろ」に付け替えます。コミット履歴が綺麗に一直線になります。
 <br>
 git pull --rebase<br>
+or<br>
+git pull origin main --rebase<br>
 <br>
 ローカルの現在ブランチに「どのリモートブランチを追跡するか（tracking）」設定されていない
 という状況もあります<br>
