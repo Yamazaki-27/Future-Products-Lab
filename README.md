@@ -4,12 +4,12 @@
 
 | 出張先 | 報告書 |
 |--------|--------|
+| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMAT/Report.md) |
+| 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
 | 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
 | 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
-| 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
-| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMAT/Report.md) |
 | 🇯🇵 **日本（Robot Technology Japan26 2026 ／ Aichi Sky Expo）** | [**RobotTechnologyJapan2606-Report.md を見る**](2026RobotTechnologyJapan26/RobotTechnologyJapan2606-Report.md) 
 
 <br>
