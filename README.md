@@ -1,4 +1,4 @@
-<img src="Images/DevelopExhibition.png" width="900">  <br>
+<img src="Images/ChatGPT Image 2026年6月16日 10_06_32.jpg" width="900">  <br>
 
 ## 出張報告書
 
