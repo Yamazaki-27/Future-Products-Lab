@@ -4,7 +4,7 @@
 
 | 出張先 | 報告書 |
 |--------|--------|
-| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMAT/Report.md) |
+| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMat/Report.md) |
 | 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
 | 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
 | 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
@@ -14,6 +14,8 @@
 
 <br>
 ---
+
+2025LogiMat/Report.md
 
 ▢▢▢▢▢▢　注意！　▢▢▢▢▢<br>
 Issuesなど、アップする場合には、<br>
