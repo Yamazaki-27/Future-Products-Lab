@@ -154,7 +154,7 @@ DMPブースを訪問した。
 
 ### 1-8. マブチモーター — 超小型ブラシレスモータ「Thumbelina」
 
-<img src="images/okumura/mabuchi_brushless.jpg" alt="マブチモーター 小型ブラシレス" width="600"><br>
+<img src="images/okumura/motor.jpg" alt="マブチモーター 小型ブラシレス" width="600"><br>
 
 
 超小型モータ（**Thumbelina**シリーズ）を使ったネジ駆動装置。
@@ -388,7 +388,6 @@ NPN出力 ↔ PNP出力を互いに変換するコンパクトなユニット。
 
 ### 物流ロボット（Airion）
 
-![Airion ヒューマノイド物流ロボット](images/okumura/humanoid_airion.png)
 <img src="images/okumura/humanoid_airion.jpg" alt="Airion ヒューマノイド物流ロボット" width="450"><br>
 
 少し先の物流向け次世代製品の一例。AMR上にヒューマノイドアームを搭載した構成。
