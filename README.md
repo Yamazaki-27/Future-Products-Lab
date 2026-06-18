@@ -6,11 +6,13 @@
 |--------|--------|
 | 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMat/Report.md) |
 | 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
+| 🇯🇵 **日本（生成AI World・ロボット展示会 2025 ／ 名古屋）** | [**Report.md を見る**](2025生成AI-World/Report.md) |
 | 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
 | 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
-| 🇯🇵 **日本（Robot Technology Japan26 2026 ／ Aichi Sky Expo）** | [**RobotTechnologyJapan2606-Report.md を見る**](2026RobotTechnologyJapan26/RobotTechnologyJapan2606-Report.md) 
+| 🇯🇵 **日本（Robot Technology Japan26 2026 ／ Aichi Sky Expo）** | [**RobotTechnologyJapan2606-Report.md を見る**](2026RobotTechnologyJapan26/RobotTechnologyJapan2606-Report.md) |
+| 🇯🇵 **日本（Diet & Beauty Fair 2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](%202025Diet%26BeautyFair/Report.md) |
 
 <br>
 ---
