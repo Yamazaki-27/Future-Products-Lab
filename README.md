@@ -4,7 +4,7 @@
 
 | 出張先 | 報告書 |
 |--------|--------|
-| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMat/Report.md) |
+| 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMAT/Report.md) |
 | 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
 | 🇯🇵 **日本（生成AI World・ロボット展示会 2025 ／ 名古屋）** | [**Report.md を見る**](2025生成AI-World/Report.md) |
 | 🇨🇳 **中国（ヤスイ工場・EP社・鈴木研磨 2025 ／ 大連・杭州）** | [**Report.md を見る**](202511YASUI-EP-鈴木研磨/Report.md) |
@@ -17,8 +17,6 @@
 
 <br>
 ---
-
-2025LogiMat/Report.md
 
 ▢▢▢▢▢▢　注意！　▢▢▢▢▢<br>
 Issuesなど、アップする場合には、<br>
