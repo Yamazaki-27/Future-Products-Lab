@@ -13,6 +13,7 @@
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
 | 🇯🇵 **日本（Robot Technology Japan26 2026 ／ Aichi Sky Expo）** | [**RobotTechnologyJapan2606-Report.md を見る**](2026RobotTechnologyJapan26/RobotTechnologyJapan2606-Report.md) |
 | 🇯🇵 **日本（Diet & Beauty Fair 2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](%202025Diet%26BeautyFair/Report.md) |
+| 🇯🇵 **日本（九州国際物流展2026 ／ マリンメッセ福岡）** | [**Report.md を見る**](2026九州国際物流展/Report.md) |
 
 <br>
 ---
