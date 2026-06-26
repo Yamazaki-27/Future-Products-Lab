@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(*)",
+      "Write(*)",
+      "Bash(sips:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(curl:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(stat:*)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(git:*)",
+      "Bash(python3:*)",
+      "Bash(sed:*)",
+      "Bash(echo:*)"
+    ],
+    "deny": []
+  }
+}
