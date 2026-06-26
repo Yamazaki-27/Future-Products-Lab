@@ -15,6 +15,7 @@
 | 🇯🇵 **日本（Diet & Beauty Fair 2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](%202025Diet%26BeautyFair/Report.md) |
 | 🇯🇵 **日本（九州国際物流総合展2026 ／ マリンメッセ福岡）** | [**Report.md を見る**](202606-InnovationEXPO/Report.md) |
 | 🇯🇵 **日本（国際オートアフターマーケットEXPO 2026 ／ 東京ビッグサイト）** | [**Report.md を見る**](202602AfterMark/Report.md) |
+| 🇯🇵 **日本（2025国際ロボット展 iREX2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](202512-InterRobot/Report.md) |
 
 <br>
 ---
