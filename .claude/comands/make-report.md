@@ -19,22 +19,22 @@
 - 追記する際は、追記ブロックの**先頭**に以下の形式で目印を入れる（`git config user.name` と現在日時を取得して埋める）：
 
 ```
-<hr style="border: 3px solid {COLOR}; margin: 2em 0;">
-<p style="color:{COLOR}; font-weight:bold; font-size:1.1em;">▼ 追記（アカウント名 yy/mm/dd）</p>
+{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}
+<font color="{COLOR}"><b>▼ 追記（アカウント名 yy/mm/dd）</b></font>
 ```
 
 - 追記ブロックの**末尾**にも閉じ線を入れる：
 
 ```
-<hr style="border: 1px dashed {COLOR}; margin: 2em 0;">
+{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}{EMOJI}
 ```
 
-- **追記のたびに色を変えること**。既存の追記マーカーの色を確認し、以下の順番で次の色を使う：
-  1. `#e74c3c`（赤）
-  2. `#2980b9`（青）
-  3. `#27ae60`（緑）
-  4. `#e67e22`（オレンジ）
-  5. `#8e44ad`（紫）
+- **追記のたびに色を変えること**。既存の追記マーカーを確認し、以下の順番で次の色・絵文字を使う（GitHub は style属性を除去するため、`<font color="">` と絵文字ブロックで色を表現する）：
+  1. 🟥 `#e74c3c`（赤）
+  2. 🟦 `#2980b9`（青）
+  3. 🟩 `#27ae60`（緑）
+  4. 🟧 `#e67e22`（オレンジ）
+  5. 🟪 `#8e44ad`（紫）
   - 5色使い切ったら赤に戻る
 
 ## 不明な点の扱い
@@ -46,6 +46,14 @@
 - 動画ファイル（.MOV / .MP4 / .AVI 等）がある場合は削除する
 - 全枚使用・省略しない（ただし、同一内容で角度違いのみの写真は採用しない）
 - **全写真を先に** 横幅800ピクセル程度の .jpg に変換する（sips コマンドで処理）。この処理はリサイズ前に unUsed へ移動しないよう、必ず採否判断より先に行う
+- sips でリサイズする際は、**ファイルのタイムスタンプを必ず保持する**こと。リサイズ前に `mtime` を記録し、リサイズ後に `touch` で復元する：
+  ```bash
+  for f in Images/*.JPG Images/*.jpg; do
+    ts=$(date -r "$f" +"%Y%m%d%H%M.%S")
+    sips -Z 800 "$f"
+    touch -t "$ts" "$f"
+  done
+  ```
 - 採用しなかった写真は、リサイズ済みのものを imagesフォルダー内に unUsed フォルダーを作成して移動させる
 - 話の流れに沿って挿入
 - 写真1〜2枚＋説明3行以内をセットで配置

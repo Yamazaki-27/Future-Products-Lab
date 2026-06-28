@@ -5,17 +5,18 @@
 | 出張先 | 報告書 |
 |--------|--------|
 | 🇩🇪 **ドイツ（LogiMAT 2025 ／ シュトゥットガルト）** | [**Report.md を見る**](2025LogiMat/Report.md) |
+| 🇯🇵 **日本（2025国際ロボット展 iREX2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](202512-InterRobot/Report.md) |
+| 🇯🇵 **日本（Diet & Beauty Fair 2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](%202025Diet%26BeautyFair/Report.md) |
 | 🇨🇳 **中国（Electric China 2025 ／ 上海・天津）** | [**Report.md を見る**](2025ElectricChina/Report.md) |
+| 🇯🇵 **日本（国際オートアフターマーケットEXPO 2026 ／ 東京ビッグサイト）** | [**Report.md を見る**](202602AfterMark/Report.md) |
 | 🇯🇵 **日本（生成AI World・ロボット展示会 2025 ／ 名古屋）** | [**Report.md を見る**](2025生成AI-World/Report.md) |
-| 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
-| 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇹🇼 **台湾（Computex 2026 ／ 台北）** | [**Coputex2026-Report.md を見る**](2026May-Computex/Coputex2026-Report.md) |
 | 🇯🇵 **日本（Interop Tokyo 2026 ／ 幕張メッセ）** | [**Interop26-Report.md を見る**](202606Interop26/Interop26-Report.md) |
+| 🇺🇸 アメリカ（MODEX 2026 ／ アトランタ） | [Report_USA.md を見る](Report_USA.md) |
+| 🇪🇺 ヨーロッパ | [Report_EURO.md を見る](Report_EURO.md) |
 | 🇯🇵 **日本（Robot Technology Japan26 2026 ／ Aichi Sky Expo）** | [**RobotTechnologyJapan2606-Report.md を見る**](2026RobotTechnologyJapan26/RobotTechnologyJapan2606-Report.md) |
-| 🇯🇵 **日本（Diet & Beauty Fair 2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](%202025Diet%26BeautyFair/Report.md) |
 | 🇯🇵 **日本（九州国際物流総合展2026 ／ マリンメッセ福岡）** | [**Report.md を見る**](202606-InnovationEXPO/Report.md) |
-| 🇯🇵 **日本（国際オートアフターマーケットEXPO 2026 ／ 東京ビッグサイト）** | [**Report.md を見る**](202602AfterMark/Report.md) |
-| 🇯🇵 **日本（2025国際ロボット展 iREX2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](202512-InterRobot/Report.md) |
+| 🇯🇵 **日本（第38回 オートサービスショー2025 ／ 東京ビッグサイト）** | [**Report.md を見る**](202506-ASS/Report.md) |
 
 <br>
 ---
