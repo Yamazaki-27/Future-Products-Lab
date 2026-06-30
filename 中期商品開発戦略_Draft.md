@@ -27,6 +27,13 @@
 
 ### 柱1：次世代AMR/AGV ─ 「脱LiDAR・カメラ主軸」への転換
 
+<br>
+<p>
+<img src="Knowledge/oToBrite-camera.JPG" width="390">
+<img src="Knowledge/Inventec-iUGV.JPG" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：Computex2026 oToBriteブース。ステレオカメラ＋AIで「奥行き」をリアルタイムに把握する技術。右：Inventec×NVIDIA共同開発の自律AMR「iUGV」。NVIDIA Jetson AGX Orinをエッジ頭脳として搭載。</p>
+
 - **方向性**：ステレオカメラ＋Vision AI（oToBrite型）とNVIDIA Jetson/Isaacプラットフォームを軸に、現行AGV/AMRの後継機を設計。LiDAR前提を一度外し、コストダウンと「カメラだけ」という訴求軸を商品コンセプトに据える。
 - **短期（〜1年）**：
   - 現在進行中のIDEC・DMPとのコラボに、Inventec（iUGV／NVIDIA Orin NX・CANBus・RS485・LFP）をベンチマークとして接続。来週予定のメールコンタクトを足がかりに提携可能性を検証。
@@ -37,6 +44,13 @@
 
 ### 柱2：スマートリフト／フォークリフト ─ 点検・状態センシングの製品化
 
+<br>
+<p>
+<img src="Knowledge/SORABITO-TakumiX.JPG" width="390">
+<img src="Knowledge/ALPSystems-serverLIFT.JPG" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">左：Computex2026 SORABITOブース。フォークリフト年次点検を行政認可済みでWeb完結させる「TakumiX」。右：Interop Tokyo 2026 ALPSystemsブース。データセンター専用サーバーリフト「SL-500X」実機。</p>
+
 - **方向性**：リフト・フォークリフトという当社の本業に、「点検のデジタル化」「現場の状態（人・荷・機械）の可視化」を組み込み、ハード＋点検SaaS／センシングのセット提案に転換する。
 - **具体施策**：
   - **点検デジタル化提携**：SORABITO（TakumiX／フォークリフト年次点検の行政認可済みWebシステム）との協業を本格検討。EP・トラバー電動走行タイプを対象に、点検記録のデジタル化をリフト本体の標準オプション化。
@@ -45,6 +59,10 @@
   - **データセンター専用リフト（ServerLift型）**：ALPSystems serverLIFTを参考に、クリーン度・静電気・耐荷重要件をクリアした専用機を新規開発。スーパーニッチでのNo.1ポジションを狙う中期の柱として明確に予算化する。
 
 ### 柱3：画像認識AI基盤＋現場ハードへの実装力の内製化
+
+<br>
+<img src="Knowledge/NVIDIA-VisualAI.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">Computex2026 NVIDIA TICCショーケース「Automate Industrial Workflows With Visual AI Agents」。カメラ映像からSOP逸脱をリアルタイム検知するシステムで、NemoClaw・VSS Skills・Jetson Thorを組み合わせる。</p>
 
 - **方向性**：roboflow等のクラウド型Vision AI基盤を使い、パレット・人物・設備状態の認識モデルを社内で継続的に作れる体制を作る。Hailo-8等のエッジAIチップ搭載「タフなPC」を組み合わせ、現場で壊れずに動くAI実装をセットで設計する。
 - **具体施策**：
