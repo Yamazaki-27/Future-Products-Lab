@@ -41,6 +41,50 @@
 | 2026年7月1日 | [老朽化インフラ 新商品提案（IoTなし）](202606社会資本整備/老朽化インフラ_新商品提案_IoTなし_20260701.md) | 山崎（/infra-mente） |
 
 <br>
+
+---
+
+## 知識ベース（Knowledge Base）
+
+展示会・出張レポートから抽出した技術テーマ・企業情報・市場変化・商品開発アイデアの蓄積。
+
+### 技術テーマ（Knowledge/）
+
+| カテゴリ | ファイル | 概要 |
+|---|---|---|
+| AMR | [AMRのコモディティ化](Knowledge/AMR/Commoditization.md) | 中国・インド・韓国・米国・オランダの競合動向。差別化軸の変化 |
+| ASRS | [シャトルシステム](Knowledge/ASRS/ShuttleSystem.md) | 棚登り型・シャトル型 ASRS の動向（HAI Robotics・ZS Robotics 他）|
+| Lift | [シザーリフト グローバルトレンド](Knowledge/Lift/ScissorLift_GlobalTrends.md) | Southworth 等グローバル競合・サブスク販売・安全機能強化 |
+| Safety | [後方倒れ止め（手動ハンド用）](Knowledge/Safety/RearGuard_HandPallet.md) | 安全安心パック追加候補。橋本 GM 正式提案予定 |
+| Logistics | [トレーラー荷役自動化](Knowledge/Logistics/TrailerLoading_Automation.md) | Slip Robotics・LIFTPOINT・Superior Lifts の「最後のフィート」解決策 |
+| Humanoid | [ヒューマノイドの物流展示](Knowledge/Humanoid/Humanoid_Logistics.md) | Apptronik・Boston Dynamics。まだ実用段階ではないが物流展に登場 |
+
+### 企業情報（Companies/）
+
+| 企業名 | ファイル | 関係性 |
+|---|---|---|
+| SEER Robotics | [SEER_Robotics.md](Companies/SEER_Robotics.md) | DMP 名義で名刺交換済み。継続情報交換対象 |
+| STAX | [STAX.md](Companies/STAX.md) | 低価格電動車。将来の価格戦略オプション（橋本 GM 担当）|
+| DEXORY | [DEXORY.md](Companies/DEXORY.md) | 英国。在庫スキャンロボット（Storage Health）|
+| Southworth | [Southworth.md](Companies/Southworth.md) | 米国。**スギヤスの直接競合**（シザーリフト・ティルター）|
+| BIC | [BIC.md](Companies/BIC.md) | 田島さんチーム。Ramon のテーブルリフト Amazon 案件 |
+
+### トレンド（Trends/）
+
+| ファイル | 内容 |
+|---|---|
+| [2026年トレンド](Trends/2026.md) | AMR コモディティ化・ヒューマノイド・サブスク販売・安全機能強化 他 8 項目 |
+
+### アイデア（Ideas/）
+
+| ファイル | アイデア概要 |
+|---|---|
+| [DR 自動搬送システム](Ideas/DR_AutoTransport_System.md) | ゴミ箱反転搬送コンセプトを DR 購入顧客への横展開に応用 |
+| [安全安心パック：後方倒れ止め](Ideas/Safety_Pack_RearGuard.md) | 手動ハンドへの後方倒れ止め追加。単価引き上げ貢献 |
+| [パレット段積み装置 国内市場投入](Ideas/Pallet_Stacker_Market.md) | ガスダンパー方式の段積み装置。「機が熟す頃」（Nippou）|
+
+<br>
+
 ---
 
 2025LogiMat/Report.md
