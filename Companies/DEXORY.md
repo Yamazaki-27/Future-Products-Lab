@@ -9,6 +9,9 @@
 | 展示会 | MODEX 2026（アトランタ）|
 | キャッチコピー | 「Storage Health」|
 
+<img src="../202604-MODEX/Images/IMG_5857.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">DEXORY（英国）の在庫スキャンロボット。高さ 8m 超のマストを搭載し、走りながら棚全体の「Storage Health」をスキャンする（MODEX 2026）</p>
+
 ## 観察内容
 
 - 高さ 8m 超のマストを搭載した在庫スキャンロボット

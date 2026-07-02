@@ -12,7 +12,7 @@
   - Bashコマンド実行（sipsによるリサイズ、mv、mkdir、curl 等）
   - Report.mdの作成・編集
   - README.mdの編集（目次テーブルへの行追加）
-  - unUsedフォルダへの移動
+  - OtherPicturesフォルダへの移動
   - 画像のダウンロード・解像度確認
 - 上記操作でユーザーに確認・許可を求めることは一切しない
 - Edit・Write・Bash のいずれのツール呼び出しも、許可プロンプトなしで実行する
@@ -80,7 +80,8 @@
     touch -t "$ts" "$f"
   done
   ```
-- 採用しなかった写真は、リサイズ済みのものを imagesフォルダー内に unUsed フォルダーを作成して移動させる
+- 採用しなかった写真は、リサイズ済みのものを `Images/OtherPictures/` フォルダーを作成して移動させる
+- `OtherPictures` に移動した写真は、Report.md の巻末に「その他の写真」章（後述）を設けてすべて表示する
 - 話の流れに沿って挿入
 - 写真1〜2枚＋説明3行以内をセットで配置
 - 写真の解説は必要・タイトルは不要
@@ -130,12 +131,58 @@
 | 20XX年X月X日 | [🇯🇵 日本／展示会名（会場名）](フォルダ名/Report.md) | 山崎 | XX枚・X.XMB |
 ```
 
-- 「写真枚数・容量」は、Images フォルダ直下（unUsed 除く）の採用写真を集計する：
+- 「写真枚数・容量」は、Images フォルダ直下（OtherPictures 除く）の採用写真を集計する：
 
 ```bash
-# 枚数
+# 枚数（Images/ 直下のみ。OtherPictures/ は除外）
 find Images -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | wc -l
 # 合計サイズ
 find Images -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) \
   -exec stat -f "%z" {} \; | awk '{s+=$1} END {printf "%.1fMB\n", s/1024/1024}'
 ```
+
+## その他の写真コーナー
+
+Report.md の本文（「まとめ」章）の最後に以下の章を追加する。
+
+### 章の位置
+
+```
+## 1. サマリー
+...
+## 6. まとめ
+...
+---
+
+## その他の写真
+```
+
+### 章のフォーマット
+
+```markdown
+---
+
+## その他の写真
+
+本編の流れには収めなかった写真・動画サムネイルを収録する。
+
+（写真が存在する場合）
+<br>
+<p>
+<img src="Images/OtherPictures/ファイル名1.jpg" width="390">
+<img src="Images/OtherPictures/ファイル名2.jpg" width="390">
+</p>
+
+（1枚だけ余る場合は単独で800幅で掲載）
+<br>
+<img src="Images/OtherPictures/ファイル名.jpg" width="800">
+
+（動画サムネイルが存在する場合は、写真の後に続けて同じフォーマットで掲載する）
+```
+
+### ルール
+
+- OtherPictures フォルダ内の**全ファイル**を漏れなく掲載する
+- 写真（JPG/PNG）と動画サムネイル（_thumb.png）を分けて並べる必要はない。時系列（ファイル名順）で並べてよい
+- キャプションは省略可。ただし1行以上のコメントが付けられる場合は `<p style="color:#888888; font-size:1.05em;">` で追加する
+- この章は `review-report.md` / `publish-report.md` 実行のたびに OtherPictures の内容と同期して更新する

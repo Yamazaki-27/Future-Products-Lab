@@ -5,6 +5,9 @@
 ASRS（Automated Storage and Retrieval System）の中でも、棚登り型・シャトル型が MODEX 2026 で多数出展。
 AMR と ASRS の境界があいまいになり、一体型システムとして提案されるケースが増えた。
 
+<img src="../../202604-MODEX/Images/IMG_20260414_114350.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">ZS Robotics（中国）ブース正面。「0 PROJECT FAILURE RATE / 5 min NEW SHUTTLE DEPLOYMENT / 100% GLOBAL COMPLIANCE」を謳うシャトル型 ASRS メーカー（MODEX 2026）</p>
+
 ## MODEX 2026 での観察
 
 - HAI Robotics（中国）：ACR（Autonomous Case-handling Robot）が格子状の棚内を自律走行。天井近くまで積み上がった青いビンが圧巻

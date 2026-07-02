@@ -70,7 +70,7 @@
 - `CHANGELOG.md`（存在しない場合は作成）
 - `edit_log.md`（存在する場合）
 - `images/` または `Images/`
-- `unused_images/` または `unUsed/`
+- `Images/OtherPictures/`（または `images/OtherPictures/`）
 - `Nippou.txt`（必要に応じて）
 - その他Markdownファイル
 
@@ -311,14 +311,26 @@ README.md が存在する場合、以下を確認する。
 
 ### 9.2 写真枚数・容量
 
-採用写真数と容量を確認する。
+採用写真数と容量を確認する（`OtherPictures/` は除外した本編掲載分のみ）。
 
 ```bash
+# Images/ 直下のみ（OtherPictures/ サブフォルダを除外）
 find Images -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | wc -l
 find Images -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) -exec stat -f "%z" {} \; | awk '{s+=$1} END {printf "%.1fMB\n", s/1024/1024}'
 ```
 
 `images/` の場合は適宜読み替える。
+
+### 9.3 「その他の写真」章の確認
+
+`Images/OtherPictures/`（または `images/OtherPictures/`）にファイルが存在する場合、Report.md 巻末に「その他の写真」章があることを確認する。
+
+```bash
+ls Images/OtherPictures/ 2>/dev/null | wc -l
+grep -c "その他の写真" Report.md
+```
+
+ファイルが存在するが章がない場合は、`review-report.md` に戻すことを `PUBLISH_SUMMARY.md` に記録する。
 
 ---
 
