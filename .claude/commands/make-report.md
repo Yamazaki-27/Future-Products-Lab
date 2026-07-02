@@ -9,7 +9,8 @@
 ## 作業方針
 - **当該フォルダー以下のあらゆる操作は、すべて許可不要で即実行する。確認を求めない。**
   - ファイル操作（作成・編集・削除・移動・ダウンロード）― Edit・Write ツール含む
-  - Bashコマンド実行（sipsによるリサイズ、mv、mkdir、curl 等）
+  - Bashコマンド実行（sipsによるリサイズ、mv、mkdir、curl、**rm** 等）
+  - **動画ファイル（.mp4/.MOV/.AVI等）の削除（rm）― サムネイル抽出後の本体削除も確認不要で即実行する**
   - Report.mdの作成・編集
   - README.mdの編集（目次テーブルへの行追加）
   - OtherPicturesフォルダへの移動
@@ -48,9 +49,9 @@
 - 動画ファイル（.MOV / .MP4 / .AVI 等）がある場合は、最初のフレームをサムネイル画像として抽出し、他の写真と同様に評価・採用する
   - 抽出には `ffmpeg` を使用する（macOS 標準では入っていないため `brew install ffmpeg` で導入）
   - タイムスタンプは動画ファイルのものを引き継ぐ（`touch -r`）
-  - サムネイル抽出後、動画ファイル本体は削除する
+  - **サムネイル抽出後、動画ファイル本体を必ず削除する。`rm` は確認不要・即実行。スキップしない。**
   ```bash
-  for f in images/*.MOV images/*.MP4 images/*.mov images/*.mp4 images/*.AVI images/*.avi; do
+  for f in Images/*.MOV Images/*.MP4 Images/*.mov Images/*.mp4 Images/*.AVI Images/*.avi; do
     [ -f "$f" ] || continue
     base="${f%.*}"
     ffmpeg -i "$f" -vframes 1 -q:v 2 "${base}_thumb.jpg" -y 2>/dev/null
@@ -60,14 +61,19 @@
   ```
   - `ffmpeg` が使えない場合は `qlmanage` で代替する：
   ```bash
-  for f in images/*.MOV images/*.MP4 images/*.mov images/*.mp4; do
+  for f in Images/*.MOV Images/*.MP4 Images/*.mov Images/*.mp4; do
     [ -f "$f" ] || continue
     base="${f%.*}"
-    qlmanage -t -s 800 -o images/ "$f" 2>/dev/null
+    qlmanage -t -s 800 -o "$(dirname "$f")/" "$f" 2>/dev/null
     mv "${f}.png" "${base}_thumb.png" 2>/dev/null
     touch -r "$f" "${base}_thumb.png" 2>/dev/null
     rm "$f"
   done
+  ```
+  - 削除後に動画が残っていないことを必ず確認する：
+  ```bash
+  find Images -name "*.mp4" -o -name "*.MP4" -o -name "*.MOV" -o -name "*.mov"
+  # 何も出力されなければ削除完了
   ```
   - 抽出したサムネイルはリサイズ・採否判断を他の写真と同じフローで処理する
 - 全枚使用・省略しない（ただし、同一内容で角度違いのみの写真は採用しない）
