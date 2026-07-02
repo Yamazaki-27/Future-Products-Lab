@@ -45,7 +45,31 @@
 
 ## 写真の使い方
 - 写真は `images/` 直下だけでなく、`images/` 以下のサブフォルダーにある場合もある。再帰的に探索すること
-- 動画ファイル（.MOV / .MP4 / .AVI 等）がある場合は削除する
+- 動画ファイル（.MOV / .MP4 / .AVI 等）がある場合は、最初のフレームをサムネイル画像として抽出し、他の写真と同様に評価・採用する
+  - 抽出には `ffmpeg` を使用する（macOS 標準では入っていないため `brew install ffmpeg` で導入）
+  - タイムスタンプは動画ファイルのものを引き継ぐ（`touch -r`）
+  - サムネイル抽出後、動画ファイル本体は削除する
+  ```bash
+  for f in images/*.MOV images/*.MP4 images/*.mov images/*.mp4 images/*.AVI images/*.avi; do
+    [ -f "$f" ] || continue
+    base="${f%.*}"
+    ffmpeg -i "$f" -vframes 1 -q:v 2 "${base}_thumb.jpg" -y 2>/dev/null
+    touch -r "$f" "${base}_thumb.jpg"
+    rm "$f"
+  done
+  ```
+  - `ffmpeg` が使えない場合は `qlmanage` で代替する：
+  ```bash
+  for f in images/*.MOV images/*.MP4 images/*.mov images/*.mp4; do
+    [ -f "$f" ] || continue
+    base="${f%.*}"
+    qlmanage -t -s 800 -o images/ "$f" 2>/dev/null
+    mv "${f}.png" "${base}_thumb.png" 2>/dev/null
+    touch -r "$f" "${base}_thumb.png" 2>/dev/null
+    rm "$f"
+  done
+  ```
+  - 抽出したサムネイルはリサイズ・採否判断を他の写真と同じフローで処理する
 - 全枚使用・省略しない（ただし、同一内容で角度違いのみの写真は採用しない）
 - **全写真を先に** 横幅800ピクセル程度の .jpg に変換する（sips コマンドで処理）。この処理はリサイズ前に unUsed へ移動しないよう、必ず採否判断より先に行う
 - sips でリサイズする際は、**ファイルのタイムスタンプを必ず保持する**こと。リサイズ前に `mtime` を記録し、リサイズ後に `touch` で復元する：

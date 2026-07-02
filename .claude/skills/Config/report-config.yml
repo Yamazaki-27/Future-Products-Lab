@@ -1,0 +1,43 @@
+project:
+  name: Future Product Lab Report System
+  version: 1.0
+  company: 株式会社スギヤス
+  department: 技術部
+  lab_name: 未来商品研究所
+
+author:
+  default_name: 山崎
+  style_file: Config/FPL_STYLE.md
+
+report:
+  main_file: Report.md
+  source_file: Nippou.txt
+  image_dirs:
+    - Images
+    - images
+  photo_width: 800
+  unused_dirs:
+    - unUsed
+    - unused_images
+  backup_dir: backup
+  edit_log: edit_log.md
+
+publish:
+  readme_file: README.md
+  changelog_file: CHANGELOG.md
+  release_notes_file: release_notes.md
+  publish_summary_file: PUBLISH_SUMMARY.md
+  ready_threshold: 90
+
+archive:
+  knowledge_dir: Knowledge
+  companies_dir: Companies
+  trends_dir: Trends
+  ideas_dir: Ideas
+  archive_log: archive_log.md
+
+workflow:
+  make: true
+  review: true
+  publish: true
+  archive: true
