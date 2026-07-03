@@ -12,10 +12,10 @@
 | `README.md` | リポジトリの説明・Git操作ガイド・目次 |
 | `archive_log.md` | 知識資産化の作業履歴 |
 | `Reports/` | 展示会・視察レポート（202xxx-XXX/Report.md 形式） |
-| `KB/Companies/` | 訪問・接触企業の情報ファイル |
-| `KB/Ideas/` | 商品開発・提案アイデアファイル |
-| `KB/Knowledge/` | 技術テーマ別の知識ベースファイル |
-| `KB/Trends/` | 年別トレンドまとめ |
+| `KnowledgeBase/Companies/` | 訪問・接触企業の情報ファイル |
+| `KnowledgeBase/Ideas/` | 商品開発・提案アイデアファイル |
+| `KnowledgeBase/Knowledge/` | 技術テーマ別の知識ベースファイル |
+| `KnowledgeBase/Trends/` | 年別トレンドまとめ |
 | `strategy/` | 中期商品開発戦略等のドキュメント |
 | `kojinMD/` | 個人メモ・個別記録 |
 
