@@ -36,7 +36,7 @@
 - edit_log.md 作成
 
 ### Changed
-- VID_xxx_thumb.png 52 件 ＋ IMG_xxx_thumb.png 5 件 → unUsed へ移動
+- VID_xxx_thumb.jpg 52 件 ＋ IMG_xxx_thumb.jpg 5 件 → unUsed へ移動
 - README.md 写真枚数・容量：168枚・47.7MB → 111枚・15.0MB
 
 ---
