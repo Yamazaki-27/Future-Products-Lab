@@ -16,6 +16,13 @@
 - インドメーカー（ADDVERB）は ABM コンセプトと同じフォーク式で世界展開済み
 - MOODE ROBOT「No renovation」—既存の床・棚をそのまま使えることをウリにする
 
+<br>
+<p>
+<img src="../../202604-MODEX/Images/IMG_5728.JPG" width="390">
+<img src="../../202604-MODEX/Images/IMG_20260414_121814.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">（左）ADDVERB（インド）。「True Human+Robot Collaboration」と「Pallet & Tote ASRS Solutions」の両輪で展開。Panasonic・Siemens との協業実績を掲示。（右）NewAge Industrial の AMR カート連動棚。棚搬送型 AMR が棚ごと自律搬送する（MODEX 2026）</p>
+
 ## 主要プレイヤー（MODEX 2026）
 
 | 企業 | 国 | 特徴 |
@@ -32,6 +39,10 @@
 | Multiway Robotics | 中国 | 大規模導入実績訴求 |
 | Bluepath Robotics | 米国 | 「ROI in 2 Years」訴求 |
 | Robotize | デンマーク | 超低床フラット AMR、パレット直搬送 |
+
+<br>
+<img src="../../202604-MODEX/Images/IMG_20260415_113439.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">Locus Robotics（米国）の大型ブース。「Case Picking / Returns / Transport / Sanitation」— 物流現場の全工程をワンプラットフォームで賄うコンセプト。AMR がコモディティ化した先にある「ソフトウェア統合」競争軸を体現していた（MODEX 2026）</p>
 
 ## ハノーバーメッセ 2026 での観察
 
@@ -66,3 +77,4 @@
 |---|---|
 | 2026-07-02 | MODEX 2026 から初期作成 |
 | 2026-07-02 | ハノーバーメッセ 2026 の観察を追記 |
+| 2026-07-03 | MODEX 写真を3枚追加（ADDVERB・NewAge AMRカート・Locus Robotics）|

@@ -48,6 +48,32 @@
 
 ---
 
+## 2026-07-03 MODEX 2026（写真強化）
+
+### 実行ファイル
+`202604-MODEX/Report.md`（写真挿入のみ）
+
+### 写真追加した既存ファイル
+
+| ファイル | 追加写真 | 計 |
+|---|---|:---:|
+| `Knowledge/AMR/Commoditization.md` | ADDVERB・NewAge AMRカート（横並び）+ Locus Robotics | 4枚 |
+| `Knowledge/ASRS/ShuttleSystem.md` | HAI Robotics ペア + デモケージ + ADDVERB ASRS | 5枚 |
+| `Knowledge/Lift/ScissorLift_GlobalTrends.md` | Blue Giant/Presto ペア + L66K Alpha/Bishamon ペア | 5枚 |
+| `Knowledge/Logistics/TrailerLoading_Automation.md` | Slip Robotics + LIFTPOINT + Superior Lifts | 4枚 |
+| `Companies/Southworth.md` | ブース俯瞰 + コンベア組み込み型接写 | 3枚 |
+| `Companies/BIC.md` | 4/14 BICランチ + 4/15 BICランチ | 3枚 |
+| `Companies/STAX.md` | ブース展示ペア（ポンプ機構含む）| 3枚 |
+| `Ideas/DR_AutoTransport_System.md` | WMパッカー車 + 傾斜反転コンベアデモ | 3枚 |
+
+### 方針
+
+- キャプションに企業名・技術名が明記された写真のみ採用
+- 3〜5枚を各セクション（概要・観察・示唆）に分散配置
+- 写真が1枚しかない企業（DEMATIC・SEER・DEXORY・SitePrint）はそのまま維持
+
+---
+
 ## 2026-07-03 MODEX 2026（追補）
 
 ### 実行ファイル

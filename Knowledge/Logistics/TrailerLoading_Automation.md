@@ -12,6 +12,10 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 
 ### Slip Robotics
 
+<br>
+<img src="../../202604-MODEX/Images/IMG_5780.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">Slip Robotics（「AN ENTIRE TRAILER IN 5 MINUTES」）の展示。THIRA Robotics と隣接出展。トラック荷積みの完全自動化を謳う（MODEX 2026）</p>
+
 - 「AN ENTIRE TRAILER IN 5 MINUTES」
 - フォークリフトなしでトレーラーを5分以内に積み降ろし完了
 - デモ映像が会場モニターに映し出されていた：「Load or unload an entire trailer in under five minutes」
@@ -19,12 +23,20 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 
 ### LIFTPOINT
 
+<br>
+<img src="../../202604-MODEX/Images/IMG_20260414_151821.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">LIFTPOINT — フォークリフトをコンテナの高さに持ち上げ、海上コンテナへの直接乗り入れを可能にするリフトプラットフォーム。「設計力を感じる」（Nippou）（MODEX 2026）</p>
+
 - 「フォークリフトをコンテナの高さに合わせる」リフトプラットフォーム
 - 海上コンテナへのフォークリフト直接乗り入れを可能にする
 - 床面レベルのアクセスで、コンテナ積み下ろしのコスト・時間を削減
 - Nippou「設計力を感じる」と評価
 
 ### Superior Lifts「The Last Four Feet」
+
+<br>
+<img src="../../202604-MODEX/Images/IMG_5886.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">Superior Lifts「The Last Four Feet」— トラックバースと荷台の最後の4フィートのギャップを解決するリフトプラットフォーム。「Skip Construction / Improve Safety / Waste Less Space」の3つのバリューを訴求（MODEX 2026）</p>
 
 - トラックバースと荷台の最後の4フィート（約1.2m）のギャップを解決
 - Skip Construction / Improve Safety / Waste Less Space の3つのバリュー
@@ -54,3 +66,4 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 | 日付 | 内容 |
 |---|---|
 | 2026-07-02 | MODEX 2026 から初期作成 |
+| 2026-07-03 | MODEX 写真を3枚追加（Slip Robotics・LIFTPOINT・Superior Lifts）|

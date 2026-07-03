@@ -21,6 +21,20 @@ MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジ
 | Bishamon | 日系 | 青いカラーが特徴。円形ターンテーブル付きシザーリフト（パレットポジショナー）も出展 |
 | Ballymore | 米国 | 工場向けクライミングプラットフォーム・電動シザーリフトをサブスクリプション（$114/month〜）で提供 |
 
+<br>
+<p>
+<img src="../../202604-MODEX/Images/IMG_20260414_101539.jpg" width="390">
+<img src="../../202604-MODEX/Images/IMG_20260414_125312.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">（左）Blue Giant（カナダ）の電動シザーリフトと電動パレットジャック。（右）Presto（米国）の空気圧式シザーリフト。ベローズ（空気袋）で昇降する構造が目を引いた（MODEX 2026）</p>
+
+<br>
+<p>
+<img src="../../202604-MODEX/Images/IMG_20260415_113635.jpg" width="390">
+<img src="../../202604-MODEX/Images/IMG_20260415_113642.jpg" width="390">
+</p>
+<p style="color:#888888; font-size:1.05em;">（左）L66K Alpha Series（米国）。「Modular Design / Steel Reservoir / Flow Limiting Valves / 6600 lb Capacity」のシザーリフト。（右）Bishamon（日系）のシザーリフトブース。青が特徴的なラインナップ。米国展示会に日本系メーカーがしっかり出展していた（MODEX 2026）</p>
+
 ### パレットジャック系
 
 | 企業 | 国 | 特徴 |
@@ -87,3 +101,4 @@ MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジ
 |---|---|
 | 2026-07-02 | MODEX 2026 から初期作成 |
 | 2026-07-02 | ハノーバーメッセ 2026（GRADIN観察）を追記 |
+| 2026-07-03 | MODEX 写真を2ペア追加（Blue Giant/Presto・L66K Alpha/Bishamon）|
