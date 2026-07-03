@@ -627,7 +627,7 @@ GRADINはリフトを、ZeroErrはロボット関節を世界に直販してい�
 
 <br>
 <p>
-<img src="Images/OtherPictures/IMG_6138_thumb.png" width="390">
+<img src="Images/OtherPictures/IMG_6138_thumb.jpg" width="390">
 <img src="Images/OtherPictures/IMG_6152.JPG" width="390">
 </p>
 
@@ -675,13 +675,13 @@ GRADINはリフトを、ZeroErrはロボット関節を世界に直販してい�
 
 <br>
 <p>
-<img src="Images/OtherPictures/IMG_6262_thumb.png" width="390">
-<img src="Images/OtherPictures/IMG_6263_thumb.png" width="390">
+<img src="Images/OtherPictures/IMG_6262_thumb.jpg" width="390">
+<img src="Images/OtherPictures/IMG_6263_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/IMG_6272_thumb.png" width="390">
+<img src="Images/OtherPictures/IMG_6272_thumb.jpg" width="390">
 <img src="Images/OtherPictures/IMG_6292.JPG" width="390">
 </p>
 
@@ -723,102 +723,102 @@ GRADINはリフトを、ZeroErrはロボット関節を世界に直販してい�
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_114717_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_121857_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_114717_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_121857_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_122412_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_130051_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_122412_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_130051_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_130137_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_130815_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_130137_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_130815_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_132510_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_152801_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_132510_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_152801_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_152857_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_152925_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_152857_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_152925_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_153116_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_153230_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_153116_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_153230_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_153650_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_153723_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_153650_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_153723_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_155036_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_155050_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_155036_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_155050_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_155415_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_160132_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_155415_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_160132_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_160415_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260420_161401_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_160415_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260420_161401_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260420_163610_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_101157_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260420_163610_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_101157_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_102955_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_123208_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_102955_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_123208_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_123652_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_124254_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_123652_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_124254_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_124844_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_142928_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_124844_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_142928_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_143236_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_144542_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_143236_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_144542_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_152617_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_154530_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_152617_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_154530_thumb.jpg" width="390">
 </p>
 
 <br>
 <p>
-<img src="Images/OtherPictures/VID_20260421_155623_thumb.png" width="390">
-<img src="Images/OtherPictures/VID_20260421_164441_thumb.png" width="390">
+<img src="Images/OtherPictures/VID_20260421_155623_thumb.jpg" width="390">
+<img src="Images/OtherPictures/VID_20260421_164441_thumb.jpg" width="390">
 </p>
