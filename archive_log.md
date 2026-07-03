@@ -4,6 +4,44 @@
 
 ---
 
+## 2026-07-03 INNOVATION EXPO 2026（九州国際物流総合展）
+
+### 実行ファイル
+`202606-InnovationEXPO/Report.md`
+
+### 新規作成
+
+| ファイル | 内容 |
+|---|---|
+| `Companies/四恩システム.md` | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 |
+| `Companies/ナブテスコ.md` | アシストユニット（後付け電動アシスト）。自動車業界で急成長。70万円 |
+| `Companies/infonerv.md` | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み |
+| `Companies/ヤマハ発動機_PAXIS.md` | 車いすインホイールモータの物流横展開。コア技術転用の好例 |
+| `Knowledge/AMR/FloorSLAM.md` | Floor SLAM 誘導方式。磁気テープ不要。ヨーロッパ発技術の国内製品化 |
+| `Ideas/FloorSLAM_ABM_NavigationOption.md` | ABMシリーズへの Floor SLAM オプション追加提案 |
+
+### 更新
+
+| ファイル | 追記内容 |
+|---|---|
+| `Trends/2026.md` | INNOVATION EXPO 2026 の4トレンドを追記 |
+| `README.md` | 知識ベースセクションに新規ファイルを追加 |
+
+### 抽出した重要テーマ
+
+1. **Floor SLAM による誘導方式の多様化**（最重要）：四恩システム。ABMへの技術提携余地。山崎部長・東京再面談約束済み
+2. **電動アシスト台車の急拡大**：ナブテスコ・ヤマハ PAXIS がいずれも腰痛対策訴求で自動車業界に浸透。IMS との差別化軸
+3. **AI在庫管理の現場実装**：infonerv が Claude で ON SEVEN DAYS に導入。ハード×ソフト提案の参考事例
+4. **地方展示会のポテンシャル**：九州の地場40名メーカーが欧州最先端技術を製品化
+
+### 次回深掘り候補
+
+- 四恩システム技術提携交渉（山崎部長・東京面談）
+- ナブテスコ vs IMS の価格・能力比較（購買・技術担当）
+- INNOVATION EXPO 2027（名古屋・ポートメッセなごや、4月）への視察計画
+
+---
+
 ## 2026-07-02 ハノーバーメッセ 2026
 
 ### 実行ファイル
@@ -45,6 +83,31 @@
 - ハノーバーメッセのカンフーダンス・犬型ロボット出展社名の特定（動画あり）
 - ロジマット 2027 への視察計画（マテハン・物流機器が集中）
 - GRADINの詳細製品ラインナップ・価格帯の調査（購買・技術担当）
+
+---
+
+## 2026-07-03 MODEX 2026（写真強化②）
+
+### 実行ファイル
+`202604-MODEX/Report.md`（写真挿入のみ・3枚未満ファイルの補強）
+
+### 写真追加した既存ファイル
+
+| ファイル | 追加写真 | 計 |
+|---|---|:---:|
+| `Knowledge/Safety/RearGuard_HandPallet.md` | Titan ×2（カウンター越し・正面）+ Bishamon パレットジャック | 3枚 |
+| `Ideas/Safety_Pack_RearGuard.md` | Titan ×2（カウンター越し・正面）| 3枚 |
+| `Companies/DEXORY.md` | 担当者との記念撮影（IMG_5859.JPG）| 2枚 |
+
+### 1枚のまま維持（対象写真が全体で1枚しか存在しない）
+
+| ファイル | 理由 |
+|---|---|
+| `Companies/DEMATIC.md` | Report.md 全体で DEMATIC 専用写真は IMG_5756.JPG の1枚のみ |
+| `Companies/SEER_Robotics.md` | SEER 専用写真は IMG_5903.JPG の1枚のみ |
+| `Ideas/SitePrint_FloorPrinting.md` | SitePrint 専用写真は IMG_20260414_162104.jpg の1枚のみ |
+| `Ideas/Pallet_Stacker_Market.md` | パレット段積み装置の出展社が不明。特定写真なし |
+| `Knowledge/Humanoid/Humanoid_Logistics.md` | MODEX の humanoid 専用写真は IMG_20260414_134048.jpg の1枚のみ（HANNOVER分で計2枚）|
 
 ---
 
