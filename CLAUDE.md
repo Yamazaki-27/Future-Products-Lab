@@ -9,11 +9,15 @@
 
 | ファイル/フォルダ | 内容 |
 |---|---|
-| `README.md` | リポジトリの説明・Git操作ガイド |
-| `Report_USA.md` | アメリカ出張報告書 |
-| `Report_EURO.md` | ヨーロッパ出張報告書 |
-| `Images/` | 出張中の写真 |
-| `takemura.md` | 武村TLの記録 |
+| `README.md` | リポジトリの説明・Git操作ガイド・目次 |
+| `archive_log.md` | 知識資産化の作業履歴 |
+| `Reports/` | 展示会・視察レポート（202xxx-XXX/Report.md 形式） |
+| `KB/Companies/` | 訪問・接触企業の情報ファイル |
+| `KB/Ideas/` | 商品開発・提案アイデアファイル |
+| `KB/Knowledge/` | 技術テーマ別の知識ベースファイル |
+| `KB/Trends/` | 年別トレンドまとめ |
+| `strategy/` | 中期商品開発戦略等のドキュメント |
+| `kojinMD/` | 個人メモ・個別記録 |
 
 ## 運用ルール
 
