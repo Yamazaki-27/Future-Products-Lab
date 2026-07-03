@@ -21,15 +21,15 @@
 ## 主力製品「DTR シリーズ」
 
 <br>
-<img src="../202604-IMS/Images/IMG_6561.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">DTR（Demi Tracteur Roulant）シリーズ。1 〜 10 トン 4 タイプ展開。2003 年から継続製造。（2026年4月）</p>
+<img src="../202604-IMS/Images/IMG_20260424_161606.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">DTR（Demi Tracteur Roulant）シリーズ。1 〜 10 トン 4 タイプ展開。2003 年から継続製造。（2026年4月24日）</p>
 
 <br>
 <p>
-<img src="../202604-IMS/Images/IMG_6566.JPG" width="390">
-<img src="../202604-IMS/Images/IMG_6570.JPG" width="390">
+<img src="../202604-IMS/Images/VID_20260424_161132_thumb.jpg" width="390">
+<img src="../202604-IMS/Images/IMG_20260424_160546.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">各モデルのバリエーション。売れ筋は 1.5〜3 トンクラス。（2026年4月24日）</p>
+<p style="color:#888888; font-size:1.05em;">（左）DTR 正面。IMS ロゴと操作ハンドル。（右）実機デモの様子。売れ筋は 1.5〜3 トンクラス。（2026年4月24日）</p>
 
 | 仕様 | 内容 |
 |---|---|
@@ -44,8 +44,8 @@
 ## コントローラー
 
 <br>
-<img src="../202604-IMS/Images/IMG_6583.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">PG Drive 社製コントローラー搭載の内部構造。カーチスより高性能と評価して採用。（2026年4月24日）</p>
+<img src="../202604-IMS/Images/IMG_20260424_162114.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">DTR のコントロールパネル。IMS ロゴ・バッテリー残量計・速度ダイヤル・OFF/ON キースイッチ。PG Drive 社製コントローラー搭載。（2026年4月24日）</p>
 
 採用しているのは **PG Drive Technologies（英国）**。
 カーチス（Curtis）より高性能であると判断しての採用。

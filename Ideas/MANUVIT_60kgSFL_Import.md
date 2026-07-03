@@ -16,14 +16,10 @@
 
 <br>
 <p>
-<img src="../202604-MANUVIT/Images/IMG_6462.JPG" width="390">
-<img src="../202604-MANUVIT/Images/IMG_6470.JPG" width="390">
+<img src="../202604-MANUVIT/Images/IMG_20260423_110607.jpg" width="390">
+<img src="../202604-MANUVIT/Images/IMG_20260423_115653.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">MANUVIT 60kg SFL 型。軽量・デザイン良好。Variable Geometry（テコとギヤの変形機構）を活かした製品。（2026年4月23日）</p>
-
-<br>
-<img src="../202604-MANUVIT/Images/VID_20260423_114313_thumb.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">60kg SFL 型の動作デモ（動画より）。昇降動作がスムーズ。（2026年4月23日）</p>
+<p style="color:#888888; font-size:1.05em;">MANUVIT 60kg SFL 型スタッキングリフト。軽量・デザイン良好。Variable Geometry（テコとギヤの変形機構）を活かした製品。（2026年4月23日）</p>
 
 ---
 
