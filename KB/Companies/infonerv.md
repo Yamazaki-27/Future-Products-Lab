@@ -12,8 +12,8 @@
 
 <br>
 <p>
-<img src="../202606-InnovationEXPO/images/yamazaki/IMG_7612.JPG" width="390">
-<img src="../202606-InnovationEXPO/images/yamazaki/IMG_7613.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7612.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7613.JPG" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">左：AI在庫管理ブース（「発注はAIに任せよう」）。右：株式会社infonerv、東大特任准教授・江崎貴裕氏が代表。「モノが過不足なく行き渡る世界にする」。（INNOVATION EXPO 2026）</p>
 
@@ -40,7 +40,7 @@
 
 ## 関連情報
 
-- [INNOVATION EXPO 2026 Report.md](../202606-InnovationEXPO/Report.md)
+- [INNOVATION EXPO 2026 Report.md](../../Reports/202606-InnovationEXPO/Report.md)
 
 ## 更新履歴
 

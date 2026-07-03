@@ -11,8 +11,8 @@
 
 <br>
 <p>
-<img src="../202606-InnovationEXPO/images/ヤマハ1.JPG" width="390">
-<img src="../202606-InnovationEXPO/images/ヤマハ2.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/ヤマハ1.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/ヤマハ2.JPG" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">CS JAPAN × ヤマハ発動機 PAXIS 展示。カゴ車2台を前後連結して電動アシスト走行。（INNOVATION EXPO 2026）</p>
 
@@ -20,8 +20,8 @@
 
 <br>
 <p>
-<img src="../202606-InnovationEXPO/images/yamazaki/IMG_7596.JPG" width="390">
-<img src="../202606-InnovationEXPO/images/yamazaki/IMG_7597.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7596.JPG" width="390">
+<img src="../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7597.JPG" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">CS JAPAN × ヤマハ発動機 カゴ台車電動牽引装置。2台のカゴ台車を前後連結し、電動アシストで走行・操舵。指先コントローラーで前進・後進。（INNOVATION EXPO 2026）</p>
 
@@ -46,7 +46,7 @@
 
 ## 関連情報
 
-- [INNOVATION EXPO 2026 Report.md](../202606-InnovationEXPO/Report.md)
+- [INNOVATION EXPO 2026 Report.md](../../Reports/202606-InnovationEXPO/Report.md)
 
 ## 更新履歴
 

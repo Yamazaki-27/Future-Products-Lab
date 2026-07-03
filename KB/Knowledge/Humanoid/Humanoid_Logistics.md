@@ -5,7 +5,7 @@
 MODEX 2026 ではヒューマノイドロボットが物流展示会に登場した。
 まだ実用段階ではないが、「機能を誇る凝った展示」として物流業界への参入を示した。
 
-<img src="../../202604-MODEX/Images/IMG_20260414_134048.jpg" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_134048.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Apptronik 等のヒューマノイドロボット。白いボディに光る円形の顔が MODEX 2026 フロアに登場。物流展にヒューマノイドが現れるのは日本では見られない光景だった（MODEX 2026）</p>
 
 ## MODEX 2026 での観察
@@ -16,7 +16,7 @@ MODEX 2026 ではヒューマノイドロボットが物流展示会に登場し
 
 ## ハノーバーメッセ 2026 での観察
 
-<img src="../../202604-HANNOVER/Images/IMG_20260420_130254.jpg" width="800">
+<img src="../../../Reports/202604-HANNOVER/Images/IMG_20260420_130254.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">IntelブースのAMR台車の上に立つヒューマノイドロボット。AMR×ヒューマノイドの融合が現実になっている。（ハノーバーメッセ 2026）</p>
 
 - **4体同調カンフーダンス**：YouTubeで見かける人型ロボットのカンフーダンスを会場で実演。バランスのリアルタイム制御が微妙なブレで目視できる
@@ -48,8 +48,8 @@ MODEX 2026 ではヒューマノイドロボットが物流展示会に登場し
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../../202604-MODEX/Report.md)
-- [ハノーバーメッセ 2026 Report.md](../../202604-HANNOVER/Report.md)
+- [MODEX 2026 Report.md](../../../Reports/202604-MODEX/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

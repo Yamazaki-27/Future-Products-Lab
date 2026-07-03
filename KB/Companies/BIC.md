@@ -8,13 +8,13 @@
 | 拠点 | 米国（アトランタ周辺？） |
 | 接点 | MODEX 2026 会場内＋会食 |
 
-<img src="../202604-MODEX/Images/IMG_20260414_184622.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260414_184622.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">BIC の田島さんとアメリカ人 3 名との会食。Ramon からアマゾンのテーブルリフト直接オファーの話が出た（MODEX 2026 4/14 夜）</p>
 
 ## 概要
 
 <br>
-<img src="../202604-MODEX/Images/IMG_5805.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5805.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">BIC ランチ（4/14）の卓上風景。丸テーブルを囲んで BIC メンバー全員が着席。ローストチキン・グリッツ・マッシュポテトが並ぶ、Southern ならではの食事（MODEX 2026）</p>
 
 MODEX 2026 に出展していた田島さん率いるチーム。アメリカ人3名を含むメンバー構成。
@@ -35,7 +35,7 @@ MODEX 2026 に出展していた田島さん率いるチーム。アメリカ人
 - 4/15 昼：BIC ランチ（Southern Root レストラン、フライドキャットフィッシュ）
 
 <br>
-<img src="../202604-MODEX/Images/IMG_20260415_135849.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260415_135849.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">4/15 BIC の田島さんチームとのランチ（Southern Root）。フライドチキン・グリッツ・野菜のプレートを囲みながら業界情報を交換（MODEX 2026）</p>
 
 ## アクション
@@ -48,8 +48,8 @@ MODEX 2026 に出展していた田島さん率いるチーム。アメリカ人
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../202604-MODEX/Report.md)
-- [MODEX 2026 Nippou.txt](../202604-MODEX/Nippou.tt)
+- [MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)
+- [MODEX 2026 Nippou.txt](../../Reports/202604-MODEX/Nippou.tt)
 
 ## 更新履歴
 

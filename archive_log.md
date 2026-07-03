@@ -7,14 +7,14 @@
 ## 2026-07-03 IMS Manutention 工場視察（フランス・Bonneval）
 
 ### 実行ファイル
-`202604-IMS/Report.md`
+`Reports/202604-IMS/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Companies/IMS_Manutention.md` | 仏・1973年創業。DTR 電動牽引トラクター専業。PG Drive 採用。1〜10トン 4タイプ |
-| `Ideas/IMS_DTR_ImportDistribution.md` | DTR シリーズ輸入・販売代理検討。重量物搬送領域への商品力補強 |
+| `KB/Companies/IMS_Manutention.md` | 仏・1973年創業。DTR 電動牽引トラクター専業。PG Drive 採用。1〜10トン 4タイプ |
+| `KB/Ideas/IMS_DTR_ImportDistribution.md` | DTR シリーズ輸入・販売代理検討。重量物搬送領域への商品力補強 |
 
 ### 抽出した重要テーマ
 
@@ -33,14 +33,14 @@
 ## 2026-07-03 MANUVIT 工場視察（フランス・La Ferté Macé）
 
 ### 実行ファイル
-`202604-MANUVIT/Report.md`
+`Reports/202604-MANUVIT/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Companies/MANUVIT.md` | 仏・1981年創業・Variable Geometry 特許。60% カスタム改造対応。橋本GM アプローチ済み |
-| `Ideas/MANUVIT_60kgSFL_Import.md` | MANUVIT 60kg SFL 型の輸入・OEM 検討。山崎構想と合致。優先度高 |
+| `KB/Companies/MANUVIT.md` | 仏・1981年創業・Variable Geometry 特許。60% カスタム改造対応。橋本GM アプローチ済み |
+| `KB/Ideas/MANUVIT_60kgSFL_Import.md` | MANUVIT 60kg SFL 型の輸入・OEM 検討。山崎構想と合致。優先度高 |
 
 ### 抽出した重要テーマ
 
@@ -58,24 +58,24 @@
 ## 2026-07-03 INNOVATION EXPO 2026（九州国際物流総合展）
 
 ### 実行ファイル
-`202606-InnovationEXPO/Report.md`
+`Reports/202606-InnovationEXPO/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Companies/四恩システム.md` | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 |
-| `Companies/ナブテスコ.md` | アシストユニット（後付け電動アシスト）。自動車業界で急成長。70万円 |
-| `Companies/infonerv.md` | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み |
-| `Companies/ヤマハ発動機_PAXIS.md` | 車いすインホイールモータの物流横展開。コア技術転用の好例 |
-| `Knowledge/AMR/FloorSLAM.md` | Floor SLAM 誘導方式。磁気テープ不要。ヨーロッパ発技術の国内製品化 |
-| `Ideas/FloorSLAM_ABM_NavigationOption.md` | ABMシリーズへの Floor SLAM オプション追加提案 |
+| `KB/Companies/四恩システム.md` | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 |
+| `KB/Companies/ナブテスコ.md` | アシストユニット（後付け電動アシスト）。自動車業界で急成長。70万円 |
+| `KB/Companies/infonerv.md` | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み |
+| `KB/Companies/ヤマハ発動機_PAXIS.md` | 車いすインホイールモータの物流横展開。コア技術転用の好例 |
+| `KB/Knowledge/AMR/FloorSLAM.md` | Floor SLAM 誘導方式。磁気テープ不要。ヨーロッパ発技術の国内製品化 |
+| `KB/Ideas/FloorSLAM_ABM_NavigationOption.md` | ABMシリーズへの Floor SLAM オプション追加提案 |
 
 ### 更新
 
 | ファイル | 追記内容 |
 |---|---|
-| `Trends/2026.md` | INNOVATION EXPO 2026 の4トレンドを追記 |
+| `KB/Trends/2026.md` | INNOVATION EXPO 2026 の4トレンドを追記 |
 | `README.md` | 知識ベースセクションに新規ファイルを追加 |
 
 ### 抽出した重要テーマ
@@ -96,28 +96,28 @@
 ## 2026-07-02 ハノーバーメッセ 2026
 
 ### 実行ファイル
-`202604-HANNOVER/Report.md`
+`Reports/202604-HANNOVER/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Knowledge/Manufacturing/TelescopicCylinder.md` | NEFF 3段台形ネジシリンダー。ピット浅化の最有力技術 |
-| `Knowledge/IT/IndustrialAI_Invasion.md` | Palantir/AWS/アクセンチュアの製造業侵食 |
-| `Companies/NEFF_Gewindetriebe.md` | ドイツ。テレスコシリンダー技術の参照先筆頭 |
-| `Companies/GRADIN.md` | 中国。スギヤスのシザーリフト直接競合。欧州CE認証済み |
-| `Companies/ZeroErr.md` | 中国。ヒューマノイット関節アクチュエータ（eRob） |
-| `Companies/CHANGRUI.md` | 中国（山東省）。精密鋳造。BMW/COGNEX/FIAT納品 |
-| `Ideas/TelescopicCylinder_ShallowPit.md` | テレスコシリンダー活用の超浅ピット埋め込みリフト |
+| `KB/Knowledge/Manufacturing/TelescopicCylinder.md` | NEFF 3段台形ネジシリンダー。ピット浅化の最有力技術 |
+| `KB/Knowledge/IT/IndustrialAI_Invasion.md` | Palantir/AWS/アクセンチュアの製造業侵食 |
+| `KB/Companies/NEFF_Gewindetriebe.md` | ドイツ。テレスコシリンダー技術の参照先筆頭 |
+| `KB/Companies/GRADIN.md` | 中国。スギヤスのシザーリフト直接競合。欧州CE認証済み |
+| `KB/Companies/ZeroErr.md` | 中国。ヒューマノイット関節アクチュエータ（eRob） |
+| `KB/Companies/CHANGRUI.md` | 中国（山東省）。精密鋳造。BMW/COGNEX/FIAT納品 |
+| `KB/Ideas/TelescopicCylinder_ShallowPit.md` | テレスコシリンダー活用の超浅ピット埋め込みリフト |
 
 ### 更新
 
 | ファイル | 追記内容 |
 |---|---|
-| `Knowledge/AMR/Commoditization.md` | HANNOVER観察（AMRが通路を単独走行、誰も驚かない）を追記 |
-| `Knowledge/Lift/ScissorLift_GlobalTrends.md` | GRADIN（欧州直販中国製シザーリフト）を追記 |
-| `Knowledge/Humanoid/Humanoid_Logistics.md` | カンフーダンス・犬型ロボット・ZeroErr・AMR×ヒューマノイド融合を追記 |
-| `Trends/2026.md` | ハノーバーメッセ 2026 の6トレンドを追記 |
+| `KB/Knowledge/AMR/Commoditization.md` | HANNOVER観察（AMRが通路を単独走行、誰も驚かない）を追記 |
+| `KB/Knowledge/Lift/ScissorLift_GlobalTrends.md` | GRADIN（欧州直販中国製シザーリフト）を追記 |
+| `KB/Knowledge/Humanoid/Humanoid_Logistics.md` | カンフーダンス・犬型ロボット・ZeroErr・AMR×ヒューマノイド融合を追記 |
+| `KB/Trends/2026.md` | ハノーバーメッセ 2026 の6トレンドを追記 |
 | `README.md` | 知識ベースセクションに新規ファイルを追加 |
 
 ### 抽出した重要テーマ
@@ -140,45 +140,45 @@
 ## 2026-07-03 MODEX 2026（写真強化②）
 
 ### 実行ファイル
-`202604-MODEX/Report.md`（写真挿入のみ・3枚未満ファイルの補強）
+`Reports/202604-MODEX/Report.md`（写真挿入のみ・3枚未満ファイルの補強）
 
 ### 写真追加した既存ファイル
 
 | ファイル | 追加写真 | 計 |
 |---|---|:---:|
-| `Knowledge/Safety/RearGuard_HandPallet.md` | Titan ×2（カウンター越し・正面）+ Bishamon パレットジャック | 3枚 |
-| `Ideas/Safety_Pack_RearGuard.md` | Titan ×2（カウンター越し・正面）| 3枚 |
-| `Companies/DEXORY.md` | 担当者との記念撮影（IMG_5859.JPG）| 2枚 |
+| `KB/Knowledge/Safety/RearGuard_HandPallet.md` | Titan ×2（カウンター越し・正面）+ Bishamon パレットジャック | 3枚 |
+| `KB/Ideas/Safety_Pack_RearGuard.md` | Titan ×2（カウンター越し・正面）| 3枚 |
+| `KB/Companies/DEXORY.md` | 担当者との記念撮影（IMG_5859.JPG）| 2枚 |
 
 ### 1枚のまま維持（対象写真が全体で1枚しか存在しない）
 
 | ファイル | 理由 |
 |---|---|
-| `Companies/DEMATIC.md` | Report.md 全体で DEMATIC 専用写真は IMG_5756.JPG の1枚のみ |
-| `Companies/SEER_Robotics.md` | SEER 専用写真は IMG_5903.JPG の1枚のみ |
-| `Ideas/SitePrint_FloorPrinting.md` | SitePrint 専用写真は IMG_20260414_162104.jpg の1枚のみ |
-| `Ideas/Pallet_Stacker_Market.md` | パレット段積み装置の出展社が不明。特定写真なし |
-| `Knowledge/Humanoid/Humanoid_Logistics.md` | MODEX の humanoid 専用写真は IMG_20260414_134048.jpg の1枚のみ（HANNOVER分で計2枚）|
+| `KB/Companies/DEMATIC.md` | Report.md 全体で DEMATIC 専用写真は IMG_5756.JPG の1枚のみ |
+| `KB/Companies/SEER_Robotics.md` | SEER 専用写真は IMG_5903.JPG の1枚のみ |
+| `KB/Ideas/SitePrint_FloorPrinting.md` | SitePrint 専用写真は IMG_20260414_162104.jpg の1枚のみ |
+| `KB/Ideas/Pallet_Stacker_Market.md` | パレット段積み装置の出展社が不明。特定写真なし |
+| `KB/Knowledge/Humanoid/Humanoid_Logistics.md` | MODEX の humanoid 専用写真は IMG_20260414_134048.jpg の1枚のみ（HANNOVER分で計2枚）|
 
 ---
 
 ## 2026-07-03 MODEX 2026（写真強化）
 
 ### 実行ファイル
-`202604-MODEX/Report.md`（写真挿入のみ）
+`Reports/202604-MODEX/Report.md`（写真挿入のみ）
 
 ### 写真追加した既存ファイル
 
 | ファイル | 追加写真 | 計 |
 |---|---|:---:|
-| `Knowledge/AMR/Commoditization.md` | ADDVERB・NewAge AMRカート（横並び）+ Locus Robotics | 4枚 |
-| `Knowledge/ASRS/ShuttleSystem.md` | HAI Robotics ペア + デモケージ + ADDVERB ASRS | 5枚 |
-| `Knowledge/Lift/ScissorLift_GlobalTrends.md` | Blue Giant/Presto ペア + L66K Alpha/Bishamon ペア | 5枚 |
-| `Knowledge/Logistics/TrailerLoading_Automation.md` | Slip Robotics + LIFTPOINT + Superior Lifts | 4枚 |
-| `Companies/Southworth.md` | ブース俯瞰 + コンベア組み込み型接写 | 3枚 |
-| `Companies/BIC.md` | 4/14 BICランチ + 4/15 BICランチ | 3枚 |
-| `Companies/STAX.md` | ブース展示ペア（ポンプ機構含む）| 3枚 |
-| `Ideas/DR_AutoTransport_System.md` | WMパッカー車 + 傾斜反転コンベアデモ | 3枚 |
+| `KB/Knowledge/AMR/Commoditization.md` | ADDVERB・NewAge AMRカート（横並び）+ Locus Robotics | 4枚 |
+| `KB/Knowledge/ASRS/ShuttleSystem.md` | HAI Robotics ペア + デモケージ + ADDVERB ASRS | 5枚 |
+| `KB/Knowledge/Lift/ScissorLift_GlobalTrends.md` | Blue Giant/Presto ペア + L66K Alpha/Bishamon ペア | 5枚 |
+| `KB/Knowledge/Logistics/TrailerLoading_Automation.md` | Slip Robotics + LIFTPOINT + Superior Lifts | 4枚 |
+| `KB/Companies/Southworth.md` | ブース俯瞰 + コンベア組み込み型接写 | 3枚 |
+| `KB/Companies/BIC.md` | 4/14 BICランチ + 4/15 BICランチ | 3枚 |
+| `KB/Companies/STAX.md` | ブース展示ペア（ポンプ機構含む）| 3枚 |
+| `KB/Ideas/DR_AutoTransport_System.md` | WMパッカー車 + 傾斜反転コンベアデモ | 3枚 |
 
 ### 方針
 
@@ -191,23 +191,23 @@
 ## 2026-07-03 MODEX 2026（追補）
 
 ### 実行ファイル
-`202604-MODEX/Report.md`
+`Reports/202604-MODEX/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Companies/DEMATIC.md` | ドイツ系物流SI大手。大型ティルター・反転機デモ。DHL/Amazon/Walmart実績 |
-| `Ideas/SitePrint_FloorPrinting.md` | 床面±2mm精度印刷ロボット。設備導入前工程（墨出し）の自動化 |
+| `KB/Companies/DEMATIC.md` | ドイツ系物流SI大手。大型ティルター・反転機デモ。DHL/Amazon/Walmart実績 |
+| `KB/Ideas/SitePrint_FloorPrinting.md` | 床面±2mm精度印刷ロボット。設備導入前工程（墨出し）の自動化 |
 
 ### 確認・更新不要
 
 | ファイル | 理由 |
 |---|---|
-| `Trends/2026.md` | Ballymore サブスク・SitePrint は初回アーカイブ（2026-07-02）で記録済み |
-| `Knowledge/Logistics/TrailerLoading_Automation.md` | Superior Lifts「Last Four Feet」は初回アーカイブで記録済み |
-| `Companies/Southworth.md` | コンベア組み込み型シザーリフト含む内容は初回アーカイブで記録済み |
-| `Ideas/DR_AutoTransport_System.md` | WM パッカー車観察は初回アーカイブで記録済み |
+| `KB/Trends/2026.md` | Ballymore サブスク・SitePrint は初回アーカイブ（2026-07-02）で記録済み |
+| `KB/Knowledge/Logistics/TrailerLoading_Automation.md` | Superior Lifts「Last Four Feet」は初回アーカイブで記録済み |
+| `KB/Companies/Southworth.md` | コンベア組み込み型シザーリフト含む内容は初回アーカイブで記録済み |
+| `KB/Ideas/DR_AutoTransport_System.md` | WM パッカー車観察は初回アーカイブで記録済み |
 
 ### 抽出した重要テーマ
 
@@ -219,24 +219,24 @@
 ## 2026-07-02 MODEX 2026
 
 ### 実行ファイル
-`202604-MODEX/Report.md`
+`Reports/202604-MODEX/Report.md`
 
 ### 新規作成
 
 | ファイル | 内容 |
 |---|---|
-| `Knowledge/AMR/Commoditization.md` | AMRのコモディティ化。MODEX 2026の全体像 |
-| `Knowledge/ASRS/ShuttleSystem.md` | 棚登り型・シャトル型 ASRS の動向 |
-| `Knowledge/Humanoid/Humanoid_Logistics.md` | ヒューマノイドの物流展登場 |
-| `Knowledge/Lift/ScissorLift_GlobalTrends.md` | シザーリフト・搬送補助機器のグローバル競合 |
-| `Knowledge/Logistics/TrailerLoading_Automation.md` | トレーラー荷役自動化（最後のフィート）|
-| `Knowledge/Safety/RearGuard_HandPallet.md` | 後方倒れ止め安全装置 |
-| `Companies/SEER_Robotics.md` | DMP名義で名刺交換済み |
-| `Companies/STAX.md` | 低価格電動車。中国製 |
-| `Companies/DEXORY.md` | 英国。在庫スキャンロボット |
-| `Companies/Southworth.md` | 米国。スギヤスの直接競合 |
-| `Companies/BIC.md` | 田島さんチーム。Ramonのテーブルリフト |
-| `Ideas/DR_AutoTransport_System.md` | DR自動搬送システム |
-| `Ideas/Safety_Pack_RearGuard.md` | 安全安心パック（後方倒れ止め）|
-| `Ideas/Pallet_Stacker_Market.md` | パレット段積み装置 |
-| `Trends/2026.md` | 2026年トレンド初期作成 |
+| `KB/Knowledge/AMR/Commoditization.md` | AMRのコモディティ化。MODEX 2026の全体像 |
+| `KB/Knowledge/ASRS/ShuttleSystem.md` | 棚登り型・シャトル型 ASRS の動向 |
+| `KB/Knowledge/Humanoid/Humanoid_Logistics.md` | ヒューマノイドの物流展登場 |
+| `KB/Knowledge/Lift/ScissorLift_GlobalTrends.md` | シザーリフト・搬送補助機器のグローバル競合 |
+| `KB/Knowledge/Logistics/TrailerLoading_Automation.md` | トレーラー荷役自動化（最後のフィート）|
+| `KB/Knowledge/Safety/RearGuard_HandPallet.md` | 後方倒れ止め安全装置 |
+| `KB/Companies/SEER_Robotics.md` | DMP名義で名刺交換済み |
+| `KB/Companies/STAX.md` | 低価格電動車。中国製 |
+| `KB/Companies/DEXORY.md` | 英国。在庫スキャンロボット |
+| `KB/Companies/Southworth.md` | 米国。スギヤスの直接競合 |
+| `KB/Companies/BIC.md` | 田島さんチーム。Ramonのテーブルリフト |
+| `KB/Ideas/DR_AutoTransport_System.md` | DR自動搬送システム |
+| `KB/Ideas/Safety_Pack_RearGuard.md` | 安全安心パック（後方倒れ止め）|
+| `KB/Ideas/Pallet_Stacker_Market.md` | パレット段積み装置 |
+| `KB/Trends/2026.md` | 2026年トレンド初期作成 |

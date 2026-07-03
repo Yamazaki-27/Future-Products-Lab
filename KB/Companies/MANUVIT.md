@@ -44,13 +44,13 @@
 
 <br>
 <p>
-<img src="../202604-MANUVIT/Images/IMG_20260423_110607.jpg" width="390">
-<img src="../202604-MANUVIT/Images/IMG_20260423_115653.jpg" width="390">
+<img src="../../Reports/202604-MANUVIT/Images/IMG_20260423_110607.jpg" width="390">
+<img src="../../Reports/202604-MANUVIT/Images/IMG_20260423_115653.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">60kg SFL 型スタッキングリフト。山崎が「これから開発したい」と構想していた製品に近い。軽量・デザイン良好。（2026年4月23日）</p>
 
 <br>
-<img src="../202604-MANUVIT/Images/IMG_6481.JPG" width="800">
+<img src="../../Reports/202604-MANUVIT/Images/IMG_6481.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">工場内デモ後の記念撮影。左から橋本GM・山崎・Pascal。背後に MANUVIT 300 装置。（2026年4月23日）</p>
 
 ---
@@ -75,5 +75,5 @@
 
 ## 関連ファイル
 
-- [MANUVIT 訪問レポート](../202604-MANUVIT/Report.md)
+- [MANUVIT 訪問レポート](../../Reports/202604-MANUVIT/Report.md)
 - [60kg SFL 輸入検討アイデア](../Ideas/MANUVIT_60kgSFL_Import.md)

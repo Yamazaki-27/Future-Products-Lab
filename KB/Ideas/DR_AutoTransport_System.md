@@ -5,17 +5,17 @@
 「大きなゴミ箱を自動搬送して、別置き反転機で空にする」システムの DR（ダストリムーバー系）への応用。
 MODEX 2026 で観察したゴミ箱自動搬送デモと、アトランタ市内で目にした WM 社パッカー車の実例が、このアイデアの着想源。
 
-<img src="../202604-MODEX/Images/IMG_20260414_122048.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260414_122048.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">ゴミ箱（大型コンテナ）を傾斜・反転してコンベアに流す自動搬送デモ。DR 自動搬送システムのアイデアの直接の着想源（MODEX 2026）</p>
 
 ## 背景
 
 <br>
-<img src="../202604-MODEX/Images/IMG_5706.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5706.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">会場へ向かう途中のアトランタ市内で遭遇した WM（Waste Management）の大型パッカー車。後部に油圧式リフト＆反転機構が搭載されており、ゴミ箱を自動で持ち上げ荷台へ投入する。「ゴミ箱を自動搬送して反転機で空にする」というアイデアの現実版（MODEX 2026 視察時）</p>
 
 <br>
-<img src="../202604-MODEX/Images/IMG_5889.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5889.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">MODEX 会場内での傾斜・反転コンベア自動搬送デモ。コンテナを傾斜させてコンベアに流す機構。DR 自動搬送システムの直接の着想源（MODEX 2026）</p>
 
 - MODEX 2026 のデモ：大型コンテナ（ゴミ箱）を傾斜・反転してコンベアに流す自動搬送デモを視察
@@ -52,8 +52,8 @@ MODEX 2026 で観察したゴミ箱自動搬送デモと、アトランタ市内
 
 ## 関連情報
 
-- [MODEX 2026 Nippou.txt](../202604-MODEX/Nippou.tt)
-- [MODEX 2026 Report.md](../202604-MODEX/Report.md)
+- [MODEX 2026 Nippou.txt](../../Reports/202604-MODEX/Nippou.tt)
+- [MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)
 - [Knowledge/Logistics/TrailerLoading_Automation.md](../Knowledge/Logistics/TrailerLoading_Automation.md)
 
 ## 更新履歴

@@ -6,7 +6,7 @@
 中国・インド・韓国・米国・オランダ、多国籍プレイヤーが同一カテゴリで競合している。
 日本の物流展で「だいたいわかっていた」認識は、MODEX を見て完全に覆された。
 
-<img src="../../202604-MODEX/Images/IMG_5736.JPG" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_5736.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">各社 AMR が複数台同時展示。ZS Robotics（中国）をはじめ、多国籍メーカーが同一フロアで競合を展開した（MODEX 2026）</p>
 
 ## MODEX 2026 での観察
@@ -18,8 +18,8 @@
 
 <br>
 <p>
-<img src="../../202604-MODEX/Images/IMG_5728.JPG" width="390">
-<img src="../../202604-MODEX/Images/IMG_20260414_121814.jpg" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_5728.JPG" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_121814.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">（左）ADDVERB（インド）。「True Human+Robot Collaboration」と「Pallet & Tote ASRS Solutions」の両輪で展開。Panasonic・Siemens との協業実績を掲示。（右）NewAge Industrial の AMR カート連動棚。棚搬送型 AMR が棚ごと自律搬送する（MODEX 2026）</p>
 
@@ -41,12 +41,12 @@
 | Robotize | デンマーク | 超低床フラット AMR、パレット直搬送 |
 
 <br>
-<img src="../../202604-MODEX/Images/IMG_20260415_113439.jpg" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260415_113439.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Locus Robotics（米国）の大型ブース。「Case Picking / Returns / Transport / Sanitation」— 物流現場の全工程をワンプラットフォームで賄うコンセプト。AMR がコモディティ化した先にある「ソフトウェア統合」競争軸を体現していた（MODEX 2026）</p>
 
 ## ハノーバーメッセ 2026 での観察
 
-<img src="../../202604-HANNOVER/Images/IMG_20260420_154826.jpg" width="800">
+<img src="../../../Reports/202604-HANNOVER/Images/IMG_20260420_154826.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">会場通路を単独走行する小型AMR。来場者が行き交う通路を、監視員なしで人混みをかき分けながら進む。誰も驚かない。（ハノーバーメッセ 2026）</p>
 
 - **最大の発見は「走っている場所」だった**：ブースを飛び出し、来場者が行き交う通路を1300kgを牽引しながら走行。監視員なし
@@ -68,8 +68,8 @@
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../../202604-MODEX/Report.md)
-- [ハノーバーメッセ 2026 Report.md](../../202604-HANNOVER/Report.md)
+- [MODEX 2026 Report.md](../../../Reports/202604-MODEX/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

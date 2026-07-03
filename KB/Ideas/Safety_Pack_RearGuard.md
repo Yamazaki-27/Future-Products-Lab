@@ -5,15 +5,15 @@
 手動ハンドパレットジャックの「安全安心パック」に、後方倒れ止め柵を追加する。
 MODEX 2026 で観察した、ハンドのボディプレートに後方倒れ止め柵を取り付けたシンプルな安全装置が発想源。
 
-<img src="../202604-MODEX/Images/IMG_20260415_113623.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260415_113623.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Bishamon（日系）の手動パレットジャック（青）。このような手動ハンドのボディプレートに後方倒れ止め柵を追加するシンプルな安全装置が出展されていた（MODEX 2026）</p>
 
 ## 背景
 
 <br>
 <p>
-<img src="../202604-MODEX/Images/IMG_5867.JPG" width="390">
-<img src="../202604-MODEX/Images/IMG_20260415_111644.jpg" width="390">
+<img src="../../Reports/202604-MODEX/Images/IMG_5867.JPG" width="390">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260415_111644.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">Titan（米国）の手動パレットジャック。後方倒れ止めが取り付けられた同種モデルが MODEX で確認されており、橋本 GM が注目した。（左）カウンター越し。（右）正面アングル（MODEX 2026）</p>
 
@@ -57,7 +57,7 @@ MODEX 2026 で観察した、ハンドのボディプレートに後方倒れ止
 
 ## 関連情報
 
-- [MODEX 2026 Nippou.txt](../202604-MODEX/Nippou.tt)
+- [MODEX 2026 Nippou.txt](../../Reports/202604-MODEX/Nippou.tt)
 - [Knowledge/Safety/RearGuard_HandPallet.md](../Knowledge/Safety/RearGuard_HandPallet.md)
 
 ## 更新履歴

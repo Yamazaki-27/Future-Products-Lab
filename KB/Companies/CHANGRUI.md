@@ -13,7 +13,7 @@
 
 ## 展示・接触内容
 
-<img src="../202604-HANNOVER/Images/IMG_20260421_102321.jpg" width="800">
+<img src="../../Reports/202604-HANNOVER/Images/IMG_20260421_102321.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">DONGYING CHANGRUI INVESTMENT CASTING CO.のブースにて意見交換。精密鋳造20年の中国メーカー。（ハノーバーメッセ 2026）</p>
 
 - 山崎が直接訪問し意見交換
@@ -34,7 +34,7 @@
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

@@ -5,7 +5,7 @@
 「5分でトレーラーを積み降ろし」を謳う自動化システムが MODEX 2026 で複数出展。
 AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続部分（ラストフィート）へ広がっている。
 
-<img src="../../202604-MODEX/Images/IMG_20260414_151905.jpg" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_151905.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">LIFTPOINT ブースの全景。Raymond のリーチスタッカーをリフト上に持ち上げ、コンテナ床面に高さを合わせて直接乗り入れを可能にする。「設計力を感じる」（Nippou）（MODEX 2026）</p>
 
 ## MODEX 2026 での観察
@@ -13,7 +13,7 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 ### Slip Robotics
 
 <br>
-<img src="../../202604-MODEX/Images/IMG_5780.JPG" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_5780.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">Slip Robotics（「AN ENTIRE TRAILER IN 5 MINUTES」）の展示。THIRA Robotics と隣接出展。トラック荷積みの完全自動化を謳う（MODEX 2026）</p>
 
 - 「AN ENTIRE TRAILER IN 5 MINUTES」
@@ -24,7 +24,7 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 ### LIFTPOINT
 
 <br>
-<img src="../../202604-MODEX/Images/IMG_20260414_151821.jpg" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_151821.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">LIFTPOINT — フォークリフトをコンテナの高さに持ち上げ、海上コンテナへの直接乗り入れを可能にするリフトプラットフォーム。「設計力を感じる」（Nippou）（MODEX 2026）</p>
 
 - 「フォークリフトをコンテナの高さに合わせる」リフトプラットフォーム
@@ -35,7 +35,7 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 ### Superior Lifts「The Last Four Feet」
 
 <br>
-<img src="../../202604-MODEX/Images/IMG_5886.JPG" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_5886.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">Superior Lifts「The Last Four Feet」— トラックバースと荷台の最後の4フィートのギャップを解決するリフトプラットフォーム。「Skip Construction / Improve Safety / Waste Less Space」の3つのバリューを訴求（MODEX 2026）</p>
 
 - トラックバースと荷台の最後の4フィート（約1.2m）のギャップを解決
@@ -59,7 +59,7 @@ AGV/AMR の活用域が倉庫内部から「倉庫⇔トレーラー」の接続
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../../202604-MODEX/Report.md)
+- [MODEX 2026 Report.md](../../../Reports/202604-MODEX/Report.md)
 
 ## 更新履歴
 

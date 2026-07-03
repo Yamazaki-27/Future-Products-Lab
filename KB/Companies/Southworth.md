@@ -9,17 +9,17 @@
 | 展示会 | MODEX 2026（アトランタ）|
 | 製品カテゴリ | シザーリフト・ティルター・ポジショナー |
 
-<img src="../202604-MODEX/Images/IMG_20260414_123436.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260414_123436.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Southworth（米国）のブース全景。シザーリフト・ティルター・モバイルポジショナーが一堂に会す。スギヤスと直接競合する領域（MODEX 2026）</p>
 
 ## 観察内容
 
 <br>
-<img src="../202604-MODEX/Images/IMG_5744.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5744.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">Southworth の全ブース俯瞰。黄色のモバイルリフト・ポジショナー、緑のシザーリフト、ティルターが一堂に会す。背後に ITOH DENKI と Power Moller が見える（MODEX 2026）</p>
 
 <br>
-<img src="../202604-MODEX/Images/IMG_20260414_123404.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260414_123404.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Southworth のコンベア組み込み型シザーリフト（超低プロファイル）。ローラーコンベアのライン内に埋め込んで、荷を持ち上げながら次工程へ流す設計。スペース効率を最大化したラインリフトの好例（MODEX 2026）</p>
 
 - ティルター（傾斜台）とシザーリフトを組み合わせた複合製品ラインナップ
@@ -49,7 +49,7 @@
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../202604-MODEX/Report.md)
+- [MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)
 - [Knowledge/Lift/ScissorLift_GlobalTrends.md](../Knowledge/Lift/ScissorLift_GlobalTrends.md)
 
 ## 更新履歴

@@ -6,7 +6,7 @@ Palantir・AWS・アクセンチュア・ボストンコンサルティング・
 ソフトウェア側とコンサル側の両面から、製造現場の「中身」を取りにきている。
 ハノーバーメッセ 2026 で明確に見えた構造変化だ。製造業とITの境界線は、もはや存在しない。
 
-<img src="../../202604-HANNOVER/Images/IMG_20260420_130641.jpg" width="800">
+<img src="../../../Reports/202604-HANNOVER/Images/IMG_20260420_130641.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Palantir「The Agentic Operating System for the Enterprise」ブース。AI駆動の意思決定システムを製造業に直接売り込む。（ハノーバーメッセ 2026）</p>
 
 ## ハノーバーメッセ 2026 での観察
@@ -43,7 +43,7 @@ Palantir・AWS・アクセンチュア・ボストンコンサルティング・
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

@@ -9,7 +9,7 @@
 | 展示会 | MODEX 2026（アトランタ）|
 | ブースキャッチコピー | 「All Robots. One Platform. Fully in Your Control.」|
 
-<img src="../202604-MODEX/Images/IMG_5903.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5903.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">SEER Robotics（中国）の大型ブース。「All Robots. One Platform. Fully in Your Control.」— DMP 名義で名刺交換済み（MODEX 2026）</p>
 
 ## 観察内容
@@ -37,7 +37,7 @@
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../202604-MODEX/Report.md)
+- [MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)
 
 ## 更新履歴
 

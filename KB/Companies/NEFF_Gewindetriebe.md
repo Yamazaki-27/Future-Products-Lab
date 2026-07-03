@@ -12,7 +12,7 @@
 
 ## 展示内容
 
-<img src="../202604-HANNOVER/Images/IMG_20260420_164153.jpg" width="800">
+<img src="../../Reports/202604-HANNOVER/Images/IMG_20260420_164153.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">NEFF Gewindetriebe ブース全景。各種ボールネジ・台形ネジ・リニアガイドを展示。（ハノーバーメッセ 2026）</p>
 
 - **主展示品**：3段テレスコ台形ネジシリンダー 2本同調デモ機
@@ -41,7 +41,7 @@
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

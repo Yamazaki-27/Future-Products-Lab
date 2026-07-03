@@ -12,7 +12,7 @@
 
 ## 展示内容
 
-<img src="../202604-HANNOVER/Images/IMG_20260421_124217.jpg" width="800">
+<img src="../../Reports/202604-HANNOVER/Images/IMG_20260421_124217.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">GRADINブース。シザーリフト・連続垂直コンベア（CVC）・フォーポストリフトプラットフォームを展示。CE・AAA認証取得済み。（ハノーバーメッセ 2026）</p>
 
 - シザーリフト（黄黒の配色、欧州安全マーキング対応）
@@ -38,7 +38,7 @@
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

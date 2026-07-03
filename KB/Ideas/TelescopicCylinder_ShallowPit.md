@@ -5,7 +5,7 @@
 3段テレスコ台形ネジシリンダーを採用することで、埋め込み型リフトのピット深さを極限まで浅くする。
 後付け設置が困難だった案件（既存床面下の掘削制限・コスト問題）を一気に解決できる可能性がある。
 
-<img src="../202604-HANNOVER/Images/IMG_20260420_164022.jpg" width="800">
+<img src="../../Reports/202604-HANNOVER/Images/IMG_20260420_164022.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">NEFF Gewindetriebe の3段テレスコ台形ネジシリンダー2本同調。Makitaドリルドライバーで駆動するデモ。（ハノーバーメッセ 2026）</p>
 
 ## 背景
@@ -53,7 +53,7 @@
 
 - [NEFF Gewindetriebe 企業情報](../Companies/NEFF_Gewindetriebe.md)
 - [テレスコピックシリンダー（台形ネジ式）知識](../Knowledge/Manufacturing/TelescopicCylinder.md)
-- [ハノーバーメッセ 2026 Report.md](../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

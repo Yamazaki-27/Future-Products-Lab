@@ -7,15 +7,15 @@
 ヨーロッパ発の技術を国内中小メーカーが製品化した点で、市場ギャップを示す事例でもある。
 
 <br>
-<img src="../../202606-InnovationEXPO/images/四恩3.JPG" width="800">
+<img src="../../../Reports/202606-InnovationEXPO/images/四恩3.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">四恩システムのAGV全景とFloor SLAM技術パネル。ガイド不要、ルート変更即対応が特徴。（INNOVATION EXPO 2026）</p>
 
 ## 技術特徴
 
 <br>
 <p>
-<img src="../../202606-InnovationEXPO/images/yamazaki/IMG_7624.JPG" width="390">
-<img src="../../202606-InnovationEXPO/images/yamazaki/IMG_7625.JPG" width="390">
+<img src="../../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7624.JPG" width="390">
+<img src="../../../Reports/202606-InnovationEXPO/images/yamazaki/IMG_7625.JPG" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">四恩システム AGV 実機展示。スバルに約30台導入済み。（INNOVATION EXPO 2026）</p>
 
@@ -51,7 +51,7 @@
 
 - [Companies/四恩システム.md](../../Companies/四恩システム.md)
 - [Ideas/FloorSLAM_ABM_NavigationOption.md](../../Ideas/FloorSLAM_ABM_NavigationOption.md)
-- [INNOVATION EXPO 2026 Report.md](../../202606-InnovationEXPO/Report.md)
+- [INNOVATION EXPO 2026 Report.md](../../../Reports/202606-InnovationEXPO/Report.md)
 
 ## 更新履歴
 

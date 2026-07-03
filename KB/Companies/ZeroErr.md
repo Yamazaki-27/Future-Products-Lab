@@ -12,7 +12,7 @@
 
 ## 展示内容
 
-<img src="../202604-HANNOVER/Images/IMG_20260421_143103.jpg" width="800">
+<img src="../../Reports/202604-HANNOVER/Images/IMG_20260421_143103.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">ZeroErr の eRob ロータリーアクチュエータ。ヒューマノイド・協働ロボットの各関節に使われる精密駆動部品。（ハノーバーメッセ 2026）</p>
 
 - **eRob**：ヒューマノイド・協働ロボットの各関節向け小型ロータリーアクチュエータ
@@ -43,7 +43,7 @@
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

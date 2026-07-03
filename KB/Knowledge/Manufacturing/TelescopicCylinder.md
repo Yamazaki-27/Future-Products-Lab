@@ -6,7 +6,7 @@
 油圧シリンダーでは実現困難な全縮長の短さを、台形ネジの組み合わせで達成する。
 ハノーバーメッセ 2026 で最大の技術的発見となった。
 
-<img src="../../202604-HANNOVER/Images/IMG_20260420_164022.jpg" width="800">
+<img src="../../../Reports/202604-HANNOVER/Images/IMG_20260420_164022.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">NEFF Gewindetriebe（ドイツ）の3段テレスコ台形ネジシリンダー2本同調展示。Makitaのドリルドライバーで動くデモ。（ハノーバーメッセ 2026）</p>
 
 ## ハノーバーメッセ 2026 での観察
@@ -41,7 +41,7 @@
 
 ## 関連レポート
 
-- [ハノーバーメッセ 2026 Report.md](../../202604-HANNOVER/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../../Reports/202604-HANNOVER/Report.md)
 
 ## 関連アイデア
 

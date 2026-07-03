@@ -9,7 +9,7 @@
 | 展示会 | MODEX 2026（アトランタ）|
 | 製品カテゴリ | 物流システム・自動化・搬送機器 |
 
-<img src="../202604-MODEX/Images/IMG_5756.JPG" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_5756.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">DEMATIC のブース。大型パレットティルター・反転機の実動デモに来場者が群がっていた。DHL・Amazon・Walmart への大規模導入実績を強調。（MODEX 2026）</p>
 
 ## 観察内容
@@ -37,7 +37,7 @@
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../202604-MODEX/Report.md)
+- [MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)
 - [Knowledge/Lift/ScissorLift_GlobalTrends.md](../Knowledge/Lift/ScissorLift_GlobalTrends.md)
 
 ## 更新履歴

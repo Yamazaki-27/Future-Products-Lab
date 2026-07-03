@@ -21,13 +21,13 @@
 ## 主力製品「DTR シリーズ」
 
 <br>
-<img src="../202604-IMS/Images/IMG_20260424_161606.jpg" width="800">
+<img src="../../Reports/202604-IMS/Images/IMG_20260424_161606.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">DTR（Demi Tracteur Roulant）シリーズ。1 〜 10 トン 4 タイプ展開。2003 年から継続製造。（2026年4月24日）</p>
 
 <br>
 <p>
-<img src="../202604-IMS/Images/VID_20260424_161132_thumb.jpg" width="390">
-<img src="../202604-IMS/Images/IMG_20260424_160546.jpg" width="390">
+<img src="../../Reports/202604-IMS/Images/VID_20260424_161132_thumb.jpg" width="390">
+<img src="../../Reports/202604-IMS/Images/IMG_20260424_160546.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">（左）DTR 正面。IMS ロゴと操作ハンドル。（右）実機デモの様子。売れ筋は 1.5〜3 トンクラス。（2026年4月24日）</p>
 
@@ -44,7 +44,7 @@
 ## コントローラー
 
 <br>
-<img src="../202604-IMS/Images/IMG_20260424_162114.jpg" width="800">
+<img src="../../Reports/202604-IMS/Images/IMG_20260424_162114.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">DTR のコントロールパネル。IMS ロゴ・バッテリー残量計・速度ダイヤル・OFF/ON キースイッチ。PG Drive 社製コントローラー搭載。（2026年4月24日）</p>
 
 採用しているのは **PG Drive Technologies（英国）**。
@@ -74,5 +74,5 @@
 
 ## 関連ファイル
 
-- [IMS 訪問レポート](../202604-IMS/Report.md)
+- [IMS 訪問レポート](../../Reports/202604-IMS/Report.md)
 - [DTR 輸入・販売代理 アイデア](../Ideas/IMS_DTR_ImportDistribution.md)

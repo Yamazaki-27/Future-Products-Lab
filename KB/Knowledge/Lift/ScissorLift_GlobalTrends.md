@@ -5,7 +5,7 @@
 MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジャック・電動台車など搬送補助機器の多数の出展があった。
 スギヤスの競合・参考となる企業が多数存在することが確認された。
 
-<img src="../../202604-MODEX/Images/IMG_20260414_123140.jpg" width="800">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_123140.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Southworth（米国）のコンベアライン組み込み型シザーリフト（超低プロファイル）。スギヤスのリフト商品と直接競合する（MODEX 2026）</p>
 
 ## MODEX 2026 での観察
@@ -23,15 +23,15 @@ MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジ
 
 <br>
 <p>
-<img src="../../202604-MODEX/Images/IMG_20260414_101539.jpg" width="390">
-<img src="../../202604-MODEX/Images/IMG_20260414_125312.jpg" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_101539.jpg" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260414_125312.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">（左）Blue Giant（カナダ）の電動シザーリフトと電動パレットジャック。（右）Presto（米国）の空気圧式シザーリフト。ベローズ（空気袋）で昇降する構造が目を引いた（MODEX 2026）</p>
 
 <br>
 <p>
-<img src="../../202604-MODEX/Images/IMG_20260415_113635.jpg" width="390">
-<img src="../../202604-MODEX/Images/IMG_20260415_113642.jpg" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260415_113635.jpg" width="390">
+<img src="../../../Reports/202604-MODEX/Images/IMG_20260415_113642.jpg" width="390">
 </p>
 <p style="color:#888888; font-size:1.05em;">（左）L66K Alpha Series（米国）。「Modular Design / Steel Reservoir / Flow Limiting Valves / 6600 lb Capacity」のシザーリフト。（右）Bishamon（日系）のシザーリフトブース。青が特徴的なラインナップ。米国展示会に日本系メーカーがしっかり出展していた（MODEX 2026）</p>
 
@@ -60,7 +60,7 @@ MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジ
 
 ## ハノーバーメッセ 2026 での観察
 
-<img src="../../202604-HANNOVER/Images/IMG_20260421_124217.jpg" width="800">
+<img src="../../../Reports/202604-HANNOVER/Images/IMG_20260421_124217.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">GRADIN（中国）ブース。シザーリフト・CVC・フォーポストリフトプラットフォームを展示。CE・AAA認証取得済み。（ハノーバーメッセ 2026）</p>
 
 | 企業 | 国 | 特徴 |
@@ -92,8 +92,8 @@ MODEX 2026 では AMR・ASRS と並んで、シザーリフト・パレットジ
 
 ## 関連レポート
 
-- [MODEX 2026 Report.md](../../202604-MODEX/Report.md)
-- [ハノーバーメッセ 2026 Report.md](../../202604-HANNOVER/Report.md)
+- [MODEX 2026 Report.md](../../../Reports/202604-MODEX/Report.md)
+- [ハノーバーメッセ 2026 Report.md](../../../Reports/202604-HANNOVER/Report.md)
 
 ## 更新履歴
 

@@ -4,7 +4,7 @@
 
 MODEX 2026 で観察したパレット段積み装置（ガスダンパー使用）のコンセプトを、国内市場向けに製品化・販売する。
 
-<img src="../202604-MODEX/Images/IMG_20260414_125347.jpg" width="800">
+<img src="../../Reports/202604-MODEX/Images/IMG_20260414_125347.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">SMG3 EDGE エリアで目にした小型電動バーチカルリフター（ポスト型）。パレット搬送の垂直化・自動化という発想が共通する（MODEX 2026）</p>
 
 ## 背景
@@ -39,7 +39,7 @@ MODEX 2026 で観察したパレット段積み装置（ガスダンパー使用
 
 ## 関連情報
 
-- [MODEX 2026 Nippou.txt](../202604-MODEX/Nippou.tt)
+- [MODEX 2026 Nippou.txt](../../Reports/202604-MODEX/Nippou.tt)
 
 ## 未確認事項
 
