@@ -14,6 +14,8 @@
 | 2026年2月12日 | [🇯🇵 日本／国際オートアフターマーケットEXPO 2026（東京ビッグサイト）](202602-AfterMark/Report.md) | 山崎 | 22枚・2.9MB | — |
 | 2026年4月13日 | [🇺🇸 米国／MODEX 2026（ジョージア・ワールド・コングレス・センター）](202604-MODEX/Report.md) | 山崎・橋本GM | 111枚・15.0MB | [7/2](archive_log.md) |
 | 2026年4月20日 | [🇩🇪 ドイツ／ハノーバーメッセ 2026（ハノーバー見本市会場）](202604-HANNOVER/Report.md) | 山崎・橋本GM | 34枚・4.5MB | [7/2](archive_log.md) |
+| 2026年4月22日 | [🇫🇷 フランス／MANUVIT 工場視察・商談（La Ferté Macé）](202604-MANUVIT/Report.md) | 山崎・橋本GM | 28枚・3.3MB | [7/3](archive_log.md) |
+| 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](202604-IMS/Report.md) | 山崎・橋本GM | 20枚・2.5MB | [7/3](archive_log.md) |
 | 2026年6月1日 | [🇹🇼 台湾／Computex 2026（台北）](202605-Computex/Coputex2026-Report.md) | 山崎 | 41枚・20.5MB | — |
 | 2026年6月11日 | [🇯🇵 日本／Interop Tokyo 2026（幕張メッセ）](202606-Interop26/Interop26-Report.md) | 山崎 | 48枚・12.4MB | — |
 | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 山崎 | 77枚・17.0MB | — |
@@ -80,6 +82,8 @@
 | ナブテスコ | [ナブテスコ.md](Companies/ナブテスコ.md) | 後付け電動アシストユニット。自動車業界で急成長。IMS との差別化軸 | 2026-07-03 |
 | infonerv | [infonerv.md](Companies/infonerv.md) | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み | 2026-07-03 |
 | ヤマハ発動機 | [ヤマハ発動機_PAXIS.md](Companies/ヤマハ発動機_PAXIS.md) | 車いすインホイールモータの物流横展開 PAXIS。コア技術転用の好例 | 2026-07-03 |
+| MANUVIT | [MANUVIT.md](Companies/MANUVIT.md) | 仏・1981年創業・Variable Geometry 特許。60kg SFL 型が輸入・OEM 候補筆頭 | 2026-07-03 |
+| IMS Manutention | [IMS_Manutention.md](Companies/IMS_Manutention.md) | 仏・1973年創業。DTR 電動牽引トラクター専業。1〜10トン・PG Drive 採用 | 2026-07-03 |
 
 ### トレンド（Trends/）
 
@@ -97,6 +101,8 @@
 | [パレット段積み装置 国内市場投入](Ideas/Pallet_Stacker_Market.md) | ガスダンパー方式の段積み装置。「機が熟す頃」（Nippou）| 2026-07-02 |
 | [SitePrint 床面印刷ロボット](Ideas/SitePrint_FloorPrinting.md) | 床面±2mm精度で墨出しを自動化。設備導入前工程の付帯サービス化 | 2026-07-03 |
 | [ABMへの Floor SLAM 誘導方式追加](Ideas/FloorSLAM_ABM_NavigationOption.md) | 四恩システムとの技術提携で ABM の誘導方式をビニールテープ・QR・Floor SLAM に拡張 | 2026-07-03 |
+| [MANUVIT 60kg SFL 型 輸入・OEM 検討](Ideas/MANUVIT_60kgSFL_Import.md) | 山崎構想と合致する製品が MANUVIT に実在。輸入・OEM・ライセンスの3オプション整理 | 2026-07-03 |
+| [IMS DTR シリーズ 輸入・販売代理検討](Ideas/IMS_DTR_ImportDistribution.md) | 重量物搬送 1〜10 トン。PG Drive 採用。代理店契約・型式検定対応が次のステップ | 2026-07-03 |
 
 <br>
 
