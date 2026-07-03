@@ -120,15 +120,15 @@
 
 | 章 | 内容 |
 |---|---|
-| [1. GitHubとはなにか](GitHub-knowledge.md#1-githubとはなにか) | バージョン管理を3分で理解する |
-| [2. 覚えるのはこの7語だけ](GitHub-knowledge.md#2-覚えるのはこの7語だけ) | リポジトリ・ブランチ・コミット・PR 他 |
-| [3. このリポジトリのルール](GitHub-knowledge.md#3-このリポジトリのルール) | 役割・ブランチ名・作業の流れ |
-| [4. 最初の準備](GitHub-knowledge.md#4-最初の準備pcのセットアップ) | GitHub Desktop のインストール |
-| [5. 毎回の作業ステップ](GitHub-knowledge.md#5-毎回の作業ステップ) | Pull → ブランチ → 編集 → Commit → Push → PR |
-| [6. Markdownの書き方](GitHub-knowledge.md#6-markdownの書き方) | 見出し・表・写真の記法 |
-| [7. 困ったときは](GitHub-knowledge.md#7-困ったときは) | よくある質問と対処法 |
+| [1. GitHubとはなにか](strategy/GitHub-knowledge.md#1-githubとはなにか) | バージョン管理を3分で理解する |
+| [2. 覚えるのはこの7語だけ](strategy/GitHub-knowledge.md#2-覚えるのはこの7語だけ) | リポジトリ・ブランチ・コミット・PR 他 |
+| [3. このリポジトリのルール](strategy/GitHub-knowledge.md#3-このリポジトリのルール) | 役割・ブランチ名・作業の流れ |
+| [4. 最初の準備](strategy/GitHub-knowledge.md#4-最初の準備pcのセットアップ) | GitHub Desktop のインストール |
+| [5. 毎回の作業ステップ](strategy/GitHub-knowledge.md#5-毎回の作業ステップ) | Pull → ブランチ → 編集 → Commit → Push → PR |
+| [6. Markdownの書き方](strategy/GitHub-knowledge.md#6-markdownの書き方) | 見出し・表・写真の記法 |
+| [7. 困ったときは](strategy/GitHub-knowledge.md#7-困ったときは) | よくある質問と対処法 |
 
-👉 **[GitHub-knowledge.md を読む](GitHub-knowledge.md)**
+👉 **[GitHub-knowledge.md を読む](strategy/GitHub-knowledge.md)**
 
 <br>
 

@@ -1,6 +1,6 @@
 # GitHub 取扱説明書
 
-<img src="Images/ChatGPT Image.png" width="800">
+<img src="../Images/ChatGPT Image.png" width="800">
 
 > **これだけ覚えれば仕事できる。**
 > 難しく考えなくていい。「変更履歴が残る共有フォルダ」だ。
@@ -212,14 +212,14 @@ HTMLやWordより単純で、テキストファイルなのにレイアウトが
 
 [リンクテキスト](https://example.com)
 
-![代替テキスト](Images/写真ファイル名.jpg)
+![代替テキスト](../Images/写真ファイル名.jpg)
 ```
 
 ### 写真の入れ方（このリポジトリのスタイル）
 
 ```markdown
 <br>
-<img src="Images/IMG_1234.jpg" width="800">
+<img src="../Images/IMG_1234.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">写真の説明文。何が写っているか・展示会名を書く。</p>
 ```
 
