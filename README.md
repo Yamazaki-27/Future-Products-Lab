@@ -14,6 +14,7 @@
 | 2025年6月18日 | [🇯🇵 日本／第38回 オートサービスショー2025（東京ビッグサイト）](Reports/202506-ASS/Report.md) | 山崎 | 23枚・3.8MB | — |
 | 2025年9月17日 | [🇯🇵 日本／Diet & Beauty Fair 2025（東京ビッグサイト）](Reports/202509-DietBeautyFair/Report.md) | 山崎 | 12枚・1.4MB | — |
 | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | — |
+| 2025年11月26日 | [🇨🇳 中国／EP Equipment（浙江中力機械）工場視察・商談（浙江省）](Reports/202511-EP/Report.md) | 山崎・廣田・橋本 | 27枚・39.2MB | [7/6](Reports/archive_log.md) |
 | 2025年12月3日 | [🇯🇵 日本／iREX2025 国際ロボット展（東京ビッグサイト）](Reports/202512-InterRobot/Report.md) | 山崎 | 27枚・3.8MB | — |
 | 2026年2月12日 | [🇯🇵 日本／国際オートアフターマーケットEXPO 2026（東京ビッグサイト）](Reports/202602-AfterMark/Report.md) | 山崎 | 22枚・2.9MB | — |
 | 2026年4月13日 | [🇺🇸 米国／MODEX 2026（ジョージア・ワールド・コングレス・センター）](Reports/202604-MODEX/Report.md) | 山崎・橋本GM | 111枚・15.0MB | [7/2](Reports/archive_log.md) |
@@ -54,7 +55,7 @@
 
 展示会・出張レポートから抽出した技術テーマ・企業情報・市場変化・商品開発アイデアの蓄積。
 
-> 最終更新列は **2026-07-03 15:30** 時点の相対時間です。
+> 最終更新列は **2026-07-06 09:36** 時点の相対時間です。
 
 ### 技術テーマ（Knowledge/）
 
@@ -90,11 +91,13 @@
 | ヤマハ発動機 | [ヤマハ発動機_PAXIS.md](KnowledgeBase/Companies/ヤマハ発動機_PAXIS.md) | 車いすインホイールモータの物流横展開 PAXIS。コア技術転用の好例 | Today |
 | MANUVIT | [MANUVIT.md](KnowledgeBase/Companies/MANUVIT.md) | 仏・1981年創業・Variable Geometry 特許。60kg SFL 型が輸入・OEM 候補筆頭 | Today |
 | IMS Manutention | [IMS_Manutention.md](KnowledgeBase/Companies/IMS_Manutention.md) | 仏・1973年創業。DTR 電動牽引トラクター専業。1〜10トン・PG Drive 採用 | Today |
+| EP Equipment | [EP_Equipment.md](KnowledgeBase/Companies/EP_Equipment.md) | 中国・杭州。7工場・4000名・30万台/年。AMR 150台実稼働。上場企業（603194） | Today |
 
 ### トレンド（Trends/）
 
 | ファイル | 内容 | 最終更新 |
 |---|---|:---:|
+| [2025年トレンド](KnowledgeBase/Trends/2025.md) | AMRの実工場稼働フェーズ移行・Ubuntu/ROS2主流化・中国電動フォークリフト量産体制確立 | Today |
 | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装 他 | Today |
 
 ### アイデア（Ideas/）
@@ -109,6 +112,8 @@
 | [ABMへの Floor SLAM 誘導方式追加](KnowledgeBase/Ideas/FloorSLAM_ABM_NavigationOption.md) | 四恩システムとの技術提携で ABM の誘導方式をビニールテープ・QR・Floor SLAM に拡張 | Today |
 | [MANUVIT 60kg SFL 型 輸入・OEM 検討](KnowledgeBase/Ideas/MANUVIT_60kgSFL_Import.md) | 山崎構想と合致する製品が MANUVIT に実在。輸入・OEM・ライセンスの3オプション整理 | Today |
 | [IMS DTR シリーズ 輸入・販売代理検討](KnowledgeBase/Ideas/IMS_DTR_ImportDistribution.md) | 重量物搬送 1〜10 トン。PG Drive 採用。代理店契約・型式検定対応が次のステップ | Today |
+| [フリーロケーション AMR スタッキング](KnowledgeBase/Ideas/FreeLocation_AMR_Stacking.md) | EP社で150台実稼働確認。固定棚なし・鉄製パレット自律段積み。スギヤス製品連携の要件化 | Today |
+| [簡易ティーチング式電動車](KnowledgeBase/Ideas/EasyTeaching_ElectricVehicle.md) | EP社ショールームで発見。フルAMRより低コスト。山崎部長が「相当魅力的」と評価 | Today |
 
 <br>
 
