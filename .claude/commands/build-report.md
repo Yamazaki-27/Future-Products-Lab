@@ -60,21 +60,40 @@
 
 ## 完了済み判定
 
-各工程の実行前に、以下の手順で「前回ビルドから変更があるか」を確認する。
+各工程の実行前に、以下の2段階で「前回ビルドの状態」を確認する。
 
-確認対象は `Report.md` だけでなく、**写真・動画・Nippou.txt** も含む。
+### 第1段階：前回の中断工程の確認
+
+`build_log.md` が存在する場合、最終エントリを読み、前回どの工程まで完了したかを特定する。
+
+- 前回が **工程の途中で中断**（例：make-report・review-report 完了、publish-report 未実行）している場合は、
+  ファイルのタイムスタンプ比較を行わず、**未完了の工程から再開する**
+- この場合、make-report を再実行しない（Report.md が PUBLISH_SUMMARY.md より新しくても「追記モード」と誤判定しない）
+- 前回のビルドが archive-report まで完走している場合のみ、第2段階へ進む
+
+### 第2段階：ファイル変更の確認
+
+確認対象は `Report.md` だけでなく、**写真・動画・日報テキスト** も含む。
+日報ファイルはファイル名の揺れ（タイポ・別名）があり得るため、`*.txt` 全体を対象とする。
 
 ```bash
 # 作業対象フォルダー内で実行
-# PUBLISH_SUMMARY.md より新しいファイルが1つでもあれば「変更あり」
-newer=$(find . \
-  \( -name "Report.md" \
-  -o -name "Nippou.txt" \
-  -o -path "*/Images/*" \) \
-  -newer PUBLISH_SUMMARY.md 2>/dev/null | head -1)
-
-# $newer が空なら「変更なし」、空でなければ「変更あり」
+if [ ! -f PUBLISH_SUMMARY.md ]; then
+  # PUBLISH_SUMMARY.md が無い＝初回ビルド。必ず「変更あり」として全工程を実行する
+  echo "変更あり（初回ビルド）"
+else
+  # PUBLISH_SUMMARY.md より新しいファイルが1つでもあれば「変更あり」
+  newer=$(find . \
+    \( -name "Report.md" \
+    -o -name "*.txt" \
+    -o -path "*/Images/*" \) \
+    -newer PUBLISH_SUMMARY.md 2>/dev/null | head -1)
+  # $newer が空なら「変更なし」、空でなければ「変更あり」
+fi
 ```
+
+**注意**：`find` の `-newer` は比較対象ファイルが存在しないとエラーになり何も返さない。
+`2>/dev/null` でエラーが隠れると初回ビルドを「変更なし」と誤判定するため、存在チェックを必ず先に行う。
 
 **変更なし**と判定された場合（`PUBLISH_SUMMARY.md` が存在し、上記のファイルがすべて `PUBLISH_SUMMARY.md` 以前のタイムスタンプ）：
 
@@ -120,7 +139,7 @@ Report.md・Nippou.txt の変更があれば、再実行時に追記します。
 目的。
 
 - 動画サムネイル抽出・動画本体削除（毎回）
-- 写真の採否判断・OtherPictures/unUsed への振り分け（毎回）
+- 写真審査（毎回）：**基本は全写真を本文採用**。採用写真とよく似た写真のみ OtherPictures へ、ピンぼけ・手ブレ・誤写・ほぼ同一画角のみ unUsed へ
 - Nippou.txt を中心に初稿作成または追記
 - 写真を時系列で配置
 - 展示会概要を補足
@@ -176,14 +195,38 @@ publish-report の判定が `Ready for Publish` の場合のみ実行する。
 ## build_log.md
 
 作業対象フォルダー直下（例：`202604-HANNOVER/build_log.md`）に作成・追記する。
+毎回作り直さず、履歴として追記する。
 
-記録する内容。
+テンプレート。
 
-- 実行日時
-- 実行した工程
-- 成功・失敗
-- 生成・更新したファイル
-- 次に必要な作業
+```markdown
+# build_log — <フォルダー名>
+
+## YYYY-MM-DD ビルド実行
+
+### 実行工程
+
+| 工程 | 結果 | 備考 |
+|---|---|---|
+| make-report | done / skipped / failed | 写真分類の内訳・実行モード等 |
+| review-report | done / skipped / failed | 修正件数等 |
+| publish-report | Ready for Publish（XX/100）/ Needs Review / Not Ready | スコア |
+| archive-report | done / skipped / failed | 更新した KnowledgeBase ファイル数 |
+
+### 生成・更新ファイル
+
+- （工程ごとに列挙）
+
+### 特記事項
+
+- （エラー・代替手段・［要確認：〇〇］等）
+
+### 次に必要な工程
+
+- （全完了なら「なし（git commit のみ）」。中断時は未完了工程名を明記 ← 再開判定に使う）
+```
+
+**「次に必要な工程」欄は再開判定（完了済み判定・第1段階）が参照するため、必ず記入する。**
 
 ---
 
@@ -215,8 +258,10 @@ publish-report の判定が `Ready for Publish` の場合のみ実行する。
 
 make-report は大量のテキスト・写真処理を行うため、コンテキストを大量に消費する。
 
-一括実行の途中でコンテキストが逼迫した場合は、その工程の完了をもって一旦区切りとする。
-次のセッションで `/build-report` を再実行すると、make-report が「写真・動画審査のみモード」で実行され、その後 review-report 以降が継続される。
+一括実行の途中でコンテキストが逼迫した場合は、その工程の完了をもって一旦区切りとし、
+**`build_log.md` に「どの工程まで完了したか・次に必要な工程」を必ず記録してから終了する**。
+
+次のセッションで `/build-report` を再実行すると、完了済み判定の第1段階が `build_log.md` の最終エントリを読み、未完了の工程から再開する。
 
 ---
 
@@ -259,6 +304,12 @@ Future Product Lab Report System build 完了
 - archive-report: done（X分XX秒）/ skipped（理由）/ failed（理由）
 
 合計時間：X分XX秒
+
+写真統計：
+- 採用（本編）：XX枚
+- OtherPictures：XX枚
+- unUsed：XX枚
+- 動画サムネイル：XX本（元動画は削除済み）
 
 要確認事項：
 - （あれば列挙）

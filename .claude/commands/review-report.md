@@ -54,16 +54,75 @@
 
 ## 写真の向き補正
 
-写真の向きが不自然な場合は、見た目が自然になるように回転する。
+### Step 1: 全写真の EXIF orientation と縦横比を一括取得する
 
-確認ポイント。
+```bash
+for f in Images/*.JPG Images/*.jpg Images/*.JPEG Images/*.jpeg Images/*.PNG Images/*.png; do
+  [ -f "$f" ] || continue
+  sips -g pixelWidth -g pixelHeight -g orientation "$f" 2>/dev/null \
+    | awk -v name="$f" '
+        /pixelWidth/{w=$2}
+        /pixelHeight/{h=$2}
+        /orientation/{o=$2}
+        END{printf "%s  %dx%d  orient=%s\n", name, w, h, o}
+      '
+done
+```
 
-- 縦横の向き
-- 看板・文字・展示物の向き
-- 人物や機械の上下
-- スマートフォン撮影時のEXIF回転情報
+出力例：
+```
+Images/IMG_6016.JPG  800x600  orient=1
+Images/IMG_6062.JPG  600x800  orient=6
+```
 
-回転補正を行った場合は、元画像を残したうえで補正版を使用する。
+### Step 2: orientation 値の意味と対処
+
+| orientation 値 | 意味 | 必要な sips 処理 |
+|:---:|---|---|
+| `1` | 正常（補正不要） | なし |
+| `3` | 上下逆（180度回転） | `sips -r 180` |
+| `6` | 反時計回りに90度傾き | `sips -r 90` |
+| `8` | 時計回りに90度傾き | `sips -r 270` |
+| `2`, `4`, `5`, `7` | 鏡像反転系（まれ） | Read で目視確認後に判断 |
+
+orientation が `1` 以外のファイルはすべて補正対象候補とする。
+
+### Step 3: Read ツールで目視確認してから補正する
+
+orientation が `1` 以外のファイルは必ず Read ツールで開いて実際の見た目を確認する。
+EXIF フラグが残っていても画素自体がすでに正しい向きに展開されているケースがあるため、目視確認を省略しない。
+
+また orientation が `1` であっても、pixelHeight > pixelWidth × 1.5 など極端な縦長比率の場合は Read ツールで確認する（スクリーンショット等で向きが取り込まれていない場合がある）。
+
+### Step 4: 補正の実施（タイムスタンプを必ず保持する）
+
+```bash
+# 例：90度右回転（orientation=6 の場合）
+f="Images/IMG_xxxx.JPG"
+ts=$(date -r "$f" +"%Y%m%d%H%M.%S")
+sips -r 90 "$f"
+touch -t "$ts" "$f"
+
+# 補正後に orientation が 1 になったことを確認
+sips -g orientation "$f"
+```
+
+回転量の対応：
+- orientation `6` → `sips -r 90`（右に90度）
+- orientation `8` → `sips -r 270`（左に90度）
+- orientation `3` → `sips -r 180`（上下反転）
+
+### Step 5: 縦位置写真の width 調整
+
+縦位置写真（pixelHeight > pixelWidth）を width="800" にすると縦長になりすぎる。Report.md 内の `<img>` タグを以下の基準で変更する。
+
+| 条件 | 推奨 width |
+|---|:---:|
+| pixelHeight > pixelWidth × 1.2（一般的な縦位置） | `500` |
+| pixelHeight > pixelWidth × 1.6（スマホ縦撮り・全身人物など） | `400` |
+| pixelWidth >= pixelHeight（横位置・正方形） | `800` |
+
+横並び掲載（`<p>` タグ内の2枚組）では width="390" のまま維持する。
 
 ## 本文の再編集
 
