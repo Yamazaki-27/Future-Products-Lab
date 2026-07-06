@@ -18,6 +18,7 @@
 | 2025年12月3日 | [🇯🇵 日本／iREX2025 国際ロボット展（東京ビッグサイト）](Reports/202512-InterRobot/Report.md) | 山崎 | 27枚・3.8MB | — |
 | 2026年2月12日 | [🇯🇵 日本／国際オートアフターマーケットEXPO 2026（東京ビッグサイト）](Reports/202602-AfterMark/Report.md) | 山崎 | 22枚・2.9MB | — |
 | 2026年4月13日 | [🇺🇸 米国／MODEX 2026（ジョージア・ワールド・コングレス・センター）](Reports/202604-MODEX/Report.md) | 山崎・橋本GM | 111枚・15.0MB | [7/2](Reports/archive_log.md) |
+| 2026年4月17日 | [🇺🇸 米国／BIC（Bishamon Industries Corporation）訪問・エンジェルス観戦（カリフォルニア州）](Reports/202604-BIC/Report.md) | 山崎・橋本GM | 24枚・3.3MB | [7/6](Reports/archive_log.md) |
 | 2026年4月20日 | [🇩🇪 ドイツ／ハノーバーメッセ 2026（ハノーバー見本市会場）](Reports/202604-HANNOVER/Report.md) | 山崎・橋本GM | 34枚・4.5MB | [7/2](Reports/archive_log.md) |
 | 2026年4月22日 | [🇫🇷 フランス／MANUVIT 工場視察・商談（La Ferté Macé）](Reports/202604-MANUVIT/Report.md) | 山崎・橋本GM | 28枚・3.3MB | [7/3](Reports/archive_log.md) |
 | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 20枚・2.5MB | [7/3](Reports/archive_log.md) |
@@ -83,7 +84,7 @@
 | STAX | [STAX.md](KnowledgeBase/Companies/STAX.md) | 低価格電動車。将来の価格戦略オプション（橋本 GM 担当）| Today |
 | DEXORY | [DEXORY.md](KnowledgeBase/Companies/DEXORY.md) | 英国。在庫スキャンロボット（Storage Health）| Today |
 | Southworth | [Southworth.md](KnowledgeBase/Companies/Southworth.md) | 米国。**スギヤスの直接競合**（シザーリフト・ティルター）| Today |
-| BIC | [BIC.md](KnowledgeBase/Companies/BIC.md) | 田島さんチーム。Ramon のテーブルリフト Amazon 案件 | Today |
+| BIC | [BIC.md](KnowledgeBase/Companies/BIC.md) | **Bishamon Industries Corporation**。Ontario, CA・1986年創業・20名。Amazon・Walmart・Tesla の引き合いをリソース不足で断り続けている | Today |
 | DEMATIC | [DEMATIC.md](KnowledgeBase/Companies/DEMATIC.md) | ドイツ系物流SI大手。DHL・Amazon・Walmart への大規模導入実績 | Today |
 | 四恩システム | [四恩システム.md](KnowledgeBase/Companies/四恩システム.md) | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 | Today |
 | ナブテスコ | [ナブテスコ.md](KnowledgeBase/Companies/ナブテスコ.md) | 後付け電動アシストユニット。自動車業界で急成長。IMS との差別化軸 | Today |
@@ -98,7 +99,7 @@
 | ファイル | 内容 | 最終更新 |
 |---|---|:---:|
 | [2025年トレンド](KnowledgeBase/Trends/2025.md) | AMRの実工場稼働フェーズ移行・Ubuntu/ROS2主流化・中国電動フォークリフト量産体制確立 | Today |
-| [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装 他 | Today |
+| [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問（ブランド×リソース乖離）他 | Today |
 
 ### アイデア（Ideas/）
 
@@ -114,6 +115,7 @@
 | [IMS DTR シリーズ 輸入・販売代理検討](KnowledgeBase/Ideas/IMS_DTR_ImportDistribution.md) | 重量物搬送 1〜10 トン。PG Drive 採用。代理店契約・型式検定対応が次のステップ | Today |
 | [フリーロケーション AMR スタッキング](KnowledgeBase/Ideas/FreeLocation_AMR_Stacking.md) | EP社で150台実稼働確認。固定棚なし・鉄製パレット自律段積み。スギヤス製品連携の要件化 | Today |
 | [簡易ティーチング式電動車](KnowledgeBase/Ideas/EasyTeaching_ElectricVehicle.md) | EP社ショールームで発見。フルAMRより低コスト。山崎部長が「相当魅力的」と評価 | Today |
+| [BIC 協業による北米展開](KnowledgeBase/Ideas/BIC_NorthAmerica_Collaboration.md) | Bishamon ブランド × スギヤス技術力。Amazon 等大手案件への共同参画・複数代理店化スキーム | Today |
 
 <br>
 
