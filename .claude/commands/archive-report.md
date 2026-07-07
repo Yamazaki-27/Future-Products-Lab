@@ -231,6 +231,29 @@ grep -n "企業名\|技術キーワード" Report.md | grep "p style"
 - 抽出した重要テーマ
 - 次回深掘り候補
 
+### ファイルパスの書き方（クリック可能にする）
+
+記載するファイルパスは、単なるコードスパン（`` `path` ``）ではなく、**必ずMarkdownリンクにする**。人間はどうしてもクリックしたくなるため、反応しないコードスパンのままにしない。
+
+`Reports/archive_log.md` からの相対パスは以下の通り（archive_log.md自身が `Reports/` 直下にあるため）。
+
+| 対象 | 書き方 |
+|---|---|
+| `KnowledgeBase/...` | `` [`KnowledgeBase/...`](../KnowledgeBase/...) `` |
+| `Reports/展示会フォルダ/Report.md` | `` [`Reports/展示会フォルダ/Report.md`](展示会フォルダ/Report.md) `` |
+| `README.md` | `` [`README.md`](../README.md) `` |
+
+例。
+
+```markdown
+### 実行ファイル
+[`Reports/202604-MODEX/Report.md`](202604-MODEX/Report.md)
+
+| ファイル | 追記内容 |
+|---|---|
+| [`KnowledgeBase/Companies/BIC.md`](../KnowledgeBase/Companies/BIC.md) | ... |
+```
+
 ## README.md 知識ベース目次の更新
 
 archive_log.md の更新が終わったら、リポジトリのトップページ `README.md` の「知識ベース」セクションを更新する。
