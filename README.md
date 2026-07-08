@@ -6,7 +6,7 @@
 
 ## 出張報告書
 
-> ★ = 過去3日以内に実質的な更新があったもの　○ = 過去7日以内（3日超）に実質的な更新があったもの
+> ★ = 過去24時間以内に実質的な更新があったもの　◎ = 過去3日以内（24時間超）に実質的な更新があったもの　○ = 過去7日以内（3日超）に実質的な更新があったもの
 
 |  | 日付 | 出張先 | 参加者 | 写真枚数・容量 | ナレッジ化 |
 |:---:|---|---|---|:---:|:---:|
@@ -23,7 +23,7 @@
 | ★ | 2026年4月17日 | [🇺🇸 米国／BIC（Bishamon Industries Corporation）訪問・エンジェルス観戦（カリフォルニア州）](Reports/202604-BIC/Report.md) | 山崎・橋本GM | 28枚・4.0MB | [7/8](Reports/archive_log.md) |
 | ○ | 2026年4月20日 | [🇩🇪 ドイツ／ハノーバーメッセ 2026（ハノーバー見本市会場）](Reports/202604-HANNOVER/Report.md) | 山崎・橋本GM | 34枚・4.5MB | [7/2](Reports/archive_log.md) |
 | ○ | 2026年4月22日 | [🇫🇷 フランス／MANUVIT 工場視察・商談（La Ferté Macé）](Reports/202604-MANUVIT/Report.md) | 山崎・橋本GM | 28枚・3.3MB | [7/3](Reports/archive_log.md) |
-| ★ | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 21枚・2.7MB | [7/3・7/7](Reports/archive_log.md) |
+| ◎ | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 21枚・2.7MB | [7/3・7/7](Reports/archive_log.md) |
 |  | 2026年6月1日 | [🇹🇼 台湾／Computex 2026（台北）](Reports/202605-Computex/Coputex2026-Report.md) | 山崎 | 41枚・20.5MB | — |
 |  | 2026年6月11日 | [🇯🇵 日本／Interop Tokyo 2026（幕張メッセ）](Reports/202606-Interop26/Interop26-Report.md) | 山崎 | 48枚・12.4MB | — |
 |  | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 山崎 | 77枚・17.0MB | — |
@@ -42,7 +42,7 @@
 
 ## Strategy
 
-> ★ = 過去3日以内に実質的な更新があったもの　○ = 過去7日以内（3日超）に実質的な更新があったもの
+> ★ = 過去24時間以内に実質的な更新があったもの　◎ = 過去3日以内（24時間超）に実質的な更新があったもの　○ = 過去7日以内（3日超）に実質的な更新があったもの
 
 |  | 日付 | タイトル | 作成者 |
 |:---:|---|---|:---:|
@@ -50,8 +50,8 @@
 |  | 2026年6月17日 | [スギヤス新商品開発分野提言2026](strategy/20260630/スギヤス新商品開発分野提言2026.md) | 山崎 |
 |  | 2026年6月30日 | [重点事業分野提案（GNT診断）](strategy/20260630/重点事業分野提案_GNT診断.md) | 山崎（/dx-strategy） |
 |  | 2026年6月30日 | [AGV/AMR新商品開発アイデア](strategy/20260630/AGV_AMR新商品開発アイデア.md) | 山崎 |
-| ○ | 2026年6月30日 | [老朽化インフラ整備市場 参入提案](Reports/202606社会資本整備/老朽化インフラ整備_新商品参入提案.md) | 山崎（/infra-mente） |
-| ○ | 2026年7月1日 | [老朽化インフラ 新商品提案（IoTなし）](Reports/202606社会資本整備/老朽化インフラ_新商品提案_IoTなし_20260701.md) | 山崎（/infra-mente） |
+|  | 2026年6月30日 | [老朽化インフラ整備市場 参入提案](Reports/202606社会資本整備/老朽化インフラ整備_新商品参入提案.md) | 山崎（/infra-mente） |
+|  | 2026年7月1日 | [老朽化インフラ 新商品提案（IoTなし）](Reports/202606社会資本整備/老朽化インフラ_新商品提案_IoTなし_20260701.md) | 山崎（/infra-mente） |
 
 <br>
 
@@ -61,7 +61,7 @@
 
 展示会・出張レポートから抽出した技術テーマ・企業情報・市場変化・商品開発アイデアの蓄積。
 
-> 最終更新列は **2026-07-09 08:40** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示）。★ = 過去3日以内に実質的な更新　○ = 過去7日以内（3日超）に実質的な更新
+> 最終更新列は **2026-07-09 08:55** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示）。★ = 過去24時間以内に実質的な更新　◎ = 過去3日以内（24時間超）に実質的な更新　○ = 過去7日以内（3日超）に実質的な更新
 
 ### 技術テーマ（Knowledge/）
 
@@ -93,13 +93,13 @@
 | ○ | Southworth | [Southworth.md](KnowledgeBase/Companies/Southworth.md) | 米国。**スギヤスの直接競合**（シザーリフト・ティルター）| 5 days ago |
 | ★ | BIC | [BIC.md](KnowledgeBase/Companies/BIC.md) | **Bishamon Industries Corporation**。Ontario, CA・1986年創業・20名。Amazon・Walmart・Tesla の引き合いをリソース不足で断り続けている | Today |
 | ○ | DEMATIC | [DEMATIC.md](KnowledgeBase/Companies/DEMATIC.md) | ドイツ系物流SI大手。DHL・Amazon・Walmart への大規模導入実績 | 5 days ago |
-| ★ | 四恩システム | [四恩システム.md](KnowledgeBase/Companies/四恩システム.md) | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 | 2 days ago |
+| ◎ | 四恩システム | [四恩システム.md](KnowledgeBase/Companies/四恩システム.md) | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 | 2 days ago |
 | ○ | ナブテスコ | [ナブテスコ.md](KnowledgeBase/Companies/ナブテスコ.md) | 後付け電動アシストユニット。自動車業界で急成長。IMS との差別化軸 | 5 days ago |
 | ○ | infonerv | [infonerv.md](KnowledgeBase/Companies/infonerv.md) | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み | 5 days ago |
 | ○ | ヤマハ発動機 | [ヤマハ発動機_PAXIS.md](KnowledgeBase/Companies/ヤマハ発動機_PAXIS.md) | 車いすインホイールモータの物流横展開 PAXIS。コア技術転用の好例 | 5 days ago |
 | ○ | MANUVIT | [MANUVIT.md](KnowledgeBase/Companies/MANUVIT.md) | 仏・1981年創業・Variable Geometry 特許。60kg SFL 型が輸入・OEM 候補筆頭 | 5 days ago |
 | ★ | IMS Manutention | [IMS_Manutention.md](KnowledgeBase/Companies/IMS_Manutention.md) | 仏・1973年創業。DTR 電動牽引トラクター専業。初回接触はLogiMAT 2025。1〜10トン・PG Drive 採用 | Today |
-| ★ | EP Equipment | [EP_Equipment.md](KnowledgeBase/Companies/EP_Equipment.md) | 中国・杭州。7工場・4000名・30万台/年。AMR 150台実稼働。上場企業（603194） | 2 days ago |
+| ◎ | EP Equipment | [EP_Equipment.md](KnowledgeBase/Companies/EP_Equipment.md) | 中国・杭州。7工場・4000名・30万台/年。AMR 150台実稼働。上場企業（603194） | 2 days ago |
 | ★ | Stellana | [Stellana.md](KnowledgeBase/Companies/Stellana.md) | 欧州。ステアリングホイール・エコウレタンタイヤ。直接取引開始で合意（LogiMAT 2025） | Today |
 | ★ | Jungheinrich | [Jungheinrich.md](KnowledgeBase/Companies/Jungheinrich.md) | 独。欧州大手フォークリフトメーカー。超大型ブースで存在感（LogiMAT 2025） | Today |
 | ★ | 昭立電気 | [昭立電気.md](KnowledgeBase/Companies/昭立電気.md) | 基板実装メーカー。大電流対応・少ロット可。新規商談候補（生成AI World 2025） | Today |
@@ -127,10 +127,10 @@
 | ○ | [SitePrint 床面印刷ロボット](KnowledgeBase/Ideas/SitePrint_FloorPrinting.md) | 床面±2mm精度で墨出しを自動化。設備導入前工程の付帯サービス化 | 5 days ago |
 | ○ | [ABMへの Floor SLAM 誘導方式追加](KnowledgeBase/Ideas/FloorSLAM_ABM_NavigationOption.md) | 四恩システムとの技術提携で ABM の誘導方式をビニールテープ・QR・Floor SLAM に拡張 | 5 days ago |
 | ○ | [MANUVIT 60kg SFL 型 輸入・OEM 検討](KnowledgeBase/Ideas/MANUVIT_60kgSFL_Import.md) | 山崎構想と合致する製品が MANUVIT に実在。輸入・OEM・ライセンスの3オプション整理 | 5 days ago |
-| ★ | [IMS DTR シリーズ 輸入・販売代理検討](KnowledgeBase/Ideas/IMS_DTR_ImportDistribution.md) | 重量物搬送 1〜10 トン。PG Drive 採用。代理店契約・型式検定対応が次のステップ | Yesterday |
-| ★ | [フリーロケーション AMR スタッキング](KnowledgeBase/Ideas/FreeLocation_AMR_Stacking.md) | EP社で150台実稼働確認。固定棚なし・鉄製パレット自律段積み。スギヤス製品連携の要件化 | 2 days ago |
-| ★ | [簡易ティーチング式電動車](KnowledgeBase/Ideas/EasyTeaching_ElectricVehicle.md) | EP社ショールームで発見。フルAMRより低コスト。山崎部長が「相当魅力的」と評価 | 2 days ago |
-| ★ | [BIC 協業による北米展開](KnowledgeBase/Ideas/BIC_NorthAmerica_Collaboration.md) | Bishamon ブランド × スギヤス技術力。Amazon 等大手案件への共同参画・複数代理店化スキーム | 2 days ago |
+| ◎ | [IMS DTR シリーズ 輸入・販売代理検討](KnowledgeBase/Ideas/IMS_DTR_ImportDistribution.md) | 重量物搬送 1〜10 トン。PG Drive 採用。代理店契約・型式検定対応が次のステップ | Yesterday |
+| ◎ | [フリーロケーション AMR スタッキング](KnowledgeBase/Ideas/FreeLocation_AMR_Stacking.md) | EP社で150台実稼働確認。固定棚なし・鉄製パレット自律段積み。スギヤス製品連携の要件化 | 2 days ago |
+| ◎ | [簡易ティーチング式電動車](KnowledgeBase/Ideas/EasyTeaching_ElectricVehicle.md) | EP社ショールームで発見。フルAMRより低コスト。山崎部長が「相当魅力的」と評価 | 2 days ago |
+| ◎ | [BIC 協業による北米展開](KnowledgeBase/Ideas/BIC_NorthAmerica_Collaboration.md) | Bishamon ブランド × スギヤス技術力。Amazon 等大手案件への共同参画・複数代理店化スキーム | 2 days ago |
 | ★ | [雷電タイプ 移動型整備リフト](KnowledgeBase/Ideas/RaidenLift_MobileServiceLift.md) | 小型フォークリフト対応。VIPER・Dendro Liftの屋外デモから着想（LogiMAT 2025） | Today |
 | ★ | [傾斜テーブルリフト](KnowledgeBase/Ideas/TiltTableLift.md) | エルゴノミクス対応。過去試作の安定性課題を欧州展示ベンチマークで再設計 | Today |
 | ★ | [高さ可変サスペンション式牽引台車](KnowledgeBase/Ideas/AdjustableSuspension_TowCart_BX.md) | BX輸送効率改善。極低床＋サスペンションで段差問題を解決 | Today |
