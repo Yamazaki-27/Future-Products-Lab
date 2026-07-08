@@ -375,3 +375,36 @@
 - ドイツ製ドライブユニットのサンプル評価結果
 - Stellana社との契約条件確定状況
 - Nord Modulesの規格詳細
+
+---
+
+## 2026-07-08 archive 実行（202510-GenerativeAI）
+
+### 実行ファイル
+[`Reports/202510-GenerativeAI/Report.md`](202510-GenerativeAI/Report.md)
+
+### 新規作成
+
+| ファイル | 内容 |
+|---|---|
+| [`KnowledgeBase/Companies/昭立電気.md`](../KnowledgeBase/Companies/昭立電気.md) | 基板実装メーカー。大電流対応・少ロット可。新規商談候補 |
+| [`KnowledgeBase/Companies/ソフトバンクロボティクス.md`](../KnowledgeBase/Companies/ソフトバンクロボティクス.md) | AMR市場のベンチマーク。追従・牽引デモの完成度が高い |
+| [`KnowledgeBase/Companies/アドバンテック.md`](../KnowledgeBase/Companies/アドバンテック.md) | AMR自社開発。ニデックドライブユニット活用を指示済み |
+
+### 追記更新
+
+| ファイル | 追記内容 |
+|---|---|
+| [`KnowledgeBase/Knowledge/AMR/Commoditization.md`](../KnowledgeBase/Knowledge/AMR/Commoditization.md) | 生成AI World 2025（名古屋）での国内観察を追記。コンポーネントサプライヤーまでAMR前提になった事実 |
+| [`KnowledgeBase/Trends/2025.md`](../KnowledgeBase/Trends/2025.md) | 生成AI World・ロボット展示会 2025（10月）のセクションを新設 |
+
+### 抽出した重要テーマ
+
+- 国内展示会（生成AI World）でもAMRが「当たり前」の技術として定着。海外の先進事例と国内の一般化が同時進行
+- テスラ・サイバートラックの完全分解展示という新しい展示スタイル
+- 昭立電気・アドバンテックという2つの新規商談候補を発見
+
+### 次回深掘り候補
+
+- 昭立電気との取引条件確認
+- アドバンテックのAMR試作進捗（前川TL・奥村担当）

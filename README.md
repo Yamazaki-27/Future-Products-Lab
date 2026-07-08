@@ -15,7 +15,7 @@
 |  | 2025年4月15日 | [🇨🇳 中国／Electric China 2025（上海・天津）](Reports/202504-ElectricChina/Report.md) | 山崎・奥村 | 359枚・58.2MB | — |
 |  | 2025年6月18日 | [🇯🇵 日本／第38回 オートサービスショー2025（東京ビッグサイト）](Reports/202506-ASS/Report.md) | 山崎 | 23枚・3.8MB | — |
 |  | 2025年9月17日 | [🇯🇵 日本／Diet & Beauty Fair 2025（東京ビッグサイト）](Reports/202509-DietBeautyFair/Report.md) | 山崎 | 12枚・1.4MB | — |
-|  | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | — |
+| ★ | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | [7/8](Reports/archive_log.md) |
 | ○ | 2025年11月26日 | [🇨🇳 中国／EP Equipment（浙江中力機械）工場視察・商談（浙江省）](Reports/202511-EP/Report.md) | 山崎・廣田・橋本 | 27枚・39.2MB | [7/6](Reports/archive_log.md) |
 |  | 2025年12月3日 | [🇯🇵 日本／iREX2025 国際ロボット展（東京ビッグサイト）](Reports/202512-InterRobot/Report.md) | 山崎 | 27枚・3.8MB | — |
 |  | 2026年2月12日 | [🇯🇵 日本／国際オートアフターマーケットEXPO 2026（東京ビッグサイト）](Reports/202602-AfterMark/Report.md) | 山崎 | 22枚・2.9MB | — |
@@ -66,7 +66,7 @@
 
 |  | カテゴリ | ファイル | 概要 | 最終更新 |
 |:---:|---|---|---|:---:|
-| ★ | AMR | [AMRのコモディティ化](KnowledgeBase/Knowledge/AMR/Commoditization.md) | 中国・インド・韓国・米国・オランダの競合動向。差別化軸の変化 | 2 days ago |
+| ★ | AMR | [AMRのコモディティ化](KnowledgeBase/Knowledge/AMR/Commoditization.md) | 中国・インド・韓国・米国・オランダの競合動向。国内展示会でも当たり前化 | Today |
 | ○ | AMR | [Floor SLAM 誘導方式](KnowledgeBase/Knowledge/AMR/FloorSLAM.md) | 床面の傷・汚れを特徴点として自己位置推定。磁気テープ不要。四恩システム（久留米）が製品化 | 5 days ago |
 | ○ | ASRS | [シャトルシステム](KnowledgeBase/Knowledge/ASRS/ShuttleSystem.md) | 棚登り型・シャトル型 ASRS の動向（HAI Robotics・ZS Robotics 他）| 5 days ago |
 | ○ | Lift | [シザーリフト グローバルトレンド](KnowledgeBase/Knowledge/Lift/ScissorLift_GlobalTrends.md) | Southworth 等グローバル競合・GRADIN（欧州直販中国製）を含む | 5 days ago |
@@ -101,6 +101,9 @@
 | ★ | EP Equipment | [EP_Equipment.md](KnowledgeBase/Companies/EP_Equipment.md) | 中国・杭州。7工場・4000名・30万台/年。AMR 150台実稼働。上場企業（603194） | 2 days ago |
 | ★ | Stellana | [Stellana.md](KnowledgeBase/Companies/Stellana.md) | 欧州。ステアリングホイール・エコウレタンタイヤ。直接取引開始で合意（LogiMAT 2025） | Today |
 | ★ | Jungheinrich | [Jungheinrich.md](KnowledgeBase/Companies/Jungheinrich.md) | 独。欧州大手フォークリフトメーカー。超大型ブースで存在感（LogiMAT 2025） | Today |
+| ★ | 昭立電気 | [昭立電気.md](KnowledgeBase/Companies/昭立電気.md) | 基板実装メーカー。大電流対応・少ロット可。新規商談候補（生成AI World 2025） | Today |
+| ★ | ソフトバンクロボティクス | [ソフトバンクロボティクス.md](KnowledgeBase/Companies/ソフトバンクロボティクス.md) | AMR市場のベンチマーク。追従・牽引デモの完成度が高い（生成AI World 2025） | Today |
+| ★ | アドバンテック | [アドバンテック.md](KnowledgeBase/Companies/アドバンテック.md) | AMR自社開発。ニデックドライブユニット活用を指示済み（生成AI World 2025） | Today |
 
 ### トレンド（Trends/）
 
