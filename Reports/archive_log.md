@@ -550,3 +550,47 @@
 - LiftPoint：Mohawk Lifts本体との技術共通性、コンテナ高さ合わせ用途の価格帯
 - Ballymore：サブスクリプション契約条件の詳細
 - HELI：特に追加アクションなし（大手動向として定期ウォッチ）
+
+---
+
+## 2026-07-10 archive 実行（202606-RobotTechJapan）
+
+### 実行ファイル
+[`Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md`](202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md)
+
+### 新規作成
+
+| ファイル | 内容 |
+|---|---|
+| [`KnowledgeBase/Companies/NSK.md`](../KnowledgeBase/Companies/NSK.md) | アクティブキャスター（全方向移動駆動輪）・NSK×Delta電子リニアアクチュエータ。要素技術の参考先 |
+| [`KnowledgeBase/Companies/Beckhoff.md`](../KnowledgeBase/Companies/Beckhoff.md) | 独・産業用PC専業。AMR/AGV制御アーキテクチャの技術相談先候補（名刺交換済み） |
+| [`KnowledgeBase/Companies/Doog.md`](../KnowledgeBase/Companies/Doog.md) | 3D LiDAR人追従AMR「サウザー」。パレット・ワーク識別への応用候補（社内優先度：高） |
+| [`KnowledgeBase/Knowledge/Sensor/TactileSensing.md`](../KnowledgeBase/Knowledge/Sensor/TactileSensing.md) | 触覚センシング技術。太田廣・FingerVision・Analog Devices ToF。新設Sensorカテゴリ |
+| [`KnowledgeBase/Ideas/ZipChain_TableLift.md`](../KnowledgeBase/Ideas/ZipChain_TableLift.md) | 椿本ZIPチェーンによるテーブル昇降装置（社内優先度：高） |
+| [`KnowledgeBase/Ideas/LiDAR_PalletWorkID.md`](../KnowledgeBase/Ideas/LiDAR_PalletWorkID.md) | Doog由来の3D LiDARパレット・ワーク識別（社内優先度：高） |
+
+### 追記更新
+
+| ファイル | 追記内容 |
+|---|---|
+| [`KnowledgeBase/Knowledge/AMR/Commoditization.md`](../KnowledgeBase/Knowledge/AMR/Commoditization.md) | Robot Technology Japan 2026の観察（NSKアクティブキャスター・ベッコフ・MiR・オムロンOL-450S・DAIHEN AiTran等の要素技術群）を追記 |
+| [`KnowledgeBase/Knowledge/Humanoid/Humanoid_Logistics.md`](../KnowledgeBase/Knowledge/Humanoid/Humanoid_Logistics.md) | トヨタCUE7・ファナック×NVIDIA音声AI・AGiBOT・AGIRobots・YUASAの観察を追記 |
+| [`KnowledgeBase/Companies/IAI.md`](../KnowledgeBase/Companies/IAI.md) | ミクロシリンダー・ワイヤシリンダー・スライダー循環ユニットの観察を追記 |
+| [`KnowledgeBase/Trends/2026.md`](../KnowledgeBase/Trends/2026.md) | Robot Technology Japan 2026のセクションを新設（5トレンド：ヒューマノイド急増・AI×アーム標準化・AMR要素技術化・画像ベース力覚グリッパ・ニッチ機構技術） |
+
+### 抽出した重要テーマ
+
+1. **AMRは「単体」から「要素技術」勝負のフェーズへ**：AMR本体の展示は控えめな一方、駆動輪・コントローラー・リフト機構の専業メーカーが多数出展。コモディティ化の次の競争軸を裏付ける観察
+2. **ヒューマノイドの日中格差が継続**：日本製は2社のみ、大部分が中国製。iREX2025（2025年12月）で確認した「10年以上の差」認識と一致
+3. **画像ベースの力覚センシングが新潮流**：FingerVision・太田廣ともにひずみゲージではなく画像処理で接触・滑りを判定。新設Sensorカテゴリの起点
+4. **社内優先度「高」の2アイデア**：椿本ZIPチェーン（テーブル昇降）とDoog 3D LiDAR（パレット・ワーク識別）は、前川TL・奥村自身が視察後にまとめた優先度表で「高」評価。次アクションが明確
+
+### 次回深掘り候補
+
+- 椿本チェーンへのZIPチェーンユニット引き合い（技術部）
+- Doog社への3D LiDARユニット型番・価格帯の問い合わせ
+- ベッコフとのAMR制御アーキテクチャ相談（名刺交換済み）
+- クリオ社（愛知県一宮市・触覚センサ用超小型カメラ）への来社打診
+- ジンバル型アクチュエータ機構（IMG_5228）・メカナム風駆動輪ユニット（IMG_5248）のブース名特定（未確認のまま）
+
+---

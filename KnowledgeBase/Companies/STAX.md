@@ -10,7 +10,7 @@
 | キーワード | 低価格電動車 |
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5843.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">STAXX ブースにて、山崎・橋本 GM と STAXX 担当者（中央）の3ショット。「とにかく安い」が最大の特徴の電動車メーカー（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">STAXX ブースにて、山崎・橋本 GM と STAXX 担当者（中央）の3ショット。「とにかく安い」が最大の特徴の電動車メーカー（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 
@@ -19,7 +19,7 @@
 <img src="../../Reports/202604-MODEX/Images/IMG_20260415_094051.jpg" width="390">
 <img src="../../Reports/202604-MODEX/Images/IMG_20260415_094500.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">STAX のブース。（右）ステンレス合金製パレットトラック（冷凍庫対応 ≥−18℃）のポンプ機構。黄色の標準モデルと並んで展示。「とにかく安い」が最大の武器（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">STAX のブース。（右）ステンレス合金製パレットトラック（冷凍庫対応 ≥−18℃）のポンプ機構。黄色の標準モデルと並んで展示。「とにかく安い」が最大の武器（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 <br>
 <img src="../../Reports/202503-LogiMat/Images/IMG_1472.JPG" width="800">

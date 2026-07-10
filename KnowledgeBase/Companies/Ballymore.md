@@ -10,7 +10,7 @@
 | キーワード | 工場向けクライミングプラットフォーム・シザーリフト・サブスクリプション販売 |
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5905.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">Ballymore のブース。大型の工場向けクライミングプラットフォーム（$395/month）と卓上型電動シザーリフト（$114/month）が並んでいる（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">Ballymore のブース。大型の工場向けクライミングプラットフォーム（$395/month）と卓上型電動シザーリフト（$114/month）が並んでいる（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 
@@ -19,7 +19,7 @@
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW26.jpeg" width="390">
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW27.jpeg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">Ballymore ブースの別カット。（左）クレート付きシザーリフトカートと Colson Group のサイン。（右）階段ユニットとカバー付きシザーリフトを含む広めの俯瞰（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">Ballymore ブースの別カット。（左）クレート付きシザーリフトカートと Colson Group のサイン。（右）階段ユニットとカバー付きシザーリフトを含む広めの俯瞰（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 - 大型の工場向けクライミングプラットフォームと卓上型電動シザーリフトを、月額課金（サブスクリプション）モデルで販売していることを明示。$395/month・$114/month という具体的な価格を掲示していた
 - 購入ではなくサブスクリプションで設備を提供するアプローチは、米国の設備投資に対する考え方の違いを感じさせた

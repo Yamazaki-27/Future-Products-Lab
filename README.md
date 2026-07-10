@@ -26,7 +26,7 @@
 | ◎ | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 21枚・2.7MB | [7/3・7/7](Reports/archive_log.md) |
 |  | 2026年6月1日 | [🇹🇼 台湾／Computex 2026（台北）](Reports/202605-Computex/Coputex2026-Report.md) | 山崎 | 41枚・20.5MB | — |
 |  | 2026年6月11日 | [🇯🇵 日本／Interop Tokyo 2026（幕張メッセ）](Reports/202606-Interop26/Interop26-Report.md) | 山崎 | 48枚・12.4MB | — |
-|  | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 山崎 | 77枚・17.0MB | — |
+| ★ | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 前川・奥村・佐倉 | 65枚・9.2MB | [7/10](Reports/archive_log.md) |
 | △ | 2026年6月25日 | [🇯🇵 日本／九州国際物流総合展 INNOVATION EXPO 2026（マリンメッセ福岡）](Reports/202606-InnovationEXPO/Report.md) | 山崎・前川 | 34枚・4.8MB | [7/3](Reports/archive_log.md) |
 
 <br>
@@ -61,13 +61,13 @@
 
 展示会・出張レポートから抽出した技術テーマ・企業情報・市場変化・商品開発アイデアの蓄積。
 
-> 最終更新列は **2026-07-09 16:29** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示）。★ = 過去24時間以内に実質的な更新　◎ = 過去3日以内（24時間超）に実質的な更新　△ = 過去7日以内（3日超）に実質的な更新
+> 最終更新列は **2026-07-10 08:52** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示。今回追記・新規作成した一部ファイルは未コミットのため、コミット後に相対時間が更新されます）。★ = 過去24時間以内に実質的な更新　◎ = 過去3日以内（24時間超）に実質的な更新　△ = 過去7日以内（3日超）に実質的な更新
 
 ### 技術テーマ（Knowledge/）
 
 |  | カテゴリ | ファイル | 概要 | 最終更新 |
 |:---:|---|---|---|:---:|
-| ★ | AMR | [AMRのコモディティ化](KnowledgeBase/Knowledge/AMR/Commoditization.md) | 中国・インド・韓国・米国・オランダの競合動向。SEERコントローラーが中国AMRの標準化を牽引 | Today |
+| ◎ | AMR | [AMRのコモディティ化](KnowledgeBase/Knowledge/AMR/Commoditization.md) | 中国・インド・韓国・米国・オランダの競合動向。Robot Technology Japan 2026の要素技術群（NSK・ベッコフ等）を追記 | Yesterday |
 | △ | AMR | [Floor SLAM 誘導方式](KnowledgeBase/Knowledge/AMR/FloorSLAM.md) | 床面の傷・汚れを特徴点として自己位置推定。磁気テープ不要。四恩システム（久留米）が製品化 | 6 days ago |
 | △ | ASRS | [シャトルシステム](KnowledgeBase/Knowledge/ASRS/ShuttleSystem.md) | 棚登り型・シャトル型 ASRS の動向（HAI Robotics・ZS Robotics 他）| 6 days ago |
 | △ | Lift | [シザーリフト グローバルトレンド](KnowledgeBase/Knowledge/Lift/ScissorLift_GlobalTrends.md) | Southworth 等グローバル競合・GRADIN（欧州直販中国製）を含む | 6 days ago |
@@ -76,8 +76,9 @@
 | △ | Safety | [後方倒れ止め（手動ハンド用）](KnowledgeBase/Knowledge/Safety/RearGuard_HandPallet.md) | 安全安心パック追加候補。橋本 GM 正式提案予定 | 6 days ago |
 | △ | Logistics | [トレーラー荷役自動化](KnowledgeBase/Knowledge/Logistics/TrailerLoading_Automation.md) | Slip Robotics・LIFTPOINT・Superior Lifts の「最後のフィート」解決策 | 6 days ago |
 | ◎ | Logistics | [牽引台車のカーブ追従機構](KnowledgeBase/Knowledge/Logistics/TowCart_CurveTracking.md) | 複数軸ピボット連結による自動追従。BX輸送台車への応用検討 | Yesterday |
-| ★ | Humanoid | [ヒューマノイドの物流展示](KnowledgeBase/Knowledge/Humanoid/Humanoid_Logistics.md) | カンフーダンス・犬型ロボット・ZeroErr。中国製ヒューマノイドとの技術差「10年以上」（iREX2025） | Today |
+| ◎ | Humanoid | [ヒューマノイドの物流展示](KnowledgeBase/Knowledge/Humanoid/Humanoid_Logistics.md) | 中国製ヒューマノイドとの技術差「10年以上」。トヨタCUE7・ファナック×NVIDIA・AGiBOTを追記（RobotTechJapan2026） | Yesterday |
 | ◎ | Manufacturing | [ドライブユニットのオープンモジュール化](KnowledgeBase/Knowledge/Manufacturing/DriveUnit_OpenModularization.md) | モーター＋コントローラー＋バッテリーが部品化。業界分業構造を再編する最重要発見（LogiMAT 2025） | Yesterday |
+| ★ | Sensor | [触覚センシング技術](KnowledgeBase/Knowledge/Sensor/TactileSensing.md) | 画像ベースの力覚検出が新潮流。太田廣・FingerVision・Analog Devices ToF（新設カテゴリ、RobotTechJapan2026） | Now |
 
 ### 企業情報（Companies/）
 
@@ -109,16 +110,20 @@
 | ★ | 昭立電気 | [昭立電気.md](KnowledgeBase/Companies/昭立電気.md) | 基板実装メーカー。大電流対応・少ロット可。新規商談候補（生成AI World 2025） | Today |
 | ★ | ソフトバンクロボティクス | [ソフトバンクロボティクス.md](KnowledgeBase/Companies/ソフトバンクロボティクス.md) | AMR市場のベンチマーク。追従・牽引デモの完成度が高い（生成AI World 2025） | Today |
 | ★ | アドバンテック | [アドバンテック.md](KnowledgeBase/Companies/アドバンテック.md) | AMR自社開発。ニデックドライブユニット活用を指示済み（生成AI World 2025） | Today |
-| ★ | IAI | [IAI.md](KnowledgeBase/Companies/IAI.md) | ロボットコンベヤ新事業。シミュレーション先行公開→代理店見積→ユーザー設置の新導入モデル（iREX2025） | Today |
+| ◎ | IAI | [IAI.md](KnowledgeBase/Companies/IAI.md) | ロボットコンベヤ新事業。ミクロシリンダー・スライダー循環ユニットを追記（RobotTechJapan2026） | Yesterday |
+| ★ | NSK | [NSK.md](KnowledgeBase/Companies/NSK.md) | 日本精工。アクティブキャスター（全方向駆動輪）・リニアアクチュエータ。要素技術の参考先（RobotTechJapan2026） | Now |
+| ★ | ベッコフ | [Beckhoff.md](KnowledgeBase/Companies/Beckhoff.md) | 独・産業用PC専業。AMR/AGV制御アーキテクチャの技術相談先候補・名刺交換済み（RobotTechJapan2026） | Now |
+| ★ | Doog | [Doog.md](KnowledgeBase/Companies/Doog.md) | 3D LiDAR人追従AMR「サウザー」。パレット・ワーク識別への応用候補（社内優先度：高、RobotTechJapan2026） | Now |
 | ★ | GMO AI&ロボティクス商事 | [GMO_AI_Robotics.md](KnowledgeBase/Companies/GMO_AI_Robotics.md) | 中国製ヒューマノイド・AMRの国内販売代理店。会場最大の集客ブース（iREX2025） | Today |
 | ★ | DMP | [DMP.md](KnowledgeBase/Companies/DMP.md) | パチンコ関連半導体商社。搬送装置を成長の柱に検討中。SEER Roboticsとの接点元（iREX2025） | Today |
+| ★ | Dendro Lift | [DendroLift.md](KnowledgeBase/Companies/DendroLift.md) | スウェーデン。移動型スタッカー整備リフト「DSS2 AquaShield」。雷電タイプの世界標準仕様の一つ（LogiMAT 2025） | Now |
 
 ### トレンド（Trends/）
 
 |  | ファイル | 内容 | 最終更新 |
 |:---:|---|---|:---:|
 | ★ | [2025年トレンド](KnowledgeBase/Trends/2025.md) | LogiMAT 2025・生成AI World・EP Equipment実稼働・iREX2025（中国製ヒューマノイド10年差・SEERコモディティ化・GMO代理店参入）| Today |
-| △ | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問（ブランド×リソース乖離）他 | 6 days ago |
+| △ | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問・RobotTechJapan2026（ヒューマノイド急増・AI×アーム標準化）他 | 6 days ago |
 
 ### アイデア（Ideas/）
 
@@ -140,6 +145,8 @@
 | ◎ | [高さ可変サスペンション式牽引台車](KnowledgeBase/Ideas/AdjustableSuspension_TowCart_BX.md) | BX輸送効率改善。極低床＋サスペンションで段差問題を解決 | Yesterday |
 | ◎ | [磁気テープ式AMRへの自社ドライブユニット搭載](KnowledgeBase/Ideas/DriveUnit_MagneticTapeAMR.md) | ちびちゃんテーブルリフト向けAMRのノウハウを横展開。病院・食品・中規模製造業向け | Yesterday |
 | ◎ | [AMRトップモジュールとしてのリフト機器展開](KnowledgeBase/Ideas/AMR_TopModule_LiftDeployment.md) | Nord Modulesコンセプト。AMR本体開発なしでAMRエコシステムに参加 | Yesterday |
+| ★ | [ZIPチェーンによるテーブル昇降装置](KnowledgeBase/Ideas/ZipChain_TableLift.md) | 椿本ZIPチェーン。薄型テーブルの省スペース昇降機構（優先度 高、RobotTechJapan2026） | Now |
+| ★ | [3D LiDARによるパレット・ワーク識別](KnowledgeBase/Ideas/LiDAR_PalletWorkID.md) | Doogサウザー由来。カメラに代わる高精度識別方式（優先度 高、RobotTechJapan2026） | Now |
 
 <br>
 

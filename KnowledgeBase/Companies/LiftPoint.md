@@ -10,7 +10,7 @@
 | キーワード | フォークリフト昇降サービスリフト・コンテナ床面高さ合わせ |
 
 <img src="../../Reports/202604-MODEX/Images/IMG_20260414_151905.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">LIFTPOINT ブースの全景。Raymond のリーチスタッカーがリフト上で持ち上げられた状態を展示。「フォークリフトをコンテナの床面高さに合わせる」ことで、コンテナへのフォークリフト直接乗り入れを可能にする（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">LIFTPOINT ブースの全景。Raymond のリーチスタッカーがリフト上で持ち上げられた状態を展示。「フォークリフトをコンテナの床面高さに合わせる」ことで、コンテナへのフォークリフト直接乗り入れを可能にする（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 
@@ -19,11 +19,11 @@
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW08.jpeg" width="390">
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW09.jpeg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">LIFTPOINT ブース。（左）タワー状の大型ストラドルリフトの全景、ベンチに座る来場者。（右）「Inquire Today」のバナーとタワーを中心に集まる来場者グループ（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">LIFTPOINT ブース。（左）タワー状の大型ストラドルリフトの全景、ベンチに座る来場者。（右）「Inquire Today」のバナーとタワーを中心に集まる来場者グループ（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 <br>
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW11.jpeg" width="800">
-<p style="color:#888888; font-size:1.05em;">LIFTPOINT のフォークリフト用アタッチメントアームを3名の来場者が間近で観察している。1つのブースに繰り返し人が集まる様子から関心の高さがうかがえた（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">LIFTPOINT のフォークリフト用アタッチメントアームを3名の来場者が間近で観察している。1つのブースに繰り返し人が集まる様子から関心の高さがうかがえた（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 - タワー状の大型ストラドルリフトで、フォークリフトごと持ち上げ、海上コンテナの床面高さに合わせる発想の製品。コンテナへのフォークリフト直接乗り入れを可能にする
 - Nippou に「設計力を感じる」と記された通り、課題（コンテナへのアクセス問題）に対する解決アプローチが鮮やかだった

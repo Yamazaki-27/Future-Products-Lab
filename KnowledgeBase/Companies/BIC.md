@@ -26,17 +26,17 @@ MODEX 2026 に出展していた田島さん率いるチーム。アメリカ人
 「皆、真面目で、気の良いメンバーである」（Nippou）。
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5805.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">BIC ランチ（4/14）の卓上風景。丸テーブルを囲んで BIC メンバー全員が着席。ローストチキン・グリッツ・マッシュポテトが並ぶ Southern ならではの食事（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">BIC ランチ（4/14）の卓上風景。丸テーブルを囲んで BIC メンバー全員が着席。ローストチキン・グリッツ・マッシュポテトが並ぶ Southern ならではの食事（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 <img src="../../Reports/202604-MODEX/Images/IMG_20260415_135849.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">4/15 BIC の田島さんチームとのランチ（Southern Root）。フライドチキン・グリッツ・野菜のプレートを囲みながら業界情報を交換（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">4/15 BIC の田島さんチームとのランチ（Southern Root）。フライドチキン・グリッツ・野菜のプレートを囲みながら業界情報を交換（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ### MODEX でのキー情報
 
 - 若手エンジニアの Ramon（ラモーン）が、Amazon から直接オファーを受けているテーブルリフト案件を打ち明けた
 - 詳細は非公開段階。「非常に興味深い話である」（Nippou）
 
-### Bishamon ブース展示品（MODEX 2026）
+### Bishamon ブース展示品（[MODEX 2026 Report.md](../../Reports/202604-MODEX/Report.md)）
 
 <img src="../../Reports/202604-BIC/Images/IMG_20260415_113642.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Bishamonブース全景。Duravant社の大型ブースと同エリアに出展（MODEX 2026 / 2026年4月15日）</p>

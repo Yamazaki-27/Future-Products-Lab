@@ -5,7 +5,7 @@
 床面に ±2mm の精度でレイアウト線を直接プリントする自走ロボット。設備導入の前工程（レイアウト確定・墨出し作業）を自動化する。MODEX 2026 で初めて目にした、日本の展示会では見られない切り口の製品。
 
 <img src="../../Reports/202604-MODEX/Images/IMG_20260414_162104.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">SitePrint のブース。「Install your material handling equipment faster and exactly as engineered」のキャッチコピーが掲示されていた。（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">SitePrint のブース。「Install your material handling equipment faster and exactly as engineered」のキャッチコピーが掲示されていた。（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 技術概要
 

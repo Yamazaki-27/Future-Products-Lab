@@ -128,7 +128,30 @@ AMRはすでにコモディティだ。
 <img src="Images/VID_20260415_094318_thumb.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">電動パレットトラックのティラーハンドル操作部クローズアップ。レバー・スイッチ類が集約された標準的な操作パネル構成。</p>
 
-#### の各ブース
+#### BIC 会食（4/14 夜）
+<p style="color:#888888; font-size:1.05em;">（左）L66K Alpha Series（米国）。「Modular Design / Steel Reservoir / Flow Limiting Valves / 6600 lb Capacity」のシザーリフト。（右）Bishamon（日系）のシザーリフトブース。青が特徴的なラインナップ。米国展示会に日本系メーカーもしっかり出展していた。</p>
+<p>
+<img src="Images/IMG_20260415_113635.jpg" width="800">
+<img src="Images/IMG_20260415_113642.jpg" width="800">
+</p>
+
+<br>
+<p style="color:#888888; font-size:1.05em;">（左）Bishamon の青いパレットジャック（Piston Hydraulic）。「PALLET JACK」の黄色いバナーが印象的だった。（右）Bishamon のレベラー（ターンテーブル付きシザーリフト）。丸い天板が回転し、パレット上の荷を任意の向きに回せる。作業者の負担軽減に特化した設計だ。</p>
+<p>
+<img src="Images/IMG_20260415_113623.jpg" width="800">
+<img src="Images/IMG_20260415_113706.jpg" width="800">
+</p>
+
+<br>
+<img src="Images/IMG_5805.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">BIC ランチの卓上風景。丸テーブルを囲んで BIC メンバー全員が着席。ローストチキン・グリッツ・マッシュポテト・フライドチキンが各自の皿に並んでいる。田島さんチームのメンバーがスマホで撮影中。Southern ならではのランチだった。</p>
+
+<br>
+<img src="Images/IMG_20260414_184622.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">BIC メンバーの田島さんとアメリカ人 3 名と会食。Southern fried chicken、grits、スープのプレートが並ぶアトランタらしい食事。若手エンジニアの Ramon から、アマゾンから直接オファーを受けているテーブルリフトの話を打ち明けられた。非常に興味深い内容だった。</p>
+
+
+#### 各ブース
 
 
 
@@ -459,51 +482,40 @@ AMRはすでにコモディティだ。
 <p style="color:#888888; font-size:1.05em;">Locus Robotics（米国）の大型ブース。「Case Picking / Returns / Transport / Sanitation」という物流現場の全工程をワンプラットフォームで賄うコンセプト。デモ機が会場内を縦横無尽に走っていた。</p>
 
 <br>
-<p>
-<img src="Images/IMG_20260415_113635.jpg" width="390">
-<img src="Images/IMG_20260415_113642.jpg" width="390">
-</p>
-<p style="color:#888888; font-size:1.05em;">（左）L66K Alpha Series（米国）。「Modular Design / Steel Reservoir / Flow Limiting Valves / 6600 lb Capacity」のシザーリフト。（右）Bishamon（日系）のシザーリフトブース。青が特徴的なラインナップ。米国展示会に日本系メーカーもしっかり出展していた。</p>
-
-<br>
-<p>
-<img src="Images/IMG_20260415_113623.jpg" width="390">
-<img src="Images/IMG_20260415_113706.jpg" width="390">
-</p>
-<p style="color:#888888; font-size:1.05em;">（左）Bishamon の青いパレットジャック（Piston Hydraulic）。「PALLET JACK」の黄色いバナーが印象的だった。（右）Bishamon のレベラー（ターンテーブル付きシザーリフト）。丸い天板が回転し、パレット上の荷を任意の向きに回せる。作業者の負担軽減に特化した設計だ。</p>
 
 <br>
 <img src="Images/IMG_5857.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">DEXORY（英国）の在庫スキャンロボット。高さ 8m 超のマストを搭載し、走りながら棚全体の在庫状況をスキャンする「Storage Health」監視ロボット。デジタルツインとの連携が売りだ。</p>
 
 <br>
-<img src="Images/IMG_20260415_120135.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Tompkins Robotics（米国）+ Duravant の透明ビン搭載 AMR 群。小型 AMR がプラスチック製の透明コンテナを乗せて一列で走る。ソーテーションの自動化アプローチとして整然とした印象だった。</p>
 
 <br>
-<p>
-<img src="Images/IMG_20260415_120140.jpg" width="390">
-<img src="Images/IMG_20260415_120352.jpg" width="390">
-</p>
-<p style="color:#888888; font-size:1.05em;">（左）Tompkins Robotics ＋ Duravant のブース別角度。黄色いバッグを吊るしたコンベアソーターが稼働。AMR とソーターの統合ソリューションを展示していた。（右）Roach Conveyors（米国）の大型ブース。オレンジ色のコンベアライン・「Custom Solutions for Ultimate Productivity」のバナー。Agility Robotics のブースも左奥に見える。</p>
-
-<br>
+<img src="Images/IMG_20260415_120135.jpg" width="800">
 <p>
 <img src="Images/IMG_NEW22.jpeg" width="390">
 <img src="Images/IMG_NEW23.jpeg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">Tompkins Robotics 周辺エリアの別角度。（左）Packsize・Roach Conveyors の各ブースを含む通路の様子。（右）黄色いビン・バッグが積まれた同エリアの別カット。</p>
+<p style="color:#888888; font-size:1.05em;">（左）Tompkins Robotics ＋ Duravant のブース別角度。黄色いバッグを吊るしたコンベアソーターが稼働。AMR とソーターの統合ソリューションを展示していた。（右）Roach Conveyors（米国）の大型ブース。オレンジ色のコンベアライン・「Custom Solutions for Ultimate Productivity」のバナー。Agility Robotics のブースも左奥に見える。</p>
+<p style="color:#888888; font-size:1.05em;">Tompkins Robotics 周辺エリアの別角度。</p>
+<p>
+<img src="Images/IMG_20260415_120140.jpg" width="800">
+</p>
+
+<br>
+<img src="Images/IMG_20260415_120352.jpg" width="390">
+<p style="color:#888888; font-size:1.05em;">（左）Packsize・Roach Conveyors の各ブースを含む通路の様子。（右）黄色いビン・バッグが積まれた同エリアの別カット。</p>
 
 <br>
 <img src="Images/VID_20260415_120258_thumb.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Roach Conveyors ブースの重力式ローラーコンベアライン。来場者が取り囲むように見学していた。</p>
 
 <br>
+<p style="color:#888888; font-size:1.05em;">Prime Vision ブース。「Vision and Robotic Sorting Solutions」のサインの下、番号タグ付きの小型ソーティングロボットが並ぶ。（右）デモ画面には俯瞰カメラによる倉庫内映像が映し出されていた。</p>
 <p>
 <img src="Images/VID_20260415_120621_thumb.jpg" width="390">
 <img src="Images/VID_20260415_120804_thumb.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">Prime Vision ブース。「Vision and Robotic Sorting Solutions」のサインの下、番号タグ付きの小型ソーティングロボットが並ぶ。（右）デモ画面には俯瞰カメラによる倉庫内映像が映し出されていた。</p>
 
 <br>
 <img src="Images/VID_20260415_121525_thumb.jpg" width="800">
@@ -515,18 +527,23 @@ AMRはすでにコモディティだ。
 
 <br>
 <p>
-<img src="Images/IMG_20260415_125429.jpg" width="390">
-<img src="Images/IMG_5886.JPG" width="390">
+<img src="Images/IMG_20260415_125429.jpg" width="800">
 </p>
-<p style="color:#888888; font-size:1.05em;">（左）人追従型電動台車。近づけば遠ざかる、までをスムーズでクイックな動きで実現しており、サウザーより格段に良い動きと感じた。技術と設計で差別化できるという好例。（右）Superior Lifts「The Last Four Feet」―トラックバースと荷台の最後の4フィートのギャップを解決するリフトプラットフォーム。Skip Construction / Improve Safety / Waste Less Space という3つのバリューを訴求。</p>
+<p style="color:#888888; font-size:1.05em;">人追従型電動台車。近づけば遠ざかる、までをスムーズでクイックな動きで実現しており、サウザーより格段に良い動きと感じた。技術と設計で差別化できるという好例。</p>
 
 <br>
+<p style="color:#888888; font-size:1.05em;">Superior Lifts「The Last Four Feet」―トラックバースと荷台の最後の4フィートのギャップを解決するリフトプラットフォーム。Skip Construction / Improve Safety / Waste Less Space という3つのバリューを訴求。。</p>
+
 <p>
-<img src="Images/VID_20260415_122045_thumb.jpg" width="390">
-<img src="Images/VID_20260415_122139_thumb.jpg" width="390">
+<p>
+<img src="Images/IMG_5886.JPG" width="800">
+<img src="Images/VID_20260415_122045_thumb.jpg" width="800">
 </p>
 <p style="color:#888888; font-size:1.05em;">Superior Lifts「The Last Four Feet」ブースの別カット。（左）製品を立てた状態、手前にカラーコーンの規制線。（右）サイン全体とリフトを展開した状態の全景。</p>
 
+<p>
+<img src="Images/VID_20260415_122139_thumb.jpg" width="800">
+</p>
 <br>
 <img src="Images/VID_20260415_122356_thumb.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">「Chock by GMR Safety」ブース。車輪止め（ホイールチョック）の安全製品を特許情報とともに展示していた。</p>
@@ -616,8 +633,7 @@ AMRはすでにコモディティだ。
 
 <br>
 <p>
-<img src="Images/IMG_NEW26.jpeg" width="390">
-<img src="Images/IMG_NEW27.jpeg" width="390">
+<img src="Images/IMG_NEW26.jpeg" width="800">
 </p>
 <p style="color:#888888; font-size:1.05em;">Ballymore ブースの別カット。（左）クレート付きシザーリフトカートと Colson Group のサイン。（右）階段ユニットとカバー付きシザーリフトを含む広めの俯瞰。</p>
 
@@ -693,7 +709,7 @@ AMRはすでにコモディティだ。
 <img src="Images/IMG_5706.JPG" width="800">
 <p style="color:#888888; font-size:1.05em;">会場へ向かう途中のアトランタ市内で遭遇した WM（Waste Management）の大型パッカー車。後部に油圧式リフト＆反転機構が搭載されており、ゴミ箱を自動で持ち上げ、荷台へ投入する仕組みだ。「ゴミ箱を自動搬送して反転機で空にする」という Nippou のアイデアの、現実版がここにあった。</p>
 
-
+　
 #### BIC との昼食・BIC 会の情報交換
 
 <br>
@@ -758,15 +774,7 @@ AMRはすでにコモディティだ。
 <img src="Images/VID_20260415_172021_thumb.jpg" width="800">
 <p style="color:#888888; font-size:1.05em;">Waymo の自動運転車両（Jaguar I-PACE ベース）。屋根のLIDARユニットが特徴的。駐車場で後方3/4アングルから撮影。米国では自動運転タクシーがすでに日常の風景になっている。</p>
 
-#### BIC 会食（4/14 夜）
 
-<br>
-<img src="Images/IMG_5805.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">BIC ランチの卓上風景。丸テーブルを囲んで BIC メンバー全員が着席。ローストチキン・グリッツ・マッシュポテト・フライドチキンが各自の皿に並んでいる。田島さんチームのメンバーがスマホで撮影中。Southern ならではのランチだった。</p>
-
-<br>
-<img src="Images/IMG_20260414_184622.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">BIC メンバーの田島さんとアメリカ人 3 名と会食。Southern fried chicken、grits、スープのプレートが並ぶアトランタらしい食事。若手エンジニアの Ramon から、アマゾンから直接オファーを受けているテーブルリフトの話を打ち明けられた。非常に興味深い内容だった。</p>
 
 
 <br>

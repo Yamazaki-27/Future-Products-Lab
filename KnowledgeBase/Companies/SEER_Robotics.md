@@ -10,7 +10,7 @@
 | ブースキャッチコピー | 「All Robots. One Platform. Fully in Your Control.」|
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5903.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">SEER Robotics（中国）の大型ブース。「All Robots. One Platform. Fully in Your Control.」— DMP 名義で名刺交換済み（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">SEER Robotics（中国）の大型ブース。「All Robots. One Platform. Fully in Your Control.」— DMP 名義で名刺交換済み（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 

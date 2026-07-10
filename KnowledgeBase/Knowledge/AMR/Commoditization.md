@@ -7,7 +7,7 @@
 日本の物流展で「だいたいわかっていた」認識は、MODEX を見て完全に覆された。
 
 <img src="../../../Reports/202604-MODEX/Images/IMG_5736.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">各社 AMR が複数台同時展示。ZS Robotics（中国）をはじめ、多国籍メーカーが同一フロアで競合を展開した（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">各社 AMR が複数台同時展示。ZS Robotics（中国）をはじめ、多国籍メーカーが同一フロアで競合を展開した（<a href="../../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## MODEX 2026 での観察
 
@@ -21,9 +21,9 @@
 <img src="../../../Reports/202604-MODEX/Images/IMG_5728.JPG" width="390">
 <img src="../../../Reports/202604-MODEX/Images/IMG_20260414_121814.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">（左）ADDVERB（インド）。「True Human+Robot Collaboration」と「Pallet & Tote ASRS Solutions」の両輪で展開。Panasonic・Siemens との協業実績を掲示。（右）NewAge Industrial の AMR カート連動棚。棚搬送型 AMR が棚ごと自律搬送する（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">（左）ADDVERB（インド）。「True Human+Robot Collaboration」と「Pallet & Tote ASRS Solutions」の両輪で展開。Panasonic・Siemens との協業実績を掲示。（右）NewAge Industrial の AMR カート連動棚。棚搬送型 AMR が棚ごと自律搬送する（<a href="../../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
-## 主要プレイヤー（MODEX 2026）
+## 主要プレイヤー（[MODEX 2026 Report.md](../../../Reports/202604-MODEX/Report.md)）
 
 | 企業 | 国 | 特徴 |
 |---|---|---|
@@ -42,7 +42,7 @@
 
 <br>
 <img src="../../../Reports/202604-MODEX/Images/IMG_20260415_113439.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">Locus Robotics（米国）の大型ブース。「Case Picking / Returns / Transport / Sanitation」— 物流現場の全工程をワンプラットフォームで賄うコンセプト。AMR がコモディティ化した先にある「ソフトウェア統合」競争軸を体現していた（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">Locus Robotics（米国）の大型ブース。「Case Picking / Returns / Transport / Sanitation」— 物流現場の全工程をワンプラットフォームで賄うコンセプト。AMR がコモディティ化した先にある「ソフトウェア統合」競争軸を体現していた（<a href="../../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## ハノーバーメッセ 2026 での観察
 
@@ -104,6 +104,29 @@
 - **国内マテハン・AMRメーカーの実績蓄積**：これまであまり聞いたことのない会社（KAIZEN Mobile Robots / Doog等）が着実に販売実績をつくりつつある
 - LINXブース：iRAYPLE AMR「物流を止めない自動化ソリューション」を掲げ、自動搬送ロボットから自動フォークリフトまでラインナップを展示
 
+## Robot Technology Japan 2026（愛知・Aichi Sky Expo・6月）での観察
+
+日本国内の産業用ロボット専門展でも、AMRは単体の主役ではなく「自動化ラインを構成する一要素」として展示されるケースが大半だった。一方で、駆動輪・コントローラー・リフト機構などのAMR要素技術には、独自性の高い開発が数多く見られた。
+
+<img src="../../../Reports/202606-RobotTechJapan/images/sakura/MiR.png" width="800">
+<p style="color:#888888; font-size:1.05em;">MiR（デンマーク製AMR）。フォーク型・手動操作対応。安全機能は本体上部の3D LiDARが担う構成（Robot Technology Japan 2026）</p>
+
+- **MiR（デンマーク）**：国内普及はまだ限定的。担当者いわく「ビシャモンを自動化したもの」という説明が分かりやすいとのこと。日本では既存設備・レイアウトを維持したいという要望が強く、海外のようにAMR導入前提でレイアウトを変える発想とは異なる
+- **オムロン 昇降タイプAMR**：2026年4月発売の新製品「OL-450S」を確認。既存台車（車輪径125mm）をそのまま搬送できる設計思想が特徴で、日本市場の「既存設備を活かしたい」ニーズに寄り添っている
+
+<br>
+<img src="../../../Reports/202606-RobotTechJapan/images/maegawa/IMG_5250.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">オムロン新製品「モバイルロボット OL-450S」。カーゴリフター搭載、最大450kgの資材搬送が可能な低床・全方向駆動型モバイルロボット（Robot Technology Japan 2026）</p>
+
+- **NSK アクティブキャスター**：1輪に2モータを搭載し駆動と旋回を独立制御、2輪のみで全方向移動を実現する足回り技術。メカナムホイールの弱点（走行時の上下振動）を解決し、オフィス・病院など屋内環境向け。5年前の試作品から大幅に小型化されており、要素技術としての成熟を感じさせた
+- **ベッコフ（ドイツ）**：産業用PC専業（約40年）。AMR/AGV向けにEtherCATで各種コンポーネントを接続する制御構成をデモ。汎用産業用PCベースのAMR制御という選択肢
+- **DAIHEN AiTran Lift／AiTran 500**：1m×1mのフットプリントに100mmのリフトアップ機能を内蔵した省スペース高密度搬送ロボットと、協働ロボット付き台車型AMR
+- そのほか Phoxter（段差10mm・傾斜5%対応）、VisionNav Robotics（フォークリフト型）、Standard Robots（600kg積載）、MEIWA e-TEC（協働ロボット搭載AMR）、UXiMO（オールインワン駆動輪モジュール）など、AMR要素技術（駆動輪・リフト機構・耐環境性）の専業プレイヤーが多数出展
+
+<br>
+<img src="../../../Reports/202606-RobotTechJapan/images/maegawa/IMG_5244.JPG" width="800">
+<p style="color:#888888; font-size:1.05em;">ベッコフ社ブースのAMR/AGV制御デモ。産業用PCとEtherCATで各種コンポーネントを接続し走行制御を行う（Robot Technology Japan 2026）</p>
+
 ## 技術的示唆
 
 - 差別化はもはや「AMR であること」ではなく「動作品質・信頼性・コスト」
@@ -125,6 +148,7 @@
 - [EP Equipment 工場訪問 2025年11月 Report.md](../../../Reports/202511-EP/Report.md)
 - [生成AI World・ロボット展示会 2025 Report.md](../../../Reports/202510-GenerativeAI/Report.md)
 - [iREX2025（2025国際ロボット展）Report.md](../../../Reports/202512-InterRobot/Report.md)
+- [Robot Technology Japan 2026 Report.md](../../../Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md)
 
 ## 更新履歴
 
@@ -136,3 +160,4 @@
 | 2026-07-03 | EP Equipment 社内実稼働事例（150台・フリーロケーション段積み）を追記 |
 | 2026-07-08 | 生成AI World 2025（名古屋）での国内観察を追記 |
 | 2026-07-09 | iREX2025（SEER WLR-719コントローラー・KAIZEN Mobile Robots/Doog・LINX iRAYPLE）を追記 |
+| 2026-07-10 | Robot Technology Japan 2026（NSKアクティブキャスター・ベッコフ・MiR・オムロンOL-450S・DAIHEN AiTran等）を追記 |

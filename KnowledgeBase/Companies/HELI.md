@@ -10,13 +10,13 @@
 | キーワード | 中国最大手フォークリフトメーカー・End-to-End Warehousing Solution |
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5774.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">HELI（合力、中国）の「Warehouse Trucks / End-to-End Warehousing Solution」大判パネル。リーチトラック・パレットジャック・ライダー・オーダーピッカーの全製品を1枚のビジュアルで見せる中国流の力強い訴求スタイル（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">HELI（合力、中国）の「Warehouse Trucks / End-to-End Warehousing Solution」大判パネル。リーチトラック・パレットジャック・ライダー・オーダーピッカーの全製品を1枚のビジュアルで見せる中国流の力強い訴求スタイル（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 
 <br>
 <img src="../../Reports/202604-MODEX/Images/IMG_NEW13.jpeg" width="800">
-<p style="color:#888888; font-size:1.05em;">HELI「Warehouse Trucks」の製品ポスター別カット。フォークリフト・パレットジャックのラインナップを俯瞰できる（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">HELI「Warehouse Trucks」の製品ポスター別カット。フォークリフト・パレットジャックのラインナップを俯瞰できる（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 - リーチトラック・パレットジャック・ライダー・オーダーピッカーまで、倉庫用フォークリフト全製品を1枚の大判パネルで見せる、情報量重視の中国流訴求スタイル
 - STAX 社ブース（[STAX.md](STAX.md)参照）の背景にも HELI の黄色いフォークリフトが写り込んでおり、会場内で存在感のある規模のブースを構えていたと見られる

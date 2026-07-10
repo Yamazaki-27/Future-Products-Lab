@@ -6,7 +6,7 @@
 MODEX 2026 で観察した、ハンドのボディプレートに後方倒れ止め柵を取り付けたシンプルな安全装置が発想源。
 
 <img src="../../Reports/202604-MODEX/Images/IMG_20260415_113623.jpg" width="800">
-<p style="color:#888888; font-size:1.05em;">Bishamon（日系）の手動パレットジャック（青）。このような手動ハンドのボディプレートに後方倒れ止め柵を追加するシンプルな安全装置が出展されていた（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">Bishamon（日系）の手動パレットジャック（青）。このような手動ハンドのボディプレートに後方倒れ止め柵を追加するシンプルな安全装置が出展されていた（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 背景
 
@@ -15,7 +15,7 @@ MODEX 2026 で観察した、ハンドのボディプレートに後方倒れ止
 <img src="../../Reports/202604-MODEX/Images/IMG_5867.JPG" width="390">
 <img src="../../Reports/202604-MODEX/Images/IMG_20260415_111644.jpg" width="390">
 </p>
-<p style="color:#888888; font-size:1.05em;">Titan（米国）の手動パレットジャック。後方倒れ止めが取り付けられた同種モデルが MODEX で確認されており、橋本 GM が注目した。（左）カウンター越し。（右）正面アングル（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">Titan（米国）の手動パレットジャック。後方倒れ止めが取り付けられた同種モデルが MODEX で確認されており、橋本 GM が注目した。（左）カウンター越し。（右）正面アングル（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 - Nippou：「ものすごく単純な装置だが、安全思考の高まりは間違いのない流れ」
 - 「パーキングプレーキに次ぐ単価引き上げに貢献できそうである」

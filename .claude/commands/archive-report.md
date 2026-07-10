@@ -208,6 +208,20 @@ grep -n "企業名\|技術キーワード" Report.md | grep "p style"
 <p style="color:#888888; font-size:1.05em;">（左）説明。（右）説明。</p>
 ```
 
+### 【重要】キャプション内でレポートにリンクする場合は `<a>` タグを使う
+
+キャプションの展示会名（例：MODEX 2026）からレポート本体にリンクを張りたい場合、**Markdownのリンク記法 `[text](url)` を使ってはいけない**。
+
+- `<p style=...>...</p>` は CommonMark/GFM 上「生のHTMLブロック」として扱われ、その内側のテキストはMarkdownとして再解釈されない
+- そのため `<p>...（[MODEX 2026 Report.md](../../../Reports/展示会フォルダ/Report.md)）...</p>` のように書くと、リンクにならず `[MODEX 2026 Report.md](...)` という文字列がそのまま表示されてしまう
+- 正しくは同じ行内で `<a href="...">...</a>` を使う
+
+```markdown
+<p style="color:#888888; font-size:1.05em;">キャプション本文（<a href="../../../Reports/展示会フォルダ/Report.md">MODEX 2026 Report.md</a>）</p>
+```
+
+（`## 関連レポート`セクションなど`<p>`タグの外側にある通常のMarkdownリンクはこの制約を受けないため、`[text](url)`のままでよい）
+
 ## 重要ルール
 
 - Report.mdに書かれていない事実を創作しない

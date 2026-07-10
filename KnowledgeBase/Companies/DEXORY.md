@@ -10,13 +10,13 @@
 | キャッチコピー | 「Storage Health」|
 
 <img src="../../Reports/202604-MODEX/Images/IMG_5857.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">DEXORY（英国）の在庫スキャンロボット。高さ 8m 超のマストを搭載し、走りながら棚全体の「Storage Health」をスキャンする（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">DEXORY（英国）の在庫スキャンロボット。高さ 8m 超のマストを搭載し、走りながら棚全体の「Storage Health」をスキャンする（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 ## 観察内容
 
 <br>
 <img src="../../Reports/202604-MODEX/Images/IMG_5859.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">DEXORY（英国）ブースにて担当者（中央）と記念撮影。山崎・橋本 GM と。英国スタートアップながら MODEX で確かな存在感を発揮していた（MODEX 2026）</p>
+<p style="color:#888888; font-size:1.05em;">DEXORY（英国）ブースにて担当者（中央）と記念撮影。山崎・橋本 GM と。英国スタートアップながら MODEX で確かな存在感を発揮していた（<a href="../../Reports/202604-MODEX/Report.md">MODEX 2026 Report.md</a>）</p>
 
 - 高さ 8m 超のマストを搭載した在庫スキャンロボット
 - 走行しながら棚全体の在庫状況（Storage Health）をスキャン
