@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## v1.2 - 2026-07-13
+
+### Added
+- StarUpdate.md を新規追加：README.md 全7テーブル（出張報告書・講演会レポート・Strategy・KnowledgeBase4種）の `最終更新`列・★/◎/△バッジ列の判定ロジックを一元化した単独スキル。`/StarUpdate` として単体実行できる
+- make-report.md：Report.md 作成・追記の最後に StarUpdate.md を必ず実行するよう配線。レビュー・公開前チェックを待たずに、レポート作成直後からトップページの表示が最新化される
+
+### Changed
+- publish-report.md（9.4節）：バッジ判定ロジックの実装を撤去し、StarUpdate.md への委譲に変更（ロジックの二重管理を解消）
+- archive-report.md：`find_real_last_edit()` / `effective_time()` / `rel_time()` の実装およびバッジ列ロジックを撤去し、StarUpdate.md への委譲に変更。行内容（ナレッジ化列・テーブルへの行追加）の担当は従来どおり
+
+### Notes
+- 判定ロジック（相対時間の表記ルール・一括リファクタリングコミットの除外パターン等）の変更・追記は、今後 StarUpdate.md にのみ加える
+
 ## v1.1 - 2026-07-09
 
 ### Added

@@ -1,4 +1,4 @@
-# Future Product Lab Report System v1.1
+# Future Product Lab Report System v1.2
 
 展示会・海外視察・技術調査レポートを、単なる報告書ではなく、会社の知識資産へ育てるための Claude Code 用スキルセットです。
 
@@ -11,6 +11,7 @@
   publish-report.md
   archive-report.md
   build-report.md
+  StarUpdate.md
 
   Config/
     FPL_STYLE.md
@@ -34,11 +35,13 @@ archive-report.md
 
 一括実行する場合は `/build-report <フォルダー名>` を使う（上記4工程を順に統括実行する）。
 
+`StarUpdate.md` は上記ワークフローの独立した1工程ではなく、**make-report・publish-report・archive-report それぞれの最後から自動的に呼び出される**、README.md の表示（`最終更新`列・★/◎/△バッジ）専任の更新エンジンである。表示だけをその場で洗い直したい場合は `/StarUpdate` として単体実行もできる。
+
 ## 各スキルの役割
 
 ### make-report.md
 
-初稿作成。Nippou.txtと写真をもとにReport.mdを作る。
+初稿作成。Nippou.txtと写真をもとにReport.mdを作る。作成・追記の最後に StarUpdate.md を実行し、README.mdの表示を更新する。
 
 ### review-report.md
 
@@ -46,15 +49,19 @@ archive-report.md
 
 ### publish-report.md
 
-出版社。GitHub公開前の品質保証を行う。README.mdの更新バッジ（★/◎/△）もここで洗い直す。
+出版社。GitHub公開前の品質保証を行う。README.mdの更新バッジ（★/◎/△）は StarUpdate.md に処理を委譲して洗い直す。
 
 ### archive-report.md
 
-知識アーキビスト。Report.mdから技術テーマ・企業・トレンド・アイデアを抽出し、`KnowledgeBase/` へ蓄積する。
+知識アーキビスト。Report.mdから技術テーマ・企業・トレンド・アイデアを抽出し、`KnowledgeBase/` へ蓄積する。行の追加後、StarUpdate.md に処理を委譲してREADME.mdの表示を洗い直す。
 
 ### build-report.md
 
 統括役。`Reports/<フォルダー名>/` を対象に、各工程を順番に実行する。差分ビルド（前回ビルド以降の変更分のみ処理）に対応。
+
+### StarUpdate.md
+
+README.md 全7テーブル（出張報告書・講演会レポート・Strategy・KnowledgeBase4種）の `最終更新`列・★/◎/△バッジ列だけを専任で洗い直すエンジン。判定ロジック（相対時間の表記・git履歴からの実質的な最終編集日の求め方・一括コミットの除外パターン等）はこのファイルにのみ実装されている。make-report・publish-report・archive-report の各工程末尾から自動的に呼ばれるほか、`/StarUpdate` で単体実行もできる。
 
 ## 配置
 
@@ -88,6 +95,12 @@ review-report.md で Report.md を編集品質まで高めたあと、publish-re
 build-report.md の考え方に従って、Report.md を公開品質に整えたうえで、archive-report.md により Knowledge、Companies、Trends、Ideas を更新してください。
 ```
 
+### README.mdの表示（★/◎/△）だけを今すぐ更新したい場合
+
+```text
+/StarUpdate
+```
+
 ## Version
 
-v1.1
+v1.2
