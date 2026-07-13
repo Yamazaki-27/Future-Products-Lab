@@ -41,7 +41,7 @@ archive-report.md
 
 ### make-report.md
 
-初稿作成。Nippou.txtと写真をもとにReport.mdを作る。作成・追記の最後に StarUpdate.md を実行し、README.mdの表示を更新する。
+初稿作成。Nippou.txtと写真をもとにReport.mdを作る。作成・追記の最後に StarUpdate.md を実行し、README.mdの表示を更新する。Report.md冒頭には作成日・最終更新日を記入する。
 
 ### review-report.md
 
@@ -49,11 +49,11 @@ archive-report.md
 
 ### publish-report.md
 
-出版社。GitHub公開前の品質保証を行う。README.mdの更新バッジ（★/◎/△）は StarUpdate.md に処理を委譲して洗い直す。
+出版社。GitHub公開前の品質保証を行う。README.mdの更新バッジ（★/◎/△）は StarUpdate.md に処理を委譲して洗い直す。あわせてReport.md冒頭の最終更新日をPUBLISH_SUMMARY.mdの実行日時と同期する。
 
 ### archive-report.md
 
-知識アーキビスト。Report.mdから技術テーマ・企業・トレンド・アイデアを抽出し、`KnowledgeBase/` へ蓄積する。行の追加後、StarUpdate.md に処理を委譲してREADME.mdの表示を洗い直す。
+知識アーキビスト。Report.mdから技術テーマ・企業・トレンド・アイデアを抽出し、`KnowledgeBase/` へ蓄積する。各ファイル冒頭には作成日・最終更新日を記入する。行の追加後、StarUpdate.md に処理を委譲してREADME.mdの表示を洗い直す。
 
 ### build-report.md
 

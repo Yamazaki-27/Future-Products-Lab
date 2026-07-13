@@ -1,6 +1,8 @@
 
 # Computex 2026 台北出張報告
 
+> 作成日：2026-06-05　最終更新日：2026-06-16
+
 > 技術部 山崎
 
 [Computex2026 全写真（Googleフォト）](https://photos.app.goo.gl/65CxeU6F83Y2mVAV9)

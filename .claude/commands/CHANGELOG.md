@@ -5,6 +5,9 @@
 ### Added
 - StarUpdate.md を新規追加：README.md 全7テーブル（出張報告書・講演会レポート・Strategy・KnowledgeBase4種）の `最終更新`列・★/◎/△バッジ列の判定ロジックを一元化した単独スキル。`/StarUpdate` として単体実行できる
 - make-report.md：Report.md 作成・追記の最後に StarUpdate.md を必ず実行するよう配線。レビュー・公開前チェックを待たずに、レポート作成直後からトップページの表示が最新化される
+- make-report.md・archive-report.md：Report.md / KnowledgeBase各ファイル（Knowledge・Companies・Trends・Ideas）のH1直後に `> 作成日：YYYY-MM-DD　最終更新日：YYYY-MM-DD` を記入するルールを追加。README.mdのバッジ判定根拠がファイル本体からも確認できるようにし、信憑性を担保する
+- publish-report.md（9.5節）：PUBLISH_SUMMARY.md 実行日時とReport.md冒頭の最終更新日を同期する処理を追加
+- 既存の Report.md 19件・KnowledgeBase 68件に作成日・最終更新日ヘッダーを遡って追記（バックフィル）
 
 ### Changed
 - publish-report.md（9.4節）：バッジ判定ロジックの実装を撤去し、StarUpdate.md への委譲に変更（ロジックの二重管理を解消）
@@ -12,6 +15,7 @@
 
 ### Notes
 - 判定ロジック（相対時間の表記ルール・一括リファクタリングコミットの除外パターン等）の変更・追記は、今後 StarUpdate.md にのみ加える
+- 作成日・最終更新日ヘッダーは Strategy（`strategy/`）・講演会レポート（`Reports/講演フォルダ/`）には未適用。これらは dx-strategy.md・infra-mente.md・make-lecture.md が個別に管理しており、既存の書式（`> 作成：...`）と競合するため今回は対象外とした
 
 ## v1.1 - 2026-07-09
 

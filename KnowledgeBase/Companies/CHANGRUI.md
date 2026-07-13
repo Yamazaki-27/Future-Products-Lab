@@ -1,5 +1,7 @@
 # DONGYING CHANGRUI INVESTMENT CASTING CO.（昌瑞）
 
+> 作成日：2026-07-02　最終更新日：2026-07-03
+
 ## 企業概要
 
 | 項目 | 内容 |

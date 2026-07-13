@@ -1,5 +1,7 @@
 # TianyuLux（Hebei TianyuLux Electromechanical Technology / 河北天宇力克）
 
+> 作成日：2026-07-09　最終更新日：2026-07-10
+
 ## 基本情報
 
 | 項目 | 内容 |

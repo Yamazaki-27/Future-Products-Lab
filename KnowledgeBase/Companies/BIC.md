@@ -1,5 +1,7 @@
 # Bishamon Industries Corporation（BIC）
 
+> 作成日：2026-07-02　最終更新日：2026-07-10
+
 ## 基本情報
 
 | 項目 | 内容 |

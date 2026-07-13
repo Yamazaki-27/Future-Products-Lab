@@ -1,5 +1,7 @@
 # BIC 協業による北米展開
 
+> 作成日：2026-07-06　最終更新日：2026-07-06
+
 ## 概要
 
 Bishamon Industries Corporation（BIC）はカリフォルニア州 Ontario 拠点の1986年創業リフトメーカー。

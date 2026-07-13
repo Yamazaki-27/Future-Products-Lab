@@ -1,5 +1,7 @@
 # ASRS シャトルシステム
 
+> 作成日：2026-07-02　最終更新日：2026-07-10
+
 ## 概要
 
 ASRS（Automated Storage and Retrieval System）の中でも、棚登り型・シャトル型が MODEX 2026 で多数出展。

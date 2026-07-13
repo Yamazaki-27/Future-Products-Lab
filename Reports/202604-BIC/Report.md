@@ -1,5 +1,7 @@
 # BIC（Bishamon Industries Corporation）訪問・エンジェルス観戦
 
+> 作成日：2026-07-06　最終更新日：2026-07-08
+
 ## 1. サマリー
 
 BIC（Bishamon Industries Corporation）は、スギヤスの米国ブランド "Bishamon" の製造・販売を担う、創業40年のカリフォルニア企業だ。
