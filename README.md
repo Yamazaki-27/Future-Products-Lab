@@ -7,7 +7,7 @@
 
 | ステップ | 担当 | 内容 |
 |:---:|:---:|---|
-| 📍 視察・訪問 | 🧑 Person | 展示会・工場・商談 |
+| 📍 視察・訪問 | 🧑 Person | 国内外の展示会視察・工場見学・商談・講演 |
 | 📝 日報（Nippou.txt） | 🧑 Person | 一次情報・その場の気づき |
 | 📄 Report.md 初稿 | 🤖 AI | 体験を文章に変換（`/make-report`） |
 | 🔍 レビュー | 🤖 AI | 写真・構成を磨き込む（`/review-report`） |
@@ -19,18 +19,18 @@
 
 **直近に作成されたファイル**
 
-- 📅 [海外出張スケジュール表（ベトナム）](Reports/202607-VILOG/海外出張スケジュール表_ベトナム.docx)
-- 📄 [Automechanika Shanghai 2025 視察レポート](Reports/202511-Automechanika-Shanghai/Report.md)
-- 📈 [2025年トレンド](KnowledgeBase/Trends/2025.md)
-- 🏢 [EAE（企業情報）](KnowledgeBase/Companies/EAE.md)
-- 💡 [EV普及を見据えたバッテリー脱着対応リフター（アイデア）](KnowledgeBase/Ideas/EV_Battery_Lifting_Adapter.md)
+- (07/16) 📄 [Automechanika Shanghai 2025 視察レポート](Reports/202511-Automechanika-Shanghai/Report.md)
+- (07/16) 📈 [2025年トレンド](KnowledgeBase/Trends/2025.md)
+- (07/16) 🏢 [EAE（企業情報）](KnowledgeBase/Companies/EAE.md)
+- (07/16) 💡 [EV普及を見据えたバッテリー脱着対応リフター（アイデア）](KnowledgeBase/Ideas/EV_Battery_Lifting_Adapter.md)
+- (07/15) 📅 [海外出張スケジュール表（ベトナム）](Reports/202607-VILOG/海外出張スケジュール表.md)
 
 一度の視察は、点でしかない。
 だが、同じ企業・同じ技術が別の展示会で再登場したとき、点は線になる。
 
 例えば、SEER Roboticsは、山崎／廣田が展示会で知り合ったDMP社との接点をきっかけとして、iREX・MODEXと複数の視察で情報が積み重なり、ショールーム見学を経て、コントローラーの購入にまで発展した。
 
-IMS牽引車や、TianyuLuxオフロード電動車のサンプル購入も、展示会での記念撮影が全ての始まりである。
+フランスIMS社の牽引車や、中国TianyuLux社のオフロード電動車のサンプル購入も、展示会での記念撮影が全ての始まりである。
 一度の出会いでは終わらない。視察を重ねるたびに、同じ相手との関係と理解が濃くなっていく。
 
 これが、このリポジトリの正体である。
