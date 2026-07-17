@@ -1,0 +1,1988 @@
+# TianyuLux（中国・河北省保定市）視察報告
+
+> 作成日：2026-07-17　最終更新日：2026-07-17
+
+> 記入者：廣田　/　橋本健太郎
+
+---
+
+## 1. サマリー
+
+出張は、2026年7月13日から16日まで、中国河北省保定市のTianyuLux（天宇力克/ Hebei TianyuLux Electromechanical Technology Co., Ltd.）を訪問する4日間の日程だ。廣田GM・橋本健太郎GMの2名が同行した。
+
+きっかけは、2026年4月の米国展示会MODEXで山崎部長・橋本GMがTianyuLuxのオフロード電動ローリフトを見かけたことにある。本社工場での見学・商談に加え、実際にTianyuLux製品を導入している冷凍倉庫ユーザーへの訪問も実現し、現場の生の声を拾えたことが今回の出張の大きな成果だ。
+
+工場見学では、機械加工から溶接・塗装・組立までを一貫して行う体制、耐久試験や全数検査の仕組みを確認した。ユーザー訪問では、EPからTianyuLuxへの切り替えの背景にある結露・電装トラブルの解消、オフロードタイヤの耐久性の高さを直接ヒアリングできた。最終日には5機種の仕様・納期を確定させ、7月25日出荷・盆明け入荷の目処まで詰めている。
+
+<br>
+<img src="images/TianyuLux_offroad_truck.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">TianyuLuxの主力製品「オフロード電動ローリフト」（出典：TianyuLux公式サイト tianyulift.com、2026-07-17取得）</p>
+
+---
+
+## 2. 視察概要・参加者
+
+| 項目 | 内容 |
+|---|---|
+| 日程 | 2026年7月13日（月）〜7月16日（木）　3泊4日 |
+| 訪問先 | Hebei TianyuLux Electromechanical Technology Co., Ltd.（中国河北省保定市清苑区） |
+| 対応者 | 張総経理、Ms. Angela、張技術部長（張総経理の兄）、ジン通訳、貿易スタッフ一同 |
+| 参加者 | 廣田GM、橋本健太郎GM |
+| ルート | 関西空港 → 北京 → （DIDIタクシー・高速鉄道）→ 保定市 → TianyuLux本社工場・ユーザー先・市内事務所 → 北京 → 関西空港 |
+
+TianyuLuxは1993年創業。祖業はチェーンホイストで、建築現場向けの資材搬送機器メーカーとして歩んできた。不動産バブル期の資材搬送ニーズを捉え、大手リフトメーカーが手薄だった領域に着目し、6年前にオフロード電動ローリフトへ本格参入。現在では売上の9割をオフロード電動ローリフトが占めるまでにピボットしている。売上規模は1.6億元（約38億円）、従業員約200名（国内営業20名、貿易10名、技術10名、品証6名、直接工160名）とのこと。海外展開は2年前から本格化し、ロシア・ベトナム・ドイツ・オーストラリア・ブラジル・インドネシアなどに実績があるとのこと。
+
+出典：[TianyuLux公式サイト](https://www.tianyulift.com/)（Hebei TianyuLux Electromechanical Technology Co., Ltd.、2026-07-17取得）
+
+---
+
+## 3. 視察の目的
+
+視察の目的は、次の3点にある。
+
+- TianyuLuxのオフロード電動ローリフトについて、工場見学を通じてものづくりの実力・品質管理体制を確認すること
+- 実際の導入ユーザー（冷凍倉庫を持つ食品卸売業者）を訪問し、現場での稼働状況・ユーザーの生の声を確認すること
+- 具体的な機種選定・仕様決め・納期交渉を行い、物流展への出展に向けた準備を前進させること
+
+背景には、山崎部長・橋本GMが2026年4月の米国展示会MODEXでTianyuLuxのオフロード電動ローリフトに出会ったことがある。橋本健太郎GMの記述では「事前に山崎部長より頂いていた展示会場での写真が名刺代わりの様に挨拶となった」とあり、MODEXでの出会いがそのまま今回の訪問のきっかけとなったことがわかる。
+
+---
+
+## 4. 背景（環境変化）
+
+TianyuLuxが拠点を置く保定市の工業団地は、チェーンホイストで世界シェアトップと言われる産地であり、関連企業が多数集積している。保定市自体は頂上汽車（GWM）の本拠地でもあり、サプライヤー網が広がっている土地とのこと。
+
+電動ローリフトとしての TianyuLux の歴史はまだ5〜6年と浅いが、中国国内での年間販売台数は既に5万台に達している。海外展開は2年前から本格化したばかりで、実績はこれから積み上げていく段階という印象を受けた。OEM供給先としては、KionグループのLindeと並ぶブランドであるBaoli、ノブリフト、中国のフォークリフトメーカーであるLonkingなどの名前が挙がり、業界内での関係の深さがうかがえた。
+
+日本市場向けの候補としては、以下の5機種を最終選定した。
+
+| No. | 機種概要 |
+|---|---|
+| ① | オフロードのスタンダードモデル：3t、屋外・アスファルト・工場内向け |
+| ② | 5tクラスの高出力モデル：登坂7.5度、電動化による負担軽減を狙う |
+| ③ | 冷凍庫対応モデル：MODEXで展示されていた耐水仕様 |
+| ④ | 溶融亜鉛フルメッキモデル：日本では高額になりがちなフルメッキを安価に実現 |
+| ⑤ | 建機向けモデル：建機レンタル・重機やフォークリフト搬送用途 |
+
+国内向けの廉価モデルと輸出向けモデルでは安全基準に差があり、輸出向けには挟み込み防止のリバース機能やフットガードなどが標準搭載される。中国国内のハイエンド仕様が、そのまま海外標準に位置づけられているとのこと。
+
+---
+
+## 5. 内容
+
+
+### 7月14日　TianyuLux本社工場 訪問
+
+
+保定市内から郊外へ約1時間、田舎の工業団地にTianyuLux本社工場はある。この工業団地はチェーンホイストで中国No.1のエリアとのことで、周辺にはホイスト関連企業やその派生でリフターを手がける工場が多数集積している。工場の規模はスギヤス高浜本社工場ぐらいの敷地面積で、機械加工から溶接・塗装・組立までを一貫して行う体制だ。マシニングセンタが20台近く、旋盤が15台程、ファイバーレーザー2機、溶接ロボットは20台前後を数える。
+
+<br>
+<img src="images/IMG_20260714_151045.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">TianyuLux本社工場の外観、「Precise Intelligence 精智工厂」の看板とロゴ、敷地に停まる車とトラック</p>
+
+<br>
+<img src="images/IMG_20260714_151047.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場敷地内を歩く同行者2名とスタッフ（建物・駐車車両を背景に）</p>
+
+完成品エリアでは、事前にピックアップした5機種の候補を実際に手に取り、各部を確認しながら説明を受けた。
+
+<br>
+<img src="images/IMG_20260714_152630.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">電動オフロードローリフトの足回り・操作部を確認する男性2名（1名はスマートフォンで撮影）</p>
+
+<br>
+<img src="images/IMG_20260714_152647.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">完成品の電動オフロードローリフト（黄色、「天宇力士」ロゴ）を囲んで説明を受ける様子。背景に他機種（緑・黒）が複数台並ぶ</p>
+
+<br>
+<img src="images/IMG_20260714_152654.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">製品の充電コネクタ（DCチャージャー）部分を手に取って確認する接写</p>
+
+<br>
+<img src="images/IMG_20260714_152737.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">製品の操作パネル・ハンドル部の接写（赤い非常停止ボタン、黄色ノブ、背景に他機種）</p>
+
+<br>
+<img src="images/IMG_20260714_152747.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">製品の操作ノブ部分を手で操作する接写、「全地形越野王」の表示ステッカーが見える</p>
+
+<br>
+<img src="images/IMG_20260714_152754.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">製品のハンドルとボタン部、「天宇力士」ロゴパネルの接写</p>
+
+<br>
+<img src="images/IMG_20260714_152805.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">完成品エリア全景。複数の電動ローリフト（黄・緑・黒）とクレーン設備が並ぶ工場内</p>
+
+<br>
+<img src="images/IMG_20260714_152807.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場内に完成品の電動オフロードローリフト（緑・黄・黒）が複数台並んでいる完成品エリア</p>
+
+<br>
+<img src="images/IMG_20260714_152816.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">製品ハンドル部の接写、背後で女性がメモを取っている。TianyuLuxロゴが見える</p>
+
+<br>
+<img src="images/IMG_20260714_153216.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">緑色のローリフト側面全体、人が持ち手を握って説明している</p>
+
+<br>
+<img src="images/IMG_20260714_153317.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色い製品のコントロール部を手で操作している接写</p>
+
+<br>
+<img src="images/IMG_20260714_153347.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">複数人が黄色・緑の製品を囲んで商談・説明を受けている様子</p>
+
+<br>
+<img src="images/IMG_20260714_153353.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色のTianyuLux製品を囲んで数名が商談している全体風景</p>
+
+<br>
+<img src="images/IMG_20260714_153411.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黒い油圧ヒッチ機構部の接写、バーコードシール等が確認できる</p>
+
+<br>
+<img src="images/IMG_20260714_154144.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">赤色製品のバッテリー・油圧部の接写、周囲に人の脚が見える</p>
+
+<br>
+<img src="images/IMG_20260714_155145.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品を人がハンドル操作しながらスマホを見ている様子</p>
+
+<br>
+<img src="images/IMG_20260714_155247.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品と奥の黄色製品、複数人が商談している様子</p>
+
+<br>
+<img src="images/IMG_20260714_155343.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品2台を正面から並べて接写</p>
+
+<br>
+<img src="images/IMG_20260714_155356.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品2台を工場フロア背景込みで広角に撮影</p>
+
+<br>
+<img src="images/IMG_20260714_155407.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">床すれすれの低アングルで製品とパレット、奥に歩く人物を撮影</p>
+
+<br>
+<img src="images/IMG_20260714_155525.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤いカバーを開けてコントローラー・配線内部を見せている</p>
+
+<br>
+<img src="images/IMG_20260714_161031.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤いカバーを閉じた状態の上部、キースイッチ部の接写</p>
+
+<br>
+<img src="images/IMG_20260714_161235.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">カバー内部で作業者がファン状の部品を取り付けている手元</p>
+
+工場フロア全体では、生産ラインと組立中の製品が並ぶ様子も確認できた。シリンダーや油圧バルブ、モーターのコアパーツ、ギヤボックスなども内製しており、品質のコアとなる部分は社内で管理する方針とのこと。溶接は見た目に綺麗な仕上がりだった一方、パーツレベルでは面粗度や加工後のバリなど粗削りな部分も見受けられ、レーザーバリ取り機やショットで辻褄を合わせている様子だった。検査は油圧機器やモーター単体の全数検査、完成品の昇降・走行の全数検査を行う一方、部品単体で計測しているシーンはあまり見受けられず、最終チェックで品質を担保する印象を受けた。
+
+<br>
+<img src="images/IMG_20260714_161406.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場フロア全体、生産ラインと組立中の製品が並ぶ広角風景</p>
+
+<br>
+<img src="images/IMG_20260714_161438.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品2台を挟んで男女が商談している様子</p>
+
+<br>
+<img src="images/IMG_20260714_161809.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">複数の黒色製品が並ぶ前で、女性が飲み物を飲みながら立っている</p>
+
+<br>
+<img src="images/IMG_20260714_161812.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">同じ製品群を別アングルからフォーク部が見えるように撮影</p>
+
+<br>
+<img src="images/IMG_20260714_161819.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">製品のフォーク・キャスター部分の接写</p>
+
+<br>
+<img src="images/IMG_20260714_162407.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品3台を並べて男性が説明している商談風景</p>
+
+<br>
+<img src="images/IMG_20260714_162549.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">赤色製品3台の別アングル、背後に黄色製品も写る商談風景</p>
+
+<br>
+<img src="images/VID_20260714_162811_thumb.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場内、電動オフロードローリフト（黒＋赤バッテリー部）の完成品ラインナップと青いパレット（動画サムネイル）</p>
+
+<br>
+<img src="images/IMG_20260714_163054.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">青いパレットに人が足を乗せて耐荷重を試す様子、奥で撮影する人も</p>
+
+<br>
+<img src="images/IMG_20260714_163101.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">男性がかがんでパレットと製品を確認している別カットの様子</p>
+
+<br>
+<img src="images/IMG_20260714_163126.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">アルミ製と黒色製のフォーク部を並べて比較撮影</p>
+
+<br>
+<img src="images/IMG_20260714_163727.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">人がハンドル・操作レバー部を手に持っている接写</p>
+
+<br>
+<img src="images/IMG_20260714_163818.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">操作パネルのLEDインジケーターとSTOPボタンの接写</p>
+
+<br>
+<img src="images/IMG_20260714_164455.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">デュアルモード切替ボタンの説明シールと発光インジケーターの接写</p>
+
+<br>
+<img src="images/IMG_20260714_164629.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色い製品を工場フロアに広角で撮影</p>
+
+<br>
+<img src="images/IMG_20260714_164633.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">工場フロアに緑・黒・黄色など色違いの製品が複数並ぶ全体風景</p>
+
+開発品の検証エリアでは、耐久試験の基準回数が二万回であることを知り、走行連続試験なども行われている様子に親近感を覚えた。設計面では、オフロードという用途を踏まえ、ハーネスの防水モールド仕上げやギアボックスのシール構造などにきめ細かさが感じられた。標準品対応と個別ユーザー対応の比率は半数弱が個別対応とのことで、組み合わせ対応が中心とみられる。
+
+<br>
+<img src="images/IMG_20260714_164645.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">耐久試験用と思われる装置と作業者、奥に台車が並ぶ工場風景</p>
+
+<br>
+<img src="images/IMG_20260714_164719.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色い製品のフォークと本体を斜め上から撮影、奥に歩く人物</p>
+
+<br>
+<img src="images/IMG_20260714_164738.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">製品銘板（型式TYA30・3.0t・製造年月202607等）の接写</p>
+
+<br>
+<img src="images/IMG_20260714_165220.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色い製品をロッカーが並ぶ室内で斜めから撮影</p>
+
+<br>
+<img src="images/IMG_20260714_165320.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">黄色い製品を別角度から、奥に別の黄色製品も写る</p>
+
+<br>
+<img src="images/IMG_20260714_165605.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">フォーク先端のキャスター部を新旧比較するような接写（上下2台分）</p>
+
+<br>
+<img src="images/IMG_20260714_165657.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">青いパレットの下に差し込まれたフォークとキャスター部の接写</p>
+
+<br>
+<img src="images/IMG_20260714_165906.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">床すれすれの低アングルでフォークとキャスターを撮影</p>
+
+午後の商談を終え、夕食の場では終始和やかな雰囲気となった。TianyuLuxの社屋には世界地図をあしらった壁面装飾があり、輸出に力を入れる姿勢がうかがえた。
+
+<br>
+<img src="images/IMG_20260714_193826.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">室内で男女5名がピースサインをして撮る集合セルフィー</p>
+
+<br>
+<img src="images/IMG_20260714_195006.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">TianyuLux社屋外観（世界地図の壁面装飾とPRECISE INTELLIGENTの看板）、手前に車</p>
+
+<br>
+<img src="images/IMG_20260714_195012.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">社屋前でトラックとバイクが行き交う搬入口付近の様子</p>
+
+### 7月15日　ユーザー冷凍倉庫 視察
+
+
+昨日のミーティングでものづくりや会社概要のイメージができたところで、実際のユーザーの声が聞けないか相談したところ、地元で訪問できる冷凍倉庫のユーザーがあるとのことで、急遽この日の視察が組まれた。朝、前夜に詰めた5機種の比較を手書きメモにまとめた。
+
+<br>
+<img src="images/IMG_20260715_072621.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">手書きの製品比較メモ（輸出スタンダードモデル・冷凍庫対応モデル・溶融亜鉛メッキモデル・建築特化の対応シーン、バッテリー、フォーク幅、価格等を比較した表）</p>
+
+訪問先は食品卸売業者「北极雄」の冷凍倉庫。庫内食品は全て自社で買い付けたもので、24時間稼働しているとのこと。
+
+<br>
+<img src="images/IMG_20260715_084703.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">訪問先「北极雄」倉庫の外観、搬入トラックが複数台停車</p>
+
+<br>
+<img src="images/IMG_20260715_084753.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">「北极雄」倉庫の看板・連絡先掲示と搬入トラック複数台</p>
+
+<br>
+<img src="images/IMG_20260715_085014.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">倉庫の荷降ろし場に停車するトラックと積まれた段ボール箱</p>
+
+<br>
+<img src="images/IMG_20260715_085029.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">屋外の広場、青いコンテナ・パレットが並ぶ中を歩く同行者</p>
+
+<br>
+<img src="images/IMG_20260715_085447.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">毛皮フード付き防寒コートを着た同行者GMの笑顔、背景にトラック</p>
+
+倉庫はスギヤスの部品倉庫ぐらいの広さで、TianyuLuxのオフロード電動ローリフトが約15台ほど稼働している様子だった。3階層以上あるラックビルが多い中、高揚程ステッカータイプは数台にとどまり、電動ローリフトが圧倒的多数を占める。上段はパレット単位で約2トン以内の在庫置場、下段は事実上のピッキングエリアとなっており、一箱単位どころか袋単位の端数パターンでもピッキングが行われている。バッテリーは朝と昼に交換する程度の頻度とのこと。従来はEPの電動ローリフトが入っていたが、結露などによる電装品トラブルでTianyuLuxへ切り替えた経緯がある。バッテリーも当初は鉛タイプを使用していたが、充電待ち時間の問題からリチウムイオン電池で都度交換しながら運用しているとのことで、稼働10台のうち鉛バッテリーは3台のみという状況だった。
+
+<br>
+<img src="images/IMG_20260715_085541.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">ぶれ気味だが冷凍室入口へ向かう人物と黄色いコンテナが写っている</p>
+
+<br>
+<img src="images/IMG_20260715_085546.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">ぶれ気味だが「冷库退鲜货存放处」の緑看板と黄色い箱・黒い保管容器が並ぶエリア</p>
+
+<br>
+<img src="images/VID_20260715_085609_thumb.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内の通路を毛皮フード付きコートの作業者が台車を引いて歩く様子（動画サムネイル）</p>
+
+<br>
+<img src="images/IMG_20260715_085651.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫の通路、黄色いパレットトラックを押す作業員と赤い上着の作業員</p>
+
+<br>
+<img src="images/IMG_20260715_085717.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫通路を見学する同行者ら、パレットトラックを押す作業員に続く様子</p>
+
+<br>
+<img src="images/IMG_20260715_085807.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫の高い棚に積まれた段ボール箱群を見上げた様子</p>
+
+<br>
+<img src="images/VID_20260715_085815_thumb.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内、段ボールが積み上げられた棚の通路（動画サムネイル）</p>
+
+<br>
+<img src="images/IMG_20260715_085915.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫のラックに積まれた商品ラベル付き箱を見上げた様子</p>
+
+<br>
+<img src="images/VID_20260715_090058_thumb.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内で防寒着の作業者が台車で段ボールを運ぶ様子（動画サムネイル）</p>
+
+<br>
+<img src="images/VID_20260715_090319_thumb.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内、小龍虾（ザリガニ）の黄色い段ボール箱が積まれた棚（動画サムネイル）</p>
+
+<br>
+<img src="images/VID_20260715_090740_thumb.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内で作業者が電動ローリフトを操作し段ボールパレットを運搬する稼働風景（動画サムネイル）</p>
+
+> 「路面は荒れており、オフロードがマッチした様です。操作もさせてもらい、非常に操作感もよかった」（廣田）
+
+
+オフロードの大径ホイールは2年使用してもほとんど摩耗していないという耐久性が確認されており、庫内床面の凹凸が目立つ状況でも、一般的な屋内モデルのホイールより耐久性・操作性の両面で合っているとみられる。同行したTianyuエンジニアからは、各部の錆対策・結露対策・防水対策が最重要課題とのコメントがあり、Tianyu社内には試験用の冷凍倉庫設備もあり、そこで製品開発・改善に取り組んでいるとのこと。倉庫内には手動式パレットスタッカーや他ブランドの電動機器も稼働しており、TianyuLux製以外の設備と混在する運用実態も確認できた。
+
+<br>
+<img src="images/IMG_20260715_092050.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">冷凍倉庫内の商品棚が並ぶ通路(人物なし)</p>
+
+<br>
+<img src="images/IMG_20260715_092117.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">手動式パレットスタッカー(リフト機)のクローズアップ、背景に商品棚</p>
+
+<br>
+<img src="images/IMG_20260715_092226.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">天井・扉に厚く霜が付着した冷凍室のドア付近</p>
+
+<br>
+<img src="images/IMG_20260715_092311.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">屋根付き荷捌きエリア、青いプラスチックパレットと作業員</p>
+
+<br>
+<img src="images/IMG_20260715_092354.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">手に持った眼鏡のレンズが曇っている様子(倉庫内背景)</p>
+
+<br>
+<img src="images/IMG_20260715_092406.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">荷捌き場で複数の作業員・同行者が行き交う様子、垂直リフトが見える</p>
+
+<br>
+<img src="images/IMG_20260715_092413.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">貨物用垂直リフト内に立つ作業員と黄色いコンテナ</p>
+
+<br>
+<img src="images/IMG_20260715_092419.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">荷捌き場で複数の手動リフト機器と作業員たちの様子</p>
+
+<br>
+<img src="images/IMG_20260715_092433.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">手動パレットスタッカーとバッテリー、警告表示のある電気設備コーナー</p>
+
+<br>
+<img src="images/IMG_20260715_092446.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">「中力叉車」ブランドの電動パレットスタッカーのクローズアップ</p>
+
+<br>
+<img src="images/IMG_20260715_092546.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">作業員が身振りを交えて同行者に説明する様子</p>
+
+<br>
+<img src="images/IMG_20260715_092833.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">壁面充電コンセントに繋がれたバッテリー群と赤いパレットスタッカー</p>
+
+<br>
+<img src="images/IMG_20260715_092906.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">パレットスタッカーを見る同行者と説明する作業員、背景に社用車</p>
+
+<br>
+<img src="images/IMG_20260715_092930.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">木製パレット上のフォーク(爪)部分のクローズアップ</p>
+
+<br>
+<img src="images/IMG_20260715_092935.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">フォーク下部のローラー機構のクローズアップ(人物の脚が背景)</p>
+
+<br>
+<img src="images/IMG_20260715_093047.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">スタッカーのハンドル・操作パネル部分のクローズアップ</p>
+
+<br>
+<img src="images/IMG_20260715_093232.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">荷捌き場に集まる一行と説明する作業員、黄色いコンテナが並ぶ</p>
+
+<br>
+<img src="images/IMG_20260715_093245.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">赤いエプロン姿の女性スタッフが赤いスタッカーのある小部屋へ向かう様子</p>
+
+<br>
+<img src="images/IMG_20260715_093558.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">スタッカーのバッテリーボックスを開けて配線を見せる様子</p>
+
+<br>
+<img src="images/IMG_20260715_094518.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">「电动车充电区」の看板下、壁面充電コンセント群とはしご</p>
+
+### 7月15日　TianyuLuxオフィス訪問・クロージング商談
+
+
+午後には、展示会の日程を想定すると手配がタイトになるとの判断から、急遽TianyuLuxオフィスを訪問し、具体的な機種・仕様決めの打合せとなった。オフィスに案内されると、12名ほどのスタッフ全員が立ち上がり拍手で迎え入れる場面があり、驚かされた。全員が輸出担当とのことで、日本語で「いらっしゃいませ」と声をかけるスタッフもいたという。
+
+<br>
+<img src="images/IMG_20260715_103316.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">TianyuLuxオフィス入口の扉とロゴサイン「1701」、奥に電動パレットトラック展示</p>
+
+<br>
+<img src="images/IMG_20260715_103513.jpg" width="800">
+<p style="color:#888888; font-size:1.05em;">同上の集合写真（103509と同構図・代表カット）</p>
+
+<br>
+<img src="images/IMG_20260715_103644.jpg" width="500">
+<p style="color:#888888; font-size:1.05em;">同上の3名の記念写真（代表カット、表情・構図が良好）</p>
+
+
+前日にピックアップした5機種の見積もりの叩き台をもとに、基本寸法決めやオプション設定、バッテリー容量などの仕様を詰め、最終選定を完了した。船便で盆明け入荷の予定で、7月25日出荷という日程まで調整がついている。その他、売上規模や組織の概要、ブランド銘板についても確認し、売上と販売台数から推察すると中国市場で流通する廉価版は＄500程度と見られる。EPやその他の代替候補が上がる中で、コスト感覚を把握できたことも有意義だった。
+
+
+---
+
+
+## 6. まとめ
+
+### 視察全体を通じた気づき・所感
+
+TianyuLuxは、祖業のホイスト製造からオフロード電動ローリフトへと大胆にピボットし、6年でオフロードタイプのパイオニアとしての地位を築いた会社だ。工場規模はスギヤス高浜本社工場と同程度で、オーナー兄弟経営によるアットホームな雰囲気が随所に感じられた。
+
+品質面では、油圧機器やモーターの単体全数検査、完成品の昇降・走行の全数検査を行う一方、部品単体レベルでの計測は少なく、最終チェックで品質を担保する考え方が中心という印象を受けた。設計面では、オフロードという用途を踏まえ、ハーネスの防水モールドやギアボックスのシール構造にきめ細かさが感じられた。
+
+ユーザー訪問では、EPの電動ローリフトが倉庫内外の温度差による電装トラブルに悩まされていたのに対し、TianyuLuxへの切り替え後は同様の不具合がなくなったという声を現場で直接確認できた。オフロード大径ホイールは2年使用してもほとんど摩耗しておらず、耐久性の高さも裏付けられた。
+
+> 「路面は荒れており、オフロードがマッチした様です。操作もさせてもらい、非常に操作感もよかった」（廣田）
+
+TianyuLuxは輸出比率5割を目標に掲げており、先行するHELI・ハンチャ・ノブリフトなどの実績を踏まえた強い信念を持って海外展開に取り組んでいるとのこと。日本の代理店ポジションを強く求めている様子もうかがえ、フィーリング面でも相性の良い会社という手応えを得た。
+
+> 「同行いただいた廣田GMのモノづくりの視点での目利きには学ぶことばかりで大変勉強となりました」（橋本健太郎）
+
+### 今後の展開・アクション
+
+- 最終選定した5機種について、7月25日出荷・盆明け入荷のスケジュールで手配を進める
+- 物流展への出展に向けて、具体的な機種・仕様の確定作業を継続する
+- アフターサービス・補充品対応など、取引開始後の実務的な論点を継続して詰める
+- ［要確認：日本国内での投入環境（屋内外・路面条件）の見極めは今後の検証課題］
+
+---
+
+## その他の写真
+
+本編の流れには収めなかった写真・動画サムネイルを収録する。
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_070454.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_070621.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_071446.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_081727.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_082538.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_091254.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_100622.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_101324.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_101643.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_103127.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_110546.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_111124.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_113013.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_115633.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_121414.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_122724.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_124029.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_124045.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_124229.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_124435.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_124447.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_124512.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_141032.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_151414.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_151504.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_151937.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_171120.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_171400.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_171429.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_171452.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_171547.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_171836.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_172135.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_172750.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_173615.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_173747.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_173748.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_173802.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_173852.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_173854.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_174658.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_174733.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_174802.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_174811.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_174829.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_175125.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_175248.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_175832.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_180121.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_180130.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_180353.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_180407.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_180648.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_181544.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_184041.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_185342.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_185522.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_190516.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_190713.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_190814.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_190841.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_191006.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_191035.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_193527.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_195101.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_195316.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_195321.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_195322.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_200132.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_202627.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_202837.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_202842.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_202852.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_202937.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205120.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_205124.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205126.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_205217.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205234.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_205236.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205347.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_205356.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205422.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_205433.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_205938.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_212708.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_212806.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_212937.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_213201.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_213208.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_213229.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_213627.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_213721.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_215518.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_215527.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_223634.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_224008.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_224211.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_224308.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_224314.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_224617.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_224900.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_224943.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_225122.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_225237.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_225239.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_225245.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_225726.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260713_225739.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260713_232400.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_090954.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_090958.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_091009.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_091011.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_091330.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_091416.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_092825.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_092827.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_094804.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095044.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095052.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095100.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095112.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095113.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095132.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095153.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095209.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095608.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095620.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095638.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095657.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095738.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095814.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095817.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_095817_1.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_095844.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_100918.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101353.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101400.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101435.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101442.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101508.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101530.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101540.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101542.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101720.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101728.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101735.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101804.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101832.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101901.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101929.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_101937.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_101941.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_140014.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_140534.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_141111.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_141117.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_143821.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_143828.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_144615.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_144620.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_150455.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_150503.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_150512.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_150636.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_150646.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_150805.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_152632.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_152740.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_153410.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_155254.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_161027.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_161236.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_161810.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_163059.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_164631.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_164739.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_165226.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_165659.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_193828.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_194844.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_195010.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_195621.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_195628.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_200520.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_200521.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_203322.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_205634.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_210308.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_210310.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_210416.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_210547.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_210946.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_211347.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_211644.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_220523.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260714_220530.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260714_220556.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_053206.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_053209.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_053212.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_053222.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_053228.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063508.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063511.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063514.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063518.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063521.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063526.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063529.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063642.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063645.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063821.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063836.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063842.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_063931.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_063933.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_064008.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_064011.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_064013.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_064125.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_064129.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_064221.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_064331.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_072101.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_072104.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_072108.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_075414.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_075431.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_075439.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080230.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080239.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080243.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080259.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080307.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080318.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080337.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080354.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080412.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080439.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080446.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080452.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_080517.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_080541.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_081257.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_081300.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_081306.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_081412.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_081416.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_081458.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_081509.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_081529.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_081535.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_084627.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_084636.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_084651.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_084744.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_085516.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_085757.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_092107.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_092157.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_092221.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_092547.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_092920.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_092938.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_093318.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_093601.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_093914.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_094519.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_094548.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_094552.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_095612.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_095613.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_095614.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_095619.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_102321.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_102330.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_102350.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_102551.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_102612.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_102617.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_102639.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_103509.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_103514.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_103519.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_103520.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_103523.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_103639.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_103643.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_103653.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_103656.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_104710.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_104734.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_104736.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_121114.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_130607.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_130626.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_130647.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_130707.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_131009.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_131117.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_131126.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_131944.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_132310.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_133232.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_133738.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_133742.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_134145.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_134552.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_134853.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_134902.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_135019.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_135133.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_135303.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_140505.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_140731.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_140824.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_141956.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_142540.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144305.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144317.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144342.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144343.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144349.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144356.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144408.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144412.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144420.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144446.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144544.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144551.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144556.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144606.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144613.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_144613_1.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_144847.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_145100.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_145121.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_145314.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_145323.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_145635.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_150210.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_150428.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_150431.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_150441.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_150605.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_151332.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_151507.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_151748.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_151751.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_151840.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_151932.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_152133.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_152304.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_152307.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_153801.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_153818.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_153904.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_163530.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_163603.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_165332.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_173927.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_174722.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_175541.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_175650.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_175654.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_181440.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_181447.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_181524.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_181527.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_181528.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_181625.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_181729.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_181821.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_181839.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_181904.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_182143.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_182155.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_182258.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_182900.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_183241.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_183248.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_183628.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_183716.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_183744.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_183751.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_183804.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_183902.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184059.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184110.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184159.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184218.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184555.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184600.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184637731_BURST1.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184639.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184718.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184731.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184741.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_184806.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_184856.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_185022.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_185044.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_185117.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_185135.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_185213.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_185649.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_185650.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_185651.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_185701.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_190605.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_191616.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_191624.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_191632.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_191734.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_191837.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_193843.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_193844.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_194953.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_194958.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_195016.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_195231.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_195922.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_195923.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_195924.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_195926.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_210356.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_210403.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_210453.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_210501.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_210618.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_210648.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_212945.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_213122.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_213337.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_213453.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_213743.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_213820.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_214309.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_221558.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_221602.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_221747.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_221800.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_222015.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_222034.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_224336.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260715_224927.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260715_224941.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_052154.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_052202.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_052219.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_052229.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_052239.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_052242.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_052330.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_053237.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_053243.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_053423.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_053513.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_053516.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_053655.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_054711.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_054952.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_055205.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_055215.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_055651.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_055655.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_055946.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_060016.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_060024.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_060211.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_060427.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_060442.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_060537.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_060603.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_060608.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_072820.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_074348.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_074905.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_075138.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_080329.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_095212.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_095440.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_100823.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_122855.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_123646.jpg" width="390">
+<img src="images/OtherPictures/IMG_20260716_131331.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/IMG_20260716_161321.jpg" width="390">
+<img src="images/OtherPictures/VID_20260714_100924_thumb.jpg" width="390">
+</p>
+
+<br>
+<p>
+<img src="images/OtherPictures/VID_20260715_141000_thumb.jpg" width="390">
+<img src="images/OtherPictures/お土産.jpg" width="390">
+</p>
+
+<br>
+<img src="images/OtherPictures/ユニクロ.jpg" width="800">
+

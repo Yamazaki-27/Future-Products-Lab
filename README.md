@@ -56,30 +56,31 @@
 
 ## 出張報告書
 
-> 最終更新列は **2026-07-13 13:30** 時点の相対時間です（PUBLISH_SUMMARY.md の実行日時が基準。未実施のレポートは「—」）。★ = 過去24時間以内に実質的な更新があったもの　◎ = 過去3日以内（24時間超）に実質的な更新があったもの　△ = 過去7日以内（3日超）に実質的な更新があったもの
+> 最終更新列は **2026-07-17 09:45** 時点の相対時間です（PUBLISH_SUMMARY.md の実行日時が基準。未実施のレポートは「—」）。★ = 過去24時間以内に実質的な更新があったもの　◎ = 過去3日以内（24時間超）に実質的な更新があったもの　△ = 過去7日以内（3日超）に実質的な更新があったもの
 
 | 最終更新 |  | 日付 | 出張先 | 参加者 | 写真枚数・容量 | ナレッジ化 |
 |:---:|:---:|---|---|---|:---:|:---:|
 | — |  | 2025年1月31日 | [🇯🇵 日本／福島トヨペット 南会津店 視察](Reports/202501-FukushimaToyopet/Report.md) | 山崎・廣田GM | 10枚・1.7MB | — |
-| 5 days ago | △ | 2025年3月11日 | [🇩🇪 ドイツ／LogiMAT 2025（シュトゥットガルト）](Reports/202503-LogiMat/Report.md) | 山崎・中川・橋本GM | 89枚・13.8MB | [7/8](Reports/archive_log.md) |
-| 3 days ago | ◎ | 2025年4月15日 | [🇨🇳 中国／Electric China 2025（上海・天津）](Reports/202504-ElectricChina/Report.md) | 山崎・奥村 | 276枚・41.4MB | [7/10](Reports/archive_log.md) |
+| 1 week ago |  | 2025年3月11日 | [🇩🇪 ドイツ／LogiMAT 2025（シュトゥットガルト）](Reports/202503-LogiMat/Report.md) | 山崎・中川・橋本GM | 89枚・13.8MB | [7/8](Reports/archive_log.md) |
+| 7 days ago | △ | 2025年4月15日 | [🇨🇳 中国／Electric China 2025（上海・天津）](Reports/202504-ElectricChina/Report.md) | 山崎・奥村 | 276枚・41.4MB | [7/10](Reports/archive_log.md) |
 | — |  | 2025年6月18日 | [🇯🇵 日本／第38回 オートサービスショー2025（東京ビッグサイト）](Reports/202506-ASS/Report.md) | 山崎 | 23枚・3.8MB | — |
 | — |  | 2025年9月17日 | [🇯🇵 日本／Diet & Beauty Fair 2025（東京ビッグサイト）](Reports/202509-DietBeautyFair/Report.md) | 山崎 | 12枚・1.4MB | — |
-| 5 days ago | △ | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | [7/8](Reports/archive_log.md) |
-| 1 week ago |  | 2025年11月26日 | [🇨🇳 中国／EP Equipment（浙江中力機械）工場視察・商談（浙江省）](Reports/202511-EP/Report.md) | 山崎・廣田・橋本 | 27枚・39.2MB | [7/6](Reports/archive_log.md) |
-| Today | ★ | 2025年11月27日 | [🇨🇳 中国／Automechanika Shanghai 2025（国家会展中心）](Reports/202511-Automechanika-Shanghai/Report.md) | 武村・水野・淵田・廣田GM・橋本GM・山崎 | 58枚・7.9MB | [7/16](Reports/archive_log.md) |
-| 4 days ago | △ | 2025年12月3日 | [🇯🇵 日本／iREX2025 国際ロボット展（東京ビッグサイト）](Reports/202512-InterRobot/Report.md) | 山崎 | 27枚・3.8MB | [7/9](Reports/archive_log.md) |
+| 1 week ago |  | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | [7/8](Reports/archive_log.md) |
+| 2 weeks ago |  | 2025年11月26日 | [🇨🇳 中国／EP Equipment（浙江中力機械）工場視察・商談（浙江省）](Reports/202511-EP/Report.md) | 山崎・廣田・橋本 | 27枚・39.2MB | [7/6](Reports/archive_log.md) |
+| 1 days ago | ◎ | 2025年11月27日 | [🇨🇳 中国／Automechanika Shanghai 2025（国家会展中心）](Reports/202511-Automechanika-Shanghai/Report.md) | 武村・水野・淵田・廣田GM・橋本GM・山崎 | 58枚・7.9MB | [7/16](Reports/archive_log.md) |
+| 1 week ago |  | 2025年12月3日 | [🇯🇵 日本／iREX2025 国際ロボット展（東京ビッグサイト）](Reports/202512-InterRobot/Report.md) | 山崎 | 27枚・3.8MB | [7/9](Reports/archive_log.md) |
 | — |  | 2026年2月12日 | [🇯🇵 日本／国際オートアフターマーケットEXPO 2026（東京ビッグサイト）](Reports/202602-AfterMark/Report.md) | 山崎 | 22枚・2.9MB | — |
-| 4 days ago | △ | 2026年4月13日 | [🇺🇸 米国／MODEX 2026（ジョージア・ワールド・コングレス・センター）](Reports/202604-MODEX/Report.md) | 山崎・橋本GM | 195枚・26.6MB | [7/2・7/9](Reports/archive_log.md) |
-| 5 days ago | △ | 2026年4月17日 | [🇺🇸 米国／BIC（Bishamon Industries Corporation）訪問・エンジェルス観戦（カリフォルニア州）](Reports/202604-BIC/Report.md) | 山崎・橋本GM | 28枚・4.0MB | [7/8](Reports/archive_log.md) |
-| 1 week ago |  | 2026年4月20日 | [🇩🇪 ドイツ／ハノーバーメッセ 2026（ハノーバー見本市会場）](Reports/202604-HANNOVER/Report.md) | 山崎・橋本GM | 34枚・4.5MB | [7/2](Reports/archive_log.md) |
-| 1 week ago |  | 2026年4月22日 | [🇫🇷 フランス／MANUVIT 工場視察・商談（La Ferté Macé）](Reports/202604-MANUVIT/Report.md) | 山崎・橋本GM | 28枚・3.3MB | [7/3](Reports/archive_log.md) |
-| 6 days ago | △ | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 21枚・2.7MB | [7/3・7/7](Reports/archive_log.md) |
+| 1 week ago |  | 2026年4月13日 | [🇺🇸 米国／MODEX 2026（ジョージア・ワールド・コングレス・センター）](Reports/202604-MODEX/Report.md) | 山崎・橋本GM | 195枚・26.6MB | [7/2・7/9](Reports/archive_log.md) |
+| 1 week ago |  | 2026年4月17日 | [🇺🇸 米国／BIC（Bishamon Industries Corporation）訪問・エンジェルス観戦（カリフォルニア州）](Reports/202604-BIC/Report.md) | 山崎・橋本GM | 28枚・4.0MB | [7/8](Reports/archive_log.md) |
+| 2 weeks ago |  | 2026年4月20日 | [🇩🇪 ドイツ／ハノーバーメッセ 2026（ハノーバー見本市会場）](Reports/202604-HANNOVER/Report.md) | 山崎・橋本GM | 34枚・4.5MB | [7/2](Reports/archive_log.md) |
+| 2 weeks ago |  | 2026年4月22日 | [🇫🇷 フランス／MANUVIT 工場視察・商談（La Ferté Macé）](Reports/202604-MANUVIT/Report.md) | 山崎・橋本GM | 28枚・3.3MB | [7/3](Reports/archive_log.md) |
+| 1 week ago |  | 2026年4月24日 | [🇫🇷 フランス／IMS Manutention 工場視察・商談（Bonneval）](Reports/202604-IMS/Report.md) | 山崎・橋本GM | 21枚・2.7MB | [7/3・7/7](Reports/archive_log.md) |
 | — |  | 2026年6月1日 | [🇹🇼 台湾／Computex 2026（台北）](Reports/202605-Computex/Coputex2026-Report.md) | 山崎 | 41枚・20.5MB | — |
 | — |  | 2026年6月11日 | [🇯🇵 日本／Interop Tokyo 2026（幕張メッセ）](Reports/202606-Interop26/Interop26-Report.md) | 山崎 | 48枚・12.4MB | — |
-| 3 days ago | ◎ | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 前川・奥村・佐倉 | 65枚・9.2MB | [7/10](Reports/archive_log.md) |
-| 1 week ago |  | 2026年6月25日 | [🇯🇵 日本／九州国際物流総合展 INNOVATION EXPO 2026（マリンメッセ福岡）](Reports/202606-InnovationEXPO/Report.md) | 山崎・前川 | 34枚・4.8MB | [7/3](Reports/archive_log.md) |
-| Today | ★ | 2026年7月14日 | [🇯🇵 日本／株式会社アイム 訪問](Reports/202607-AIM/Report.md) | 黒野部長・新倉GM・前川 | 8枚・1.1MB | [7/14](Reports/archive_log.md) |
+| 7 days ago | △ | 2026年6月12日 | [🇯🇵 日本／Robot Technology Japan 2026（Aichi Sky Expo）](Reports/202606-RobotTechJapan/RobotTechnologyJapan2606-Report.md) | 前川・奥村・佐倉 | 65枚・9.2MB | [7/10](Reports/archive_log.md) |
+| 2 weeks ago |  | 2026年6月25日 | [🇯🇵 日本／九州国際物流総合展 INNOVATION EXPO 2026（マリンメッセ福岡）](Reports/202606-InnovationEXPO/Report.md) | 山崎・前川 | 34枚・4.8MB | [7/3](Reports/archive_log.md) |
+| Today | ★ | 2026年7月13日 | [🇨🇳 中国／TianyuLux 工場視察・商談（河北省保定市）](Reports/202607-Tianyulux/Report.md) | 廣田・橋本健太郎GM | 93枚・10.1MB | [7/17](Reports/archive_log.md) |
+| 3 days ago | ◎ | 2026年7月14日 | [🇯🇵 日本／株式会社アイム 訪問](Reports/202607-AIM/Report.md) | 黒野部長・新倉GM・前川 | 8枚・1.1MB | [7/14](Reports/archive_log.md) |
 | — |  | 2026年7月30日 | [🇻🇳 ベトナム／VILOG 2026（ホーチミン）※事前ブリーフィング](Reports/202607-VILOG/PreVisit_Briefing.md) | 山崎・岡部 | —（視察前） | — |
 | — |  | 2026年11月17日 | [🇹🇭 タイ／METALEX 2026（バンコク）※事前ブリーフィング](Reports/202611-Thailand/PreVisit_Briefing.md) | 山崎 | —（視察前） | — |
 
@@ -117,7 +118,7 @@
 
 展示会・出張レポートから抽出した技術テーマ・企業情報・市場変化・商品開発アイデアの蓄積。
 
-> 最終更新列は **2026-07-13 13:30** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示。今回追記・新規作成した一部ファイルは未コミットのため、コミット後に相対時間が更新されます）。★ = 過去24時間以内に実質的な更新　◎ = 過去3日以内（24時間超）に実質的な更新　△ = 過去7日以内（3日超）に実質的な更新
+> 最終更新列は **2026-07-17 09:55** 時点の相対時間です（実質的な編集コミットが無いファイルは、参考として最後に触れた一括操作コミットの日付を表示。今回追記・新規作成した一部ファイルは未コミットのため、コミット後に相対時間が更新されます）。★ = 過去24時間以内に実質的な更新　◎ = 過去3日以内（24時間超）に実質的な更新　△ = 過去7日以内（3日超）に実質的な更新
 
 ### 技術テーマ（Knowledge/）
 
@@ -135,6 +136,7 @@
 | 3 days ago | △ | Humanoid | [ヒューマノイドの物流展示](KnowledgeBase/Knowledge/Humanoid/Humanoid_Logistics.md) | 中国製ヒューマノイドとの技術差「10年以上」。トヨタCUE7・ファナック×NVIDIA・AGiBOTを追記（RobotTechJapan2026） |
 | 3 days ago | △ | Manufacturing | [ドライブユニットのオープンモジュール化](KnowledgeBase/Knowledge/Manufacturing/DriveUnit_OpenModularization.md) | モーター＋コントローラー＋バッテリーが部品化。業界分業構造を再編する最重要発見（LogiMAT 2025） |
 | 3 days ago | △ | Sensor | [触覚センシング技術](KnowledgeBase/Knowledge/Sensor/TactileSensing.md) | 画像ベースの力覚検出が新潮流。太田廣・FingerVision・Analog Devices ToF（新設カテゴリ、RobotTechJapan2026） |
+| Now | ★ | Logistics | [オフロード電動ローリフト・冷凍倉庫対応設計](KnowledgeBase/Knowledge/Logistics/OffroadElectricPalletTruck_ColdStorage.md) | TianyuLux本社・ユーザー先視察。大径ホイールの耐久性、リチウムイオン電池都度交換運用、冷凍倉庫向け防水・防錆設計（202607-Tianyulux） |
 
 ### 企業情報（Companies/）
 
@@ -146,7 +148,7 @@
 | 1 week ago |  | CHANGRUI | [CHANGRUI.md](KnowledgeBase/Companies/CHANGRUI.md) | 中国（山東省）。精密鋳造20年。BMW・COGNEX・FIAT納品実績 |
 | 3 days ago | △ | SEER Robotics | [SEER_Robotics.md](KnowledgeBase/Companies/SEER_Robotics.md) | DMP 名義で名刺交換済み。WLR-719コントローラーが中国AMRの標準。廣田GMショールーム見学確約（2026年3月） |
 | 3 days ago | △ | STAX | [STAX.md](KnowledgeBase/Companies/STAX.md) | 低価格電動車。初回接触はLogiMAT 2025。将来の価格戦略オプション（橋本 GM 担当）|
-| 3 days ago | △ | TianyuLux | [TianyuLux.md](KnowledgeBase/Companies/TianyuLux.md) | 中国（河北省）。オフロード対応電動パレットトラック。防水（冷凍倉庫グレード）耐久デモを確認。今後注目候補 |
+| Now | ★ | TianyuLux | [TianyuLux.md](KnowledgeBase/Companies/TianyuLux.md) | 中国（河北省保定市）。本社工場・ユーザー先（冷凍倉庫）を訪問し商談進展。日本市場向け5機種の仕様・納期を確定（202607-Tianyulux） |
 | 3 days ago | △ | LiftPoint | [LiftPoint.md](KnowledgeBase/Companies/LiftPoint.md) | 米国。Mohawk Lifts傘下。フォークリフトをコンテナ床面高さに持ち上げるリフト。「設計力を感じる」着眼点 |
 | 3 days ago | △ | Ballymore | [Ballymore.md](KnowledgeBase/Companies/Ballymore.md) | 米国。シザーリフト・クライミングプラットフォームを月額課金（$114〜395/月）で販売する米国流モデル |
 | 3 days ago | △ | HELI（合力） | [HELI.md](KnowledgeBase/Companies/HELI.md) | 中国・安徽省。フォークリフト販売台数で中国最大・世界7位（上場：600761）。市場価格の基準点として継続監視 |
@@ -184,7 +186,7 @@
 | 最終更新 |  | ファイル | 内容 |
 |:---:|:---:|---|---|
 | Now | ★ | [2025年トレンド](KnowledgeBase/Trends/2025.md) | LogiMAT 2025・Electric China 2025・生成AI World・EP Equipment実稼働・Automechanika Shanghai（電子的同調・重量計測、EV対応リフト）・iREX2025（中国製ヒューマノイド10年差・SEERコモディティ化・GMO代理店参入）|
-| 3 days ago | △ | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問・RobotTechJapan2026（ヒューマノイド急増・AI×アーム標準化）他 |
+| Now | ★ | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問・RobotTechJapan2026（ヒューマノイド急増・AI×アーム標準化）・TianyuLux冷凍倉庫対応設計 他 |
 
 ### アイデア（Ideas/）
 
@@ -211,6 +213,7 @@
 | 3 days ago | △ | [ZIPチェーンによるテーブル昇降装置](KnowledgeBase/Ideas/ZipChain_TableLift.md) | 椿本ZIPチェーン。薄型テーブルの省スペース昇降機構（優先度 高、RobotTechJapan2026） |
 | 3 days ago | △ | [3D LiDARによるパレット・ワーク識別](KnowledgeBase/Ideas/LiDAR_PalletWorkID.md) | Doogサウザー由来。カメラに代わる高精度識別方式（優先度 高、RobotTechJapan2026） |
 | 2 days ago | ◎ | [モーター・ドライブユニットの内製化検討](KnowledgeBase/Ideas/DriveUnit_InHouseProduction.md) | NIDEC事例・中国部品サプライチェーンを踏まえた内製化検討。月100〜500台が量産閾値（Electric China 2025） |
+| Now | ★ | [TianyuLux オフロード電動ローリフト 日本代理店展開](KnowledgeBase/Ideas/TianyuLux_OffroadPalletTruck_JapanDistribution.md) | 5機種の仕様・納期確定まで進展。国内投入環境の見極めが次の課題（202607-Tianyulux） |
 
 <br>
 
