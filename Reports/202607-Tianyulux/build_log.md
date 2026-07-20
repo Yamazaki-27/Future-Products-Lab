@@ -75,3 +75,49 @@ Windows環境での実行のため、make-report.md記載のmacOSコマンドを
 | publish-report | 約3分 |
 | archive-report | 約9分 |
 | 合計 | 約44分 |
+
+---
+
+## 2026-07-20 ビルド実行（差分ビルド：Brief.md優先・Mustフォルダ経由の必須写真40枚＋統合議事録）
+
+### Brief.md 適用
+
+ユーザーからMustフォルダ経由で40枚の必須写真候補を受け取り、1枚ずつ趣旨を対話形式で確認（`/fpl:brief`相当）。「必須だが不要」と回答された写真は必須リストから除外し通常判定とする運用ルールをユーザーから指示され、以後のBrief.md運用に反映した。結果、16枚を必須写真としてBrief.mdへ記録し、Report.md本文へ絶対採用した。
+
+### 実行工程
+
+| 工程 | 結果 | 備考 |
+|---|---|---|
+| make-report | done | 差分ビルドモード。新規40枚（16枚本文採用／15枚OtherPictures／9枚unUsed）、旧OtherPictures/unUsed 525枚をサブエージェント8体で再確認し9枚を本文へ格上げ、統合議事録（Giji-roku.txt）を9箇所に追記 |
+| review-report | done | 画像リンク617件（欠落0）・OtherPictures同期499件（完全一致）を確認。縦長スクリーンショット14枚のwidth属性を500→400へ修正。本文の再配置・回転補正は発生せず |
+| publish-report | Ready for Publish（98/100） | CHANGELOG・release_notes・PUBLISH_SUMMARYを更新 |
+| archive-report | done | Knowledge/Companies/Ideas 3ファイルに追記、Companies新規1ファイル作成、archive_log.md追記、README「出張報告書」「知識ベース：企業情報」テーブルを更新 |
+
+### 生成・更新ファイル
+
+- `Reports/202607-Tianyulux/Brief.md`（新規作成）
+- `Reports/202607-Tianyulux/Giji-roku.txt`（新規作成、中国出張議事録.docxから変換）
+- `Reports/202607-Tianyulux/Report.md`（9箇所に追記マーカー付きで追記。既存本文は無編集）
+- `Reports/202607-Tianyulux/images/`（Mustフォルダ40枚を分類・配置、旧OtherPicturesから9枚を本文へ移動）
+- `Reports/202607-Tianyulux/CHANGELOG.md`・`release_notes.md`・`PUBLISH_SUMMARY.md`・`edit_log.md`（追記）
+- `../../README.md`（出張報告書テーブルの写真枚数・ナレッジ化列を更新。知識ベース：企業情報テーブルに新規行1件追加。出張報告書テーブル全15行の最終更新・バッジを実行時点基準で再計算し、4行を修正）
+- `../../KnowledgeBase/Companies/TianyuLux.md`（商談条件・戦略検討を追記）
+- `../../KnowledgeBase/Ideas/TianyuLux_OffroadPalletTruck_JapanDistribution.md`（基本戦略を追記）
+- `../../KnowledgeBase/Knowledge/Logistics/OffroadElectricPalletTruck_ColdStorage.md`（品質管理体制を追記）
+- `../../Reports/archive_log.md`（新規セクション追記）
+
+### 特記事項
+
+- 写真表示の不具合により、当初予定していたInvoke-Item/Start-Processでの外部ビューア表示、およびReadツールでのチャット内表示の両方が断続的に機能しなかった。対策として、必須写真候補をImageMagickで縮小しArtifact（HTMLギャラリー）としてブラウザ表示する方式に切り替え、以後の趣旨聞き取りを継続した
+- 旧OtherPictures/unUsed計525枚の再確認は、トークン消費削減のためサブエージェント8体（各約65枚）に並列で担当させた。ユーザー指定の5カテゴリ（ランチ会食・ディナー会食・冠水道路・企業看板・パレットフレーム積載トラック）で探索し、9枚の該当写真を発見・本文へ格上げした
+- StarUpdate.mdは今回も「出張報告書」テーブルのみ再計算した（他6テーブルは対象外。前回ビルドと同じ運用方針を踏襲）
+- ［要確認：`images/`直下に残る3件の`.trashed-`ファイルの扱いは未解決のまま］
+- 統合議事録に記載されていた「机器人产业园（別会社）視察」は、ユーザー確認の結果**事実誤認**と判明（実際には訪問していない）。Report.md本文・KnowledgeBase・README・archive_log.mdから該当記述を削除した。同じ日の北京への新幹線移動・万里の長城観光・帰路の夕食会はユーザーが事実と確認済みのため残している。統合議事録の他の記載内容についても、全面的な正確性は保証されない可能性がある点に留意
+
+### 次に必要な工程
+
+なし（全工程完走。git commit のみ）
+
+### 所要時間
+
+開始：05:04ごろ（Mustフォルダ写真確認開始）／終了：06:13ごろ（archive-report完了）
