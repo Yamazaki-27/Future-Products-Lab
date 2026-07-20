@@ -1,7 +1,7 @@
 # Release Notes
 
 ## Version
-v1.0-publish-20260717-0950
+v1.1-publish-20260720-0554
 
 ## Report
 Report.md
@@ -10,10 +10,11 @@ Report.md
 Ready for Publish
 
 ## Summary
-- 公開前チェックを実施
+- 差分ビルド（Must写真40枚追加、統合議事録の追記、旧振り分け525枚の再確認・9枚昇格）の公開前チェックを実施
 - Markdown構文を確認
-- 画像リンクを確認（586件、欠落・重複なし）
-- README.mdを確認・更新
+- 画像リンクを確認（617件、欠落・重複なし）
+- 「その他の写真」章とOtherPicturesフォルダの一致を確認（499件完全一致）
+- README.mdを確認・更新（写真枚数・容量を121枚・22.4MBへ更新）
 
 ## Quality Score
 - Markdown: 100/100
