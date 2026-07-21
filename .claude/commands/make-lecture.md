@@ -36,13 +36,15 @@
 ## 写真の使い方
 - 写真はすべて `Knowledge/` フォルダ内にある
 - 動画ファイル（.MOV / .MP4 等）がある場合は削除する
-- **全写真を先に** 横幅800ピクセル程度の .jpg に変換する（sips コマンド）。この処理は採否判断より先に行う
+- **全写真を先に** 横幅1600ピクセル程度の .jpg に変換する（sips コマンド）。この処理は採否判断より先に行う
 - sips でリサイズする際は、**ファイルのタイムスタンプを必ず保持する**こと：
   ```bash
   for f in Knowledge/*.jpeg Knowledge/*.jpg Knowledge/*.JPG Knowledge/*.png; do
     [ -f "$f" ] || continue
     ts=$(date -r "$f" +"%Y%m%d%H%M.%S")
-    sips -Z 800 "$f"
+    w=$(sips -g pixelWidth "$f" | awk '/pixelWidth/{print $2}')
+    # sips -Z は拡大もしてしまうため、1600pxを超える写真だけ縮小する
+    [ -n "$w" ] && [ "$w" -gt 1600 ] && sips -Z 1600 "$f"
     touch -t "$ts" "$f"
   done
   ```

@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# 配布用PDF（make-pdf.md の生成物）。リポジトリ肥大化を防ぐため、配布はAirDrop・LINE等で行う
+*.pdf
