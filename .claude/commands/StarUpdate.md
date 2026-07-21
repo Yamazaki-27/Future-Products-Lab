@@ -177,9 +177,12 @@ badge_for() {
 
 ## 5. テーブル別の適用手順
 
-### 5.1 出張報告書テーブル（PUBLISH_SUMMARY.md基準）
+### 5.1 出張報告書テーブル（PUBLISH_SUMMARY.md と直接編集の新しい方）
 
-各レポートフォルダの `PUBLISH_SUMMARY.md` は「実際に人が処理した日」を示す最も確実な指標である。git のコミット日時ではなく、これを使う。
+各レポートフォルダの `PUBLISH_SUMMARY.md` は「実際に人が処理した日」を示す確実な指標である。ただし、**公開パイプラインを通さずに Report.md へ直接追記されるケース**（例：営業説明会での意見を後日追記）があるため、PUBLISH_SUMMARY.md の実行日時と、リンク先 Report.md の `effective_time()`（セクション4のgit履歴ベース判定）の**新しい方**を採用する。
+
+- `PUBLISH_SUMMARY.md` が存在しない場合は従来どおり `—` / 空欄（パイプライン未実施の判定は変えない。git時刻との比較は行わない）
+- `PUBLISH_SUMMARY.md` が存在する場合のみ、`max(実行日時, effective_time(Report.md))` で判定する
 
 ```bash
 today=$(date +%s)
@@ -205,6 +208,8 @@ done
 - 7日超・14日未満 → `1 week ago` / 空欄
 - 14日以上 → `X weeks ago` / 空欄
 - `PUBLISH_SUMMARY.md` が存在しない（このパイプラインを一度も通っていない） → `—` / 空欄
+
+判定に使う時刻は上記のとおり `max(実行日時, effective_time(Report.md))`。直接編集の方が新しい場合は、相対時間テキスト・バッジともセクション4.5／4.6の秒単位ロジックで求める。
 
 （`PUBLISH_SUMMARY.md` の日付は日単位のため、24時間判定の厳密な時刻比較ができない場合は「実行日が本日と同一なら★、それ以外は日数で判定」でよい。厳密にしたい場合は `YYYY-MM-DD HH:MM` のままUNIX秒に変換する。）
 
