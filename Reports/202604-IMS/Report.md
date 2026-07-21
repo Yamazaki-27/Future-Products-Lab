@@ -306,6 +306,8 @@ DTRで引ける重量では6tモデルのPRとして弱いので、2ｔ以上は
 
 社内営業・スタッフ向けに実機説明会を実施した。動画と合わせて、寄せられた主な意見をまとめる。
 
+**説明会前の準備動画**：[https://youtu.be/o8cDDikqjew](https://youtu.be/o8cDDikqjew)
+
 **実機デモ動画**：[https://youtu.be/gqLxEoaikHY](https://youtu.be/gqLxEoaikHY)
 
 ### 営業・スタッフからの主な意見
