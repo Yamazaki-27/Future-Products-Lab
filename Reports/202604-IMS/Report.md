@@ -297,12 +297,12 @@ DTRで引ける重量では6tモデルのPRとして弱いので、2ｔ以上は
 ## 橋本追記　（関西空港より）
 先週動画見せた他にも写真が届いてて、台車系だとこっちの方がイメージやすいかも。
 
-<img src="20210105_094351 (Grand).jpg" width="390">　　
-<img src="Appli Pousseur MC 6000.jpg" width="390">　
-<img src="MC500.jpg" width="390">　　
-<img src="MC1000.jpg" width="390">　
-<img src="MCMicro Tracteur pousseur (MC2000).jpg" width="390"> 
-<img src="20190626_111427.jpg" width="390"> 
+<img src="Images/hashimoto/20210105_094351 (Grand).jpg" width="390">　　
+<img src="Images/hashimoto/Appli Pousseur MC 6000.jpg" width="390">　
+<img src="Images/hashimoto/MC500.jpg" width="390">　　
+<img src="Images/hashimoto/MC1000.JPG" width="390">　
+<img src="Images/hashimoto/Micro Tracteur pousseur (MC2000).jpg" width="390"> 
+<img src="Images/hashimoto/20190626_111427.jpg" width="390"> 
 <a id="add-20260713-yamazaki"></a>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 <font color="#2980b9"><b>▼ 追記（AYamazaki 26/07/13）</b></font>
